@@ -1,0 +1,3 @@
+- [[A personal search database that interfaces not only with just your own notes but also the notes of other knowledge gardens]]
+- The ideas around integrating your note-taking tools and srs system directly with the articles you read and being able to note-take within posts directly within your browser and being able to see them when you revisit.
+- Automatic summaries of pages when you visit them

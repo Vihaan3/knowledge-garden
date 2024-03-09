@@ -1,0 +1,1 @@
+Internal version of Double Crux. I seem to do it all the time naturally while journaling. Super fast typing speed seems to be the best way to actively do this though, if you want to talk at the speed that you think. 

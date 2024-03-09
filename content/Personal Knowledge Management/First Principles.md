@@ -1,0 +1,5 @@
+This is a [[Mental Models]] that asks: What is the most efficient way to solve a problem if you started from scratch? If you look past humanity's attempts to solve it, what is the best approach if you reasoned from its fundamental principles.
+
+This is extremely important if you want to have impact in any sort of way as a startup founder ([[How to Get Startup Ideas]]), blogger, researcher, or general knowledge worker (because [[Contrarian Thinking]] is a major role in most ppl's success).
+
+Andy Matuschak seems to be especially good at this. I think an important part of being able to reason from first principles is simply not consuming/thoughtfully and critically consuming all the information you see before immediately agreeing with it. This is something I think I fall into often, and something that slower reading, [[Evergreen Notes]], and [[Careful Thinking]] is enabling me to do. 

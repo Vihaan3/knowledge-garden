@@ -1,0 +1,3 @@
+There's so many studies that can only be done effectively with AI. AI will be tremendously helpful for any study that relies on a lot of repetitive tasks that stay constant per additional person in the study. Even aside from things like easier research and better writing, this by itself could push science a lot. This is probably a relevant line of attack in improving science/learning more about [[Progress Studies]] 
+
+I realized this as I was reading [[Jacob GW]]'s study on optimal flashcard creation. Though only abt a dozen ppl actually ended up participating, he could've scaled as much as he wanted. Even a dozen wouldn't have been feasible without AI. 

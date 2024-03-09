@@ -1,0 +1,3 @@
+This is true from a knowledge standpoint. However, there is value to all that extra time spent comparing different examples and giving elaborate arguments backed by large amounts of research and data. I think that for all of their failings ([[Why Books Don't Work]]), books are actually pretty good at helping you build [[Mental Models]] of things, and serve as pseudo-[[Enacted Experiences]]. They're not necessarily good for helping your remember things, which is something that could be worked on, but I think that other than that they're pretty good. 
+
+Paul Graham: "Your mind is like a compiled program you've lost the source of. It works, but you don't know why." https://paulgraham.com/know.html 

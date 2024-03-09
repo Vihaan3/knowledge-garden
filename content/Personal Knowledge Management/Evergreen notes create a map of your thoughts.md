@@ -1,0 +1,1 @@
+As you'll jump from one idea to another and notice what's missing, you'll gradually fill the map in greater and greater detail.

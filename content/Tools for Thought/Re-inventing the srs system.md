@@ -1,0 +1,3 @@
+- [ ] Read Andy Matuschak's thoughts on how to improve spaced repetition systems. Look for full write ups and through his notes
+
+Building the building blocks for allowing ppl to customize srs for their own needs. Also integrating an easy one to the web that also auto-generates cards every few minutes while you’re reading and sends you email reminders for your review sessions. Also you can add multiple prompt response combos for one card and it randomly chooses for things that you want to actually remember and not memorize. Maybe ai can create those alternatives as well.

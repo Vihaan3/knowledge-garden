@@ -1,0 +1,1 @@
+https://thesephist.com/posts/notation/

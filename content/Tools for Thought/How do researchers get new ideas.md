@@ -1,0 +1,3 @@
+One of my main goals for my tft research is pushing the way we approach the state of the art and accelerating progress. Researchers and founders are probably the two groups of people pushing the state of the art the most, and I already have a pretty good grip on how founders do it from [[Life Advice for Ambitious Teenagers]], [[How to (tech) Startup]], and [[How to Get Startup Ideas]]. 
+
+**This is a really important thing to be thinking about to make sure that my work is done in an authentic context.**

@@ -1,0 +1,7 @@
+https://timkadlec.com/remembers/2020-03-18-building-with-friction/
+
+These days everyone talks about having low-friction and no-friction set-ups and stuff. And that's good, especially for things like building habits and things like that. But I think there's also value in intentionally designing friction into some systems to remove clutter. Everything in modern stuff feels *cluttered.* There's too little friction. You can just throw everything you want. There's some kind of value you get from things being uncluttered, simplistic, and high effort. I don't want everything to be as easy as possible. There's some level of achievement and fulfillment you achieve thru effort. Also high friction makes keeping track of things and information overload and overflow easier.
+
+Like there's value in writing down all your information and highlights on an index card instead of having everything auto-sync, because it forces you to choose your words carefully and make sure that you really want to highlight something when you're doing so. Also, something about writing just feels so much better. 
+
+This is also important for helping protect users attention https://adamwiggins.com/making-computers-better/attention. I think there could be some value in building high-friction systems that force you to think deeply.
