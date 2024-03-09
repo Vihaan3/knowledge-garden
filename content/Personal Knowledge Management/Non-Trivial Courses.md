@@ -28,6 +28,6 @@ https://course.non-trivial.org/lessons/how-not-to-throw-away-your-best-shot
 https://80000hours.org/articles/college-advice/
 https://ea-internships.pory.app/board
 
-Reach high, but have backups because they will let you truly reach high. (Or alternatively burn all your ships and put yourself right in the arena. )
+Reach high, but have backups because they will let you truly reach high. (Or alternatively burn all your ships [[Burning ships]])
 
 https://www.givingwhatwecan.org/get-involved/share-our-ideas/guide-to-talking-about-effective-altruism
