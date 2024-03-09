@@ -1,4 +1,3 @@
-
 ## Srs-first
 I think it would be something like anki but with the ability to write longer things and more text editing options + linking and better graph views. I don’t see why srs and notetaking have to be separate. It would probably have a different scheduling algorithm and you can suggest the first day you want it to repeat and what time interval (long, short, medium) and there’s a default one otherwise. Multiple different types of cards (prompts will be like standard flash cards with a question as the question and multiple possible answers as answers that you want to hide until you come up with a new one, while normal will just be a standard obsidian sheet, and maybe others as well). [[Re-inventing the srs system]]
 
