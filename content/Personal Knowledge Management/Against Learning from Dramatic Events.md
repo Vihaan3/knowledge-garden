@@ -8,4 +8,3 @@ What the Learning from Dramatic Events mindset leads to is a reactionary mindset
 
 One reason it's good to learn from dramatic events is because by human nature, we are made to overreact to something that seems like a right now threat, and when the vast majority of society tells you to do something, the politically popular thing to do is to overreact and overcorrect. 
 
-#blog

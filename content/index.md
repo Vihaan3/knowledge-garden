@@ -17,7 +17,7 @@ Ideally, all of my notes should be [Evergreen](https://notes.andymatuschak.org/E
 File Structure (all of those links are really internal)
 - [Tools for Thought](https://vihaan3.github.io/knowledge-garden/Tools-for-Thought/)
 - [Personal Knowledge Management](https://vihaan3.github.io/knowledge-garden/Personal-Knowledge-Management/)
-- [Competitive Programming](https://vihaan3.github.io/knowledge-garden/Programming/): These files are completely inward facing and meant as notes for myself. 
+- [Competitive Programming](https://vihaan3.github.io/knowledge-garden/Programming/): These files are completely inward facing and meant as notes to help myself learn for topics that I wanted to pick up quickly.
 - [Fullstack Dev](https://vihaan3.github.io/knowledge-garden/Programming/Fullstack-Dev/): Ditto.
 
 Common Abbreviations:

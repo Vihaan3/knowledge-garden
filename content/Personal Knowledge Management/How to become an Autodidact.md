@@ -1,6 +1,3 @@
-#blog 
-
-Subtitle: From an aspiring an autodidact
 
 # Autodidactism Sources to Explore
 https://zenhabits.net/unschool/

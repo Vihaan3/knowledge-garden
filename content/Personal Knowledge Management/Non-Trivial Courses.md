@@ -21,7 +21,7 @@ The value of nuclear safety measures depends on both:
 Neither factor in isolation is enough to make a good decision. To increase the expected value of some safety measure, we could **(1) increase the chances it prevents a disaster or (2) decrease how bad a disaster would be given that one does occur.**
 
 **Pascal's Mugging**
-Expected value doesn't work in extremes. For example if you believed there was a 99.99% chance that someone is lying when they say that you have to give them $10 and in exchange they'll give you $100,000,000, according to expected value you make $10k from making that bet.
+Expected value doesn't work in extremes. For example if you believed there was a 99.99% chance that someone is lying when they say that you have to give them $10, and in exchange they'll give you $100,000,000, according to expected value you make $10k from making that bet.
 
 **How to Not Throw Away your Career + Opportunities**
 https://course.non-trivial.org/lessons/how-not-to-throw-away-your-best-shot

@@ -1,9 +1,7 @@
-**For this one, go through the entire Julian Shapiro process**
-
 Creating spaced repetition inbox for your ideas
 https://nesslabs.com/how-to-think-better
 https://fs.blog/a-few-lessons-from-sherlock-holmes
-
+https://www.youtube.com/watch?v=L1kbrlZRDvU
 ## Notes
 
 - From [[How to Get Startup Ideas]] and https://paulgraham.com/getideas.html

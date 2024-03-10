@@ -9,4 +9,3 @@ Me: Set a reasonable time limit for whatever problem. This could be 5 minutes, 1
 
 Source: Thomas Frank “The Skill You're Slowly Losing"
 
-#blog 

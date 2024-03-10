@@ -4,9 +4,6 @@
 [[Counterfactual]]
 [[Memetics]]
 [[Trapped Priors]]
-
-#blog 
-
 # Further Reading
 https://fs.blog/mental-models/
 # Mental Models and How to Use Them
