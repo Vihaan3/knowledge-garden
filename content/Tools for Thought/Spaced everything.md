@@ -4,7 +4,7 @@ Spaced repetition makes scheduling easy, so it helps a lot with any sort of task
 
 However, the scheduling of all the srs apps I've come across are pretty inflexibly and are completely meant for learning (that's what they were designed for). Truly doing spaced everything will require [[Re-inventing the srs system]]
 ## Use Cases
-- [Salience Prompts](https://notes.andymatuschak.org/zF8pCkzLVarNsaFyBxF9Aib)
+- [Salience Prompts](https://notes.andymatuschak.org/zF8pCkzLVarNsaFyBxF9Aib), [[How to train yourself to think a certain way]]
 - Ideas
 - Writing
 - Certain types of tasks

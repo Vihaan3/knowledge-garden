@@ -8,3 +8,6 @@ I really like writing Evergreen Notes because [[Evergreen notes create a map of 
 - You gradually fill the notes out over time: [[Incremental Thinking]]
 
 I'm not sure about this, but I think that [[Evergreen Notes should mainly be used for frontier thoughts]], and that's what I've been doing so far.
+
+## Future Directions To Enhance Note-taking
+https://thesephist.com/posts/hyperlink/

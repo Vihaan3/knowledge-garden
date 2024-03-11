@@ -76,3 +76,4 @@ https://www.entrepreneur.com/growing-a-business/meet-the-elite-team-of-superfore
 	9. Bring out the best in others
 	10. Master deep, deliberative practice
 	11. Don't treat commandments as commandments
+Good summary: https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/
