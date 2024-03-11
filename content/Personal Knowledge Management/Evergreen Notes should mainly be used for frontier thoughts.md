@@ -1,0 +1,1 @@
+I'm not very sure about this, but taking [[Evergreen Notes]] takes a long time, and I think that it should only be used to incrementally develop your ideas for frontier thoughts. Outline note-taking is probably best for almost everything else.

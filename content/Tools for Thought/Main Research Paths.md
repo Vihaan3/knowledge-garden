@@ -1,5 +1,5 @@
 
-- Spaced everything -> useful for anything where you want automatic scheduling logic for something based on your performance with it last time (inboxes, habits, etc)
+- [[Spaced everything]] -> useful for anything where you want automatic scheduling logic for something based on your performance with it last time (inboxes, habits, etc)
 	- Obsidian plugin
 	- Experiments in Anki
 - How can we consume information better? + increasing **Serendipity**
@@ -7,5 +7,5 @@
 	- [[Evergreen Notes]]
 	- [[Expert and AI Mnemonic Mediums]]
 	- Peripheral vision
-- Search engines/browsers of the future
+- [[Search of the future]]
 - [[Two Types of Thinking]]

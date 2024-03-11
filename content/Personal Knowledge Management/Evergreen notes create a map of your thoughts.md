@@ -1,1 +1,1 @@
-As you'll jump from one idea to another and notice what's missing, you'll gradually fill the map in greater and greater detail.
+"Landmark" ideas that you think about often will find their way into your notes sooner, and the links between different landmark notes inspire iteratively more notes until you've got a rough mental model of your head.

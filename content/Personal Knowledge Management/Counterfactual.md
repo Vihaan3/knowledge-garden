@@ -1,4 +1,3 @@
-
 Counterfactual: alternate universe
 If you just look at how much good you're doing, you miss on how much you could be doing.
 
