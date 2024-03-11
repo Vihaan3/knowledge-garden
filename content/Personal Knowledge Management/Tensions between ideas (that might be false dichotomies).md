@@ -1,0 +1,8 @@
+- [[Being in motion vs. being in action]]
+- Convergent thinking vs. Divergent Thinking [[Two Types of Thinking]]
+- [[Massive Input vs Spaced Repetition]]
+- Planning/Having Clear Goals vs Letting Serendipity Happen 
+- From *Superforecasting*: [[How to make good predictions]]
+	- Being underconfident vs overconfident
+	- Under-updating vs over-updating ([[Against Learning from Dramatic Events]])
+	- Inside vs Outside

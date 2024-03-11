@@ -1,2 +1,2 @@
-[[How to have good predictions]]
+[[How to make good predictions]]
 

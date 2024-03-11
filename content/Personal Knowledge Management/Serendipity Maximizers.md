@@ -4,4 +4,4 @@ To some extent, we can control the amount of luck we have in our lives. I've rea
 - 1-1s and talking to ppl for coming across new ideas and patterns of behavior.
 - [[Cold Emailing]] for the same as 1-1s and also new opportunities.
 - [[People Skills]] for being able to create the change you want to see in the world. This is probably even more important than things like building new innovative tools. 
-- [[How to have good predictions]]
+- [[How to make good predictions]]
