@@ -3,7 +3,7 @@ Rule 1:
 Rule 2:
 - Career capital: there are many things that make up having a good job, and you need to build the necessary skills over time in order to get there. In order to do this, it's important to adopt a Craftsman's mindset. 
 - The way to become a craftsman is through stretching to what's difficult and receiving immediate feedback so that you know what to work on and improve
-- The craftsman's approach to deliberate practice isn't present in most fields outside of things like sports and music, so if you can be one of the few ppl doing it, you'll blow by others.
+- The craftsman's approach to [[Deliberate Practice]] isn't present in most fields outside of things like sports and music, so if you can be one of the few ppl doing it, you'll blow by others.
 - Steps to becoming a craftsman
 	1. Decide what capital market you're in (either a winner-take-all market where there's only one major skill that's in high demand or an auction where multiple skill combos can exist)
 	2. If you're in an auction market, identify the capital types that are important and try to build capital in open opportunities
