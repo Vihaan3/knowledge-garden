@@ -6,3 +6,5 @@ This means that as a...
 - Guitarist: continuously speed up the metronome, keep using new picking styles, play unfamiliar songs
 - Writer:
 	- Keep pushing yourself to to learn more, learn better, learn faster, think better, think deeper, read better, read deeper, to write better, write faster, revise better, ask more people for feedback 
+
+This leads to some interesting observations: [[School can't be comfortable]]

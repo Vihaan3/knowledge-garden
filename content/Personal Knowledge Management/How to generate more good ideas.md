@@ -14,10 +14,12 @@ https://www.youtube.com/watch?v=L1kbrlZRDvU
 			- conversations: this is where being friends with smart people helps a ton as well
 			- content: this is where being around good content helps as well
 			- using some idea prompts with srs system: not sure whether this helps or harms, but i think to some degree it helps. An srs system can help ensure that the best prompt generators show up more often than other ones. 
-		- Schedule your time intentional to avoid any one side taking over
+		- Schedule your time intentionally to avoid any one side taking over
 			- Schedule some time for consumption
 			- Schedule time for unstructured thinking (times without input but also without any structured questions)
 			- Schedule time for active and structured thinking about a subject using [[Deep Work]]'s technique 
+			- Schedule time for complete relaxation
 		- Make sure your knowledge accretes over time
 			- SRS as an inbox for transient ideas that you can build on over time
 			- Evergreen Note-taking as a way to add to your ideas over time
+		- Using prompts. I'm not completely sure about this one, but I think that it could help because of creativity faucet type reasons.
