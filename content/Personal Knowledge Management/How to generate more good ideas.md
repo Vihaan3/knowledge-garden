@@ -23,3 +23,4 @@ https://www.youtube.com/watch?v=L1kbrlZRDvU
 			- SRS as an inbox for transient ideas that you can build on over time
 			- Evergreen Note-taking as a way to add to your ideas over time
 		- Using prompts. I'm not completely sure about this one, but I think that it could help because of creativity faucet type reasons.
+		- [[Read rebuttals of your favorite books]] (and blog posts/ideas), and if none exist, think of your own. This will teach you [[Contrarian Thinking]], which is where the most valuable ideas are born.

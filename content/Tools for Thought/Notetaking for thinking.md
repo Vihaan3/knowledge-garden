@@ -12,4 +12,11 @@ I think that that treating it as srs first is best, but there's plenty of differ
 
 In a note-taking first approach, you could have different types of notes (some for ideas, others for fully fleshed notes, others for prompts, etc), and then integrate a lot of those other ideas. 
 
-## Collection of all the new ideas
+## Breaking it down into quick tests
+
+- Tagging 
+- Something like Linus’s thing makes connections appear out of thin air
+- Better srs for life + explore Kawara
+	- Linking between prompts 
+- AI prompts that can structure thinking in different contexts
+- Better capture and potentially differentiation between ideas and other things
