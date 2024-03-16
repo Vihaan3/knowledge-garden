@@ -18,3 +18,4 @@
 ### (Slightly) More distant future
 - A definitive project for [hack club](https://hackclub.com/) that can transform the capabilities and lives of all hack clubbers.
 - Something like [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) (most likely a prototype for fun so that I can improve my design skills). Maybe for Hack Club?
+- A better read-it-later + downtime application that uses spaced repetition scheduling. Basically [Sofa](https://www.sofahq.com/) + [Pocket](https://getpocket.com/) + spaced repetition. 
