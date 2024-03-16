@@ -1,0 +1,3 @@
+I agree with Steven Johnson's suggestion that advice comes into view: https://www.youtube.com/watch?v=0af00UcTO-c&pp=ygUad2hlcmUgZ29vZCBpZGVhcyBjb21lIGZyb20%3D
+
+Because ideas are heavily interlinked, [[Ideas as social graphs]], they slowly fade into view as the right triggers and the right related ideas lead to this one. Many ideas will feel like they've been germinating for a while or seem really obvious in retrospect because you'd been thinking about those exact things but hadn't made the leap. [[Spaced everything]] type systems seem to be good for helping increase the speed with which they'll come into view because they serve as [[Idea Triggers]]

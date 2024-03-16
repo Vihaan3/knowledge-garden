@@ -14,6 +14,8 @@ There's three reasons these notes exist:
 
 Ideally, all of my notes should be [Evergreen](https://notes.andymatuschak.org/Evergreen_notes), and I take a lot of inspiration from the way [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes), [Jacky Zhao](https://jzhao.xyz/), and [Jess Martin](https://notes.jessmart.in/Lab+Notebook/About+this+lab+notebook) take their notes. Unfortunately, most of these notes were taken before I decided to commit to taking [[Evergreen Notes]], but hopefully that's changed by the time you see this. 
 
+*Quirky bug: The note dates update every time I sync this with my Obsidian notes (which is everyday), so the dates for every note will almost always be within the last few days.*
+
 File Structure (all of those links are really internal)
 - [Tools for Thought](https://vihaan3.github.io/knowledge-garden/Tools-for-Thought/)
 - [Personal Knowledge Management](https://vihaan3.github.io/knowledge-garden/Personal-Knowledge-Management/)
