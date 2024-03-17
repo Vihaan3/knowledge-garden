@@ -1,8 +1,3 @@
-# Re-inventing the srs system for spaced everything
-[[Re-inventing the srs system for spaced everything]]
-
-# Re-inventing the srs system for memory
-
 [[Making Massive Input Better]]: integrating an easy one to the web that also auto-generates cards every few minutes while you’re reading and sends you email reminders for your review sessions. Also you can add multiple prompt response combos for one card and it randomly chooses for things that you want to actually remember and not memorize. Maybe ai can create those alternatives as well.
 ## Links
 https://michaelnotebook.com/bbms/index.html?utm_source=pocket_list
