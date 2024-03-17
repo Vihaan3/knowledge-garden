@@ -1,7 +1,7 @@
 https://logangraves.com/social-infrastructure
 
 ## Definition
-Social infrastructure is everything that connects our communities together.  We've both converged on the fact that a key goal should be promoting [[Agency]] as subtly as possible during  [[2-18-2024 Logan]].
+Social infrastructure is everything that connects our communities together.  We've both converged on the fact that a key goal should be promoting [[Agency]] as subtly as possible during [[2-18-2024 Logan]].
 ## Major Questions
 - What's the focus on inspiring innovation and building and entrepreneurship and excellence vs just providing a community and which is preferable? Basically define roughly what you think this social infrastructure should be. This should vaguely affect your search.
 - How does one engineer culture.
