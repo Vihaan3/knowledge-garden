@@ -1,3 +1,5 @@
+See [[Project Map.canvas|Project Map]] to see how most of these ideas connect. 
+
 *I don't think I'm doing a lot of these ideas justice. If you want to learn more about any of them or want to collaborate, reach out. If these projects spark any ideas for you, feel free to work on those ideas by yourself if you'd like!  (Please reach out and let me know.) I'm too excited about all of these ideas to claim any sort of ownership over them, and I'd love to see them done well.*
 
 ### Now

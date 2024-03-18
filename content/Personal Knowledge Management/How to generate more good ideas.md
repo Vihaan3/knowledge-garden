@@ -1,7 +1,10 @@
 Creating spaced repetition inbox for your ideas
+
+**Read these first**
 https://nesslabs.com/how-to-think-better
 https://fs.blog/a-few-lessons-from-sherlock-holmes
 https://www.youtube.com/watch?v=L1kbrlZRDvU
+https://www.paulgraham.com/smart.html
 ## Notes
 
 - From [[How to Get Startup Ideas]] and https://paulgraham.com/getideas.html

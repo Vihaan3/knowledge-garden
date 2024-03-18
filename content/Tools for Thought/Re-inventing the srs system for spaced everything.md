@@ -16,6 +16,7 @@ A key question: should I build design off of deck-first hierarchies or tag-first
 	- Habits should probably pop up every day for the first few days, every 2 days for a bit after that, and gradually increase.
 - Reading inbox
 	- More customizability for what day you want it to repeat. Probably after the 3-4 options that show up at the bottom, there's an input box for how many days you want it to repeat in. 
+	- After you review a deck, there should be an option to add it to the deck for today that you can review later.
 
 For certain types of decks there should also be a minimum number of cards in a day (i.e. maybe you want to read at least 2 things from your reading inbox every day.)
 

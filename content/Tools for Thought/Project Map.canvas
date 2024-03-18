@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"90d4134df6ec4205","type":"file","file":"Tools for Thought/Notetaking for thinking.md","x":-220,"y":-260,"width":380,"height":100},
+		{"id":"4e8edf31ba4e4ec5","type":"text","text":"Other quick tests (AI prompts, dual thinking, etc)","x":-400,"y":-60,"width":250,"height":60},
+		{"id":"d438b38cd1da05e3","type":"text","text":"Obsidian Plugin (for testing spaced repetition in it)","x":0,"y":-60,"width":250,"height":60},
+		{"id":"0e6cfcfb0d7acc65","type":"text","text":"flashcard chrome extension","x":395,"y":400,"width":250,"height":60},
+		{"id":"8e06cad151aa77c7","type":"file","file":"Tools for Thought/Spaced everything.md","x":-200,"y":210,"width":400,"height":50},
+		{"id":"e9a362c6f0c7ce1b","type":"file","file":"Tools for Thought/Building a better memory system.md","x":320,"y":135,"width":400,"height":100},
+		{"id":"564e9125a3995573","x":520,"y":-360,"width":400,"height":100,"type":"text","text":"# **Potentially Interesting Things**"},
+		{"id":"952b21b9b6c0969b","x":595,"y":-60,"width":250,"height":60,"type":"text","text":"Search Engine"},
+		{"id":"357491f0c6878295","x":960,"y":-90,"width":250,"height":60,"type":"text","text":"OS -> itemized and otherwise"},
+		{"id":"049818c16483fbbe","x":960,"y":-600,"width":250,"height":60,"type":"text","text":"AI that trains on user patterns and behavior (for scheduling, task lists, email, etc)"},
+		{"id":"1bf61ed4ccbf7c47","x":35,"y":-660,"width":560,"height":220,"type":"text","text":"# Potential Order\n1. Obsidian Plugin\n2. Flashcard chrome extension\n3. Spaced everything\n4. Notetaking for thinking quick tests\n5. Explore interesting things along this"}
+	],
+	"edges":[
+		{"id":"1738840d2e0da39e","fromNode":"90d4134df6ec4205","fromSide":"bottom","toNode":"4e8edf31ba4e4ec5","toSide":"top"},
+		{"id":"62420723c8b4395c","fromNode":"90d4134df6ec4205","fromSide":"bottom","toNode":"d438b38cd1da05e3","toSide":"top"},
+		{"id":"0a4baa99f0ad1ecd","fromNode":"e9a362c6f0c7ce1b","fromSide":"bottom","toNode":"0e6cfcfb0d7acc65","toSide":"top"},
+		{"id":"b927aded8aebb951","fromNode":"e9a362c6f0c7ce1b","fromSide":"left","toNode":"8e06cad151aa77c7","toSide":"right"},
+		{"id":"731d4477c11752fe","fromNode":"564e9125a3995573","fromSide":"bottom","toNode":"952b21b9b6c0969b","toSide":"top"},
+		{"id":"b354078727c924e2","fromNode":"564e9125a3995573","fromSide":"right","toNode":"357491f0c6878295","toSide":"top"},
+		{"id":"78844df9a93e7b6f","fromNode":"564e9125a3995573","fromSide":"top","toNode":"049818c16483fbbe","toSide":"bottom"}
+	]
+}
