@@ -1,4 +1,4 @@
-From [[Elijah Bodden]], on 2-26, really awesome idea that maybe the reason we're so good at learning when we can make ideas interconnect is because evolution has forced us to be really good at keeping track of social relationship and social graphs. A good way to build off of this could be to explore [[Why conversations lead to so many good ideas]] and making ideas engage in conversation???
+From [[Elijah]], on 2-26, really awesome idea that maybe the reason we're so good at learning when we can make ideas interconnect is because evolution has forced us to be really good at keeping track of social relationship and social graphs. A good way to build off of this could be to explore [[Why conversations lead to so many good ideas]] and making ideas engage in conversation???
 
 ## Interesting follow-ups from this idea
 1. We should look into building graph views that are more navigable and even better illustrate the connections as a social graph.
