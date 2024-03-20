@@ -1,0 +1,13 @@
+## Definition
+
+> Suppose you want to remember your shopping list. To do so using the method of loci, you visualize yourself in some familiar location – say, your childhood home. And then you visualize yourself walking from room to room, placing an item from your shopping list prominently in each room. When you go shopping, you can recall the list by imagining yourself walking through the house – your so-called _memory palace_ – and looking at the items in each room.
+https://numinous.productions/ttft/#two-cheers-for-mnemonic-techniques
+
+## Use Cases 
+I agree with Michael Nielsen and Andy Matuschak that memory palaces are a little bit overrated, but I think that they might be wrong about their power in dealing with conceptual knowledge. Knowledge seems best encoded through connections with other knowledge, so there might be some way to take the principles behind the method of loci and apply that to conceptual understanding. **Maybe you build an abstract space of all your knowledge of a certain subject, and visualize how new pieces of knowledge interact with old ones?**
+
+I find it especially useful for memorizing tasks and ideas like the ones that were mentioned in AM and MN's essay. I often have interesting thoughts during inconvenient times (shower, taking a test in school, talking to a friend, playing guitar, during a competitive programming exam). I have a permanent memory palace of my home, and I have a vivid image of an open notebook on the dining table. I number each day since I've started using the technique, and imagine myself writing down any to-do during an inconvenient time in that notebook in big letters using a marker. Every day, whenever I'm in the dining room (say I've just come back from school or I'm sitting down to dinner) I check the notebook in my mind palace for anything that I've forgotten to do. At the end of the day, I visualize myself turning the page and numbering a new day. This is sometimes lossy, but it's surprisingly effective.
+
+For especially important ideas, I'll encode them even more vividly. The other day, while taking a shower I decided I wanted to learn more about the history of personal computing pioneers, how search engines work, and text a number of friends I haven't talked to in a while. 
+
+I imagined walking into the house, looking to my right, and seeing Ted Nelson, Alan Kay, and Doug Engelbart sitting at the dining table. As I walked up the stairs, I placed the Google logo on each step and imagined Sundar Pichai at the top. I then walked into my room, and placed three friends there. 

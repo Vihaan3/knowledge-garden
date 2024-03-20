@@ -7,3 +7,7 @@ This is something that takes time and effort, but it's intensely valuable. Here 
 - Constantly question everything about life. This will make life somewhat less comfortable and easy to navigate, but it's the best way to develop contrarian ideas.
 
 Of course, there's good reasons that most trends exist. Most of your contrarian ideas will be wrong. But you only have to be right a few times. 
+
+## Special Use Cases for contrarian thinking
+- Writing essays (you need good ideas to [[How to Write Better]])
+- Starting up (the fastest growing startups are the ones that are based on contrarian ideas [[How to Get Startup Ideas]])

@@ -1,0 +1,12 @@
+While reading *Doing Good Better*, I've come across the idea of ossification with respect to moral values. There are periods of plasticity where change is easy, but values harden over time. This is obviously really interesting and important, but I think it also serves as a mental model for ideas and innovation in general. 
+
+During earlier stages of progress in the personal computing sphere, new paradigms and practices could easily come to power, and new tools could fairly easily become prominent. Google blew up at a time when the shape of the search engine market was very malleable, but decades of prominence has hardened the shape of the search engine industry to the point where it's almost folly to even dream of challenging Google. Alexander Obenauer's [[Itemized OS]] is a complete revamp of what personal computing could look like (and I think for the better), but it would completely reverse decades of paradigms and seems unlikely to actually be implemented.
+ 
+This echoes a lot of the ideas that Julian Shapiro discusses in [[How to (tech) Startup]] (especially the ones around timing, which is basically just a stage of plasticity to take advantage of). 
+
+**Some key ideas that this leads me to**:
+- Look for and take advantage of nascent fields that are still malleable
+- Look for fields that *could become* malleable in the near future. Most progress and innovation builds off of previous work, and small cracks in the shape that could be exploited. Going back to google, the rise of ChatGPT and the AI craze has made the information delivery market (a superset of the search engine market) has suddenly become malleable and Google looks somewhat vulnerable for the first time in a long time. 
+- The only way to make an ossified market malleable is by having some major change. This gives means that Alexander Obenauer's [[Itemized OS]] idea could only catch on if a) it was a massively transformative force in it's own right that quickly spread among both users and developers or b) if some other major advancement caused a massive rehaul of expectations on what the personal computer should look like
+
+**Rapid AI development could serve as a major advancement that would make almost any technical field around it far more malleable than before.** 
