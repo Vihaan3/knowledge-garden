@@ -1,4 +1,3 @@
-Built off of [[Future Blog Post Ideas]].
 
 - [[On the importance of friction]]
 - [[What we should be doing in English class]]
@@ -16,6 +15,7 @@ Built off of [[Future Blog Post Ideas]].
 - [[Craft vs Imperfection or Depth vs. Speed]]
 - [[How to make good predictions]]
 - How to actually build a proper tft movement [[Building a Community for Tools for Thought]], also look at notes in Anki and write a full write-up that summarizes actionable next steps.
+- [[Memetics]]
 - [[Massive Extensive Blog Post on Tools for Thought]]
 - Massive extensive blog post on social infrastructure 
 - Massive extensive blog post on serendipity.
