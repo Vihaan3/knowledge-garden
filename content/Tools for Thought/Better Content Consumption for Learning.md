@@ -4,5 +4,6 @@
 - [[Spaced everything]]
 - [[Consumption vs Thinking]]
 - [[Massive Input vs Slower Consumption]]
+- [[Making Massive Input Better]]
 - AI-powered auto-spaced repetition whenever you're reading something that forces you to pause every few minutes. 
 - Peripheral vision
