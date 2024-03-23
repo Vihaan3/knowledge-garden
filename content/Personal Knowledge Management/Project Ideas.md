@@ -3,11 +3,14 @@ See [[Project Map.canvas|Project Map]] to see how most of these ideas connect.
 *I don't think I'm doing a lot of these ideas justice. If you want to learn more about any of them or want to collaborate, reach out. If these projects spark any ideas for you, feel free to work on those ideas by yourself if you'd like!  (Please reach out and let me know.) I'm too excited about all of these ideas to claim any sort of ownership over them, and I'd love to see them done well.*
 
 ### Now
-- A [spaced repetition inbox](https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5) in Obsidian.        
-- A de-addiction app that takes inspiration from [Ana](https://github.com/UlisseMini/ana).
-- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[How to generate more good ideas]], and [[How to train yourself to think a certain way]].
-- Understanding how to [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]].
-- A few [[Social Infrastructure]] projects at [Hack Club](https://hackclub.com/) to make the community slightly more cohesive
+- Making
+	- A [spaced repetition inbox](https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5) in Obsidian.        
+	- A de-addiction app that takes inspiration from [Ana](https://github.com/UlisseMini/ana).
+	- A few [[Social Infrastructure]] projects at [Hack Club](https://hackclub.com/) to make the community slightly more cohesive
+- Learning
+	- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[How to generate more good ideas]], and [[How to train yourself to think a certain way]].
+	- Understanding how to [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]].
+	- About search
 ### Very near future
 - Learning more about AI
 	1. To understand if I might want to pursue a career in [alignment](https://www.alignmentforum.org/posts/5rsa37pBjo4Cf9fkE/a-newcomer-s-guide-to-the-technical-ai-safety-field)
