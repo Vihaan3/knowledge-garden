@@ -8,4 +8,4 @@ There needs to be an efficient way of remembering ideas in the long term. Collec
 Spaced repetition services make scheduling trivial, and you can use the Anki responses to make worse ideas float out while better ideas stay tightly in your orbit. 
 
 ## Writing
-Writing is the best way to push your thought and crystallize your ideas, because of reasons mentioned in [[Notation]]. The spaced approach to thinking needs writing so that you can build on your ideas each time you come across them.
+Writing is the best way to push your thought and crystallize your ideas, because of reasons mentioned in [[Writing Helps You Think]]. The spaced approach to thinking needs writing so that you can build on your ideas each time you come across them.

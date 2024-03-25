@@ -1,9 +1,9 @@
 - [[Massive Input vs Spaced Repetition]]
 - [[Evergreen Notes]]
 - [[Expert and AI Mnemonic Mediums]]
-- [[Spaced everything]]
 - [[Consumption vs Thinking]]
 - [[Massive Input vs Slower Consumption]]
 - [[Making Massive Input Better]]
+- [[Search of the future]]
 - AI-powered auto-spaced repetition whenever you're reading something that forces you to pause every few minutes. 
 - Peripheral vision
