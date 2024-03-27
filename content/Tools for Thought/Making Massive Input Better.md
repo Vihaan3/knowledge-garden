@@ -1,15 +1,8 @@
-The key questions here are:
-What is the goal of massive input?
-What are inefficiencies in massive input that stop it from achieving that goal?
+How can we make it easier to learn faster while also increasing the ability to recall and use that knowledge?
 
-Answer to 1. Help you build intuition/learn quickly in a field with massive amounts of information
+I think this problem can be broken down to two parts. 
+1. Better ways to search and gather information
+2. Better recall and application
 
-Answer to 2: You forget most of what you read and what are the chances that the right thing surfaces at the right time?
-
-Solutions: solutions to this revolve around quick information capture that surfaces at the right time. 
-For quick information capture, maybe a chrome extension that asks you at the end of every time you read/watch something if you want to save it. **If yes, you can add a few sentences of summary**, which combines with a summary from AI that lets it position it in an embedding space. It also suggests some relevant notes you can link it to (external link, not internal link like obsidian). Every time you read/watch something, a few related things and notes appear in the side. You can also search the entire database with both semantic and exa-like search. 
-
-Those notes and sentences that you add will re-appear whenever you go back to the original text, which should be a part of better search.
-
-An extension of this is [[Dealing with lots of good content]]
+Linus Lee is doing a lot of great work on #1 (https://thesephist.com/posts/monocle/, https://thesephist.com/posts/browser/, https://thesephist.com/posts/search-vs-nav/), and Andy Matuschak is one of the leading figures on #2 (https://andymatuschak.org/books, https://andymatuschak.org/prompts, https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG).
 
