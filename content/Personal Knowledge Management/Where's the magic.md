@@ -1,6 +1,5 @@
 I feel like there's a lot of opportunity for magic that's missing in the world. 
-
-
+https://www.youtube.com/watch?v=IQvzX0Z3HE4
 ### Design
 
 ### Learning

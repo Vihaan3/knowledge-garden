@@ -1,0 +1,2 @@
+It's impossible to have everything. You can't do *all* of the fun personal projects that you want to do, while having a great friend group, a great relationship with your family, great physical health, etc. 
+It's important to understand this, make peace with it, and then move on and do the best you can to live a good life.
