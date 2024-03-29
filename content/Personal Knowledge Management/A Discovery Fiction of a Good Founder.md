@@ -9,3 +9,5 @@ Basically I just ran a "what would an awesome founder look like" simulation in m
 - innovates fast and consistently
 	- builds this into the cultures that he creates
 		- active tools for providing anonymous feedback, people are incentivized to give helpful feedback/ideas, people are given days/weeks off to explore their own ideas, monthly hackathons
+		- there's a sense of "hacking with your friends" that leads to experimentation and ideas
+		- creative freedom for the devs, and an emphasis on devs deciding what they do (this is IMO a major problem with a lot of companies. I don't think the job of a dev should be to just put into reality decisions made by business people. Ideally, devs decide, design, and implement themselves in a creative loop.)

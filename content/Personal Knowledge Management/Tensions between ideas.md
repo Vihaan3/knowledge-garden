@@ -1,6 +1,7 @@
 
 These are all false dichotomies; there is a fine balance for each of these that is heavily context dependent.
 
+- [[Setting Goals vs. Not]]
 - [[Being in motion vs. being in action]]
 - Convergent thinking vs. Divergent Thinking [[Two Types of Thinking]]
 - [[Massive Input vs Spaced Repetition]]
