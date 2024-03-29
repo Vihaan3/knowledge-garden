@@ -9,7 +9,7 @@
 		- [[Life Advice]], [[Life Advice for Ambitious Teenagers]]
 - [[Search of the future]]
 - [[Tensions between ideas]]
-- [[What my tools for thought research should be]] -> use the Engelbart quote and try to break it down to get new and better ideas.
+- [[Engelbart on aiding cognition]] -> use the Engelbart quote and try to break it down to get new and better ideas.
 - [[How to generate more good ideas]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think
 - How to [[Dealing with lots of good content]]
 - [[Craft vs Imperfection or Depth vs. Speed]]

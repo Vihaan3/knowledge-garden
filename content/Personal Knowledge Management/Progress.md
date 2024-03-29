@@ -1,5 +1,7 @@
 Is progress actually good? Should [[Progress Studies]] be a thing? Has progress been net good historically and/or do we need progress now for [[What We Owe The Future]] type reasons?
 
+> The human condition has never enjoyed a Golden Age. - Daniel Walker Howe 
+
 TO CONSUME
 https://youtu.be/Qp1pNlLCta4
 https://rootsofprogress.org/progress-studies-a-moral-imperative

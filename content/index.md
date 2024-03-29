@@ -1,7 +1,7 @@
 ## Me
 Hey! I'm Vihaan. 
 
-I'm doing my best to learn and think more about the world, and I write all of my best thoughts here. Right now, I'm fascinated by the idea of building tools that can augment cognition, and building [[Social Infrastructure]] Currently, I'm especially interested in serendipity ([[Serendipity Maximizers]], [[Serendipitous Idea-Formation]]) and [[Making Massive Input Better]].
+I'm doing my best to learn and think more about the world, and I write all of my best thoughts here. Right now, I'm fascinated by the idea of [[What my research should be |building tools that can augment cognition]], and building [[Social Infrastructure]]. I'm especially interested in [[Making Massive Input Better]].
 
 Visit my [Substack](https://vihaansondhi.substack.com/about), for a more in-depth introduction. It's serving as my personal website until I create one. 
 
