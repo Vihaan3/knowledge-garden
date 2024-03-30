@@ -8,7 +8,7 @@
 		{"id":"357491f0c6878295","type":"text","text":"OS -> itemized and otherwise","x":960,"y":-90,"width":250,"height":60},
 		{"id":"049818c16483fbbe","type":"text","text":"AI that trains on user patterns and behavior (for scheduling, task lists, email, etc)","x":960,"y":-600,"width":250,"height":60},
 		{"id":"1bf61ed4ccbf7c47","type":"text","text":"# Potential Order\n1. Spaced everything\n2. Notetaking for thinking quick tests\n3. Explore interesting things along this","x":35,"y":-660,"width":560,"height":220},
-		{"id":"4e8edf31ba4e4ec5","type":"text","text":"Other quick tests (AI prompts, dual thinking, etc)","x":-155,"y":0,"width":250,"height":60}
+		{"id":"4e8edf31ba4e4ec5","type":"text","text":"Other quick tests (AI prompts, dual thinking)","x":-155,"y":0,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1738840d2e0da39e","fromNode":"90d4134df6ec4205","fromSide":"bottom","toNode":"4e8edf31ba4e4ec5","toSide":"top"},

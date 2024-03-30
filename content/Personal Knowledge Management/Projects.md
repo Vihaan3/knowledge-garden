@@ -5,7 +5,7 @@ See [[Project Map.canvas|Project Map]] to see how most of these ideas connect.
 ### Now
 - Making
 	- A [spaced repetition inbox](https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5) in Obsidian.        
-	- A de-addiction app that takes inspiration from [Ana](https://github.com/UlisseMini/ana).
+	- A search engine that indexes my favorite websites.
 	- A few [[Social Infrastructure]] projects at [Hack Club](https://hackclub.com/) to make the community slightly more cohesive
 - Learning
 	- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[How to generate more good ideas]], and [[How to train yourself to think a certain way]].

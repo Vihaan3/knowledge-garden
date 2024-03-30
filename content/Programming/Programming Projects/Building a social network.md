@@ -1,0 +1,1 @@
+https://github.com/hackclub/scrapbook?tab=readme-ov-file#how-does-it-all-work-underneath -> for storing data 
