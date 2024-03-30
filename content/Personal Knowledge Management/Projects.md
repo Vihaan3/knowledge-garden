@@ -4,13 +4,17 @@ See [[Project Map.canvas|Project Map]] to see how most of these ideas connect.
 
 ### Now
 - Making
+	- A personal search engine that indexes some of my favorite slices of the web
+		- Building my own crawler
+		- Building my own parser
+		- Semantic search
+	- Semantic search for these notes
 	- A [spaced repetition inbox](https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5) in Obsidian.        
-	- A search engine that indexes my favorite websites.
 	- A few [[Social Infrastructure]] projects at [Hack Club](https://hackclub.com/) to make the community slightly more cohesive
 - Learning
+	- **About search**
 	- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[How to generate more good ideas]], and [[How to train yourself to think a certain way]].
 	- Understanding how to [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]].
-	- About search
 ### Very near future
 - Learning more about AI
 	1. To understand if I might want to pursue a career in [alignment](https://www.alignmentforum.org/posts/5rsa37pBjo4Cf9fkE/a-newcomer-s-guide-to-the-technical-ai-safety-field)
