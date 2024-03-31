@@ -1,4 +1,3 @@
-#evergreen 
 These are all false dichotomies; there is a fine balance for each of these that is heavily context dependent.
 
 - [[Setting Goals vs. Not]]

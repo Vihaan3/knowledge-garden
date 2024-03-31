@@ -1,4 +1,4 @@
-#evergreen #pattern 
+#pattern 
 Inspiration:
 https://thesephist.com/posts/browser/
 https://tyler.cafe/information_forest?utm_source=pocket_mylist

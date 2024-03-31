@@ -1,4 +1,3 @@
-#evergreen 
 - [[On the importance of friction]]
 - [[What we should be doing in English class]]
 - Some kind of quantified self-type project?

@@ -1,4 +1,3 @@
-#seed 
 Realization sparked by:
 1. My sister forcing me to watch camp rock
 2. Listening to [Come Alive](https://www.youtube.com/watch?v=BURBlSYPmBU) 

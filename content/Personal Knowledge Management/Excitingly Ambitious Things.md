@@ -1,4 +1,3 @@
-#evergreen 
 [[Projects]] on a broader scale.
 
 - Doing a deep dive into how search and AI works, and building some cool projects that can mix them together + quick testing if AI alignment might be a suitable career

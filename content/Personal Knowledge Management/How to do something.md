@@ -1,4 +1,3 @@
-#seed 
 There's two ways to really do something consistently. 
 
 A) Build a dedicated habit via tools from [[Atomic Habits]] (tying the habit to a specific time and place has been best)

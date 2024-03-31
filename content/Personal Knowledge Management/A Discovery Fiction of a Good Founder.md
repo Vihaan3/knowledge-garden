@@ -1,4 +1,3 @@
-#seed
 Inspired by https://michaelnotebook.com/df/index.html
 
 Basically I just ran a "what would an awesome founder look like" simulation in my head, and here's what I got.

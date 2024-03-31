@@ -1,4 +1,3 @@
-#seed 
 Important for both [[Social Infrastructure]] and [[How can we make memory systems widespread]]. Probably could help to know more about [[How to make ideas spread]]. It's also important to keep the idea of [[Ossification]] in mind.
 
 ## Sivers Ideas

@@ -1,4 +1,3 @@
-#seed 
 https://mindingourway.com/stop-trying-to-try-and-try/
 https://mindingourway.com/there-is-no-try/
 

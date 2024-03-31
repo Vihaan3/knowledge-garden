@@ -1,4 +1,3 @@
-#seed 
 [[Superforecasting]]
 ## To-Dos
 
