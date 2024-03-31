@@ -4,7 +4,7 @@ The current tools for thought research scene is [oversaturated with broadly iden
 
 My aspiration is to eventually build [new mediums](https://thesephist.com/posts/medium/) based off core primitives which are themselves based off some **fundamental insights on cognition**. 
 
-Gaining these insights requires understanding [[How to generate more good ideas|idea generation]] and striving to do [serious work](https://numinous.productions/ttft/#serious-work) both as a tool for thought creator and in separate authentic contexts. 
+Gaining these insights requires understanding [[Generating good ideas|idea generation]] and striving to do [serious work](https://numinous.productions/ttft/#serious-work) both as a tool for thought creator and in separate authentic contexts. 
 #### Powerful quotes that have influenced my vision
 
 >"A means of increasing the capability of a man to **approach** a complex problem situation, **gain comprehension** to suit his particular needs, and to **derive solutions** to problems.” https://www.dougengelbart.org/content/view/138

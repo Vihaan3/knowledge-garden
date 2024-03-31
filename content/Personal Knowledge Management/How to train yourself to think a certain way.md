@@ -6,4 +6,4 @@ I'll start with how I trained myself to be better at noticing friction in my onl
 - Picked up [[Evergreen Notes]] at this time and used them to push the frontiers of my thought on this.
 - Created an anki deck for my ideas, which ensures they repeat, and ensures that I think about them often
 - Write down my ideas in journals 
-- A lot of this probably has some sort of knowledge faucet type effect from [[How to generate more good ideas]], where I'm trying my brain to get better ideas and to pay more attention to the ideas that I have
+- A lot of this probably has some sort of knowledge faucet type effect from [[Generating good ideas]], where I'm trying my brain to get better ideas and to pay more attention to the ideas that I have

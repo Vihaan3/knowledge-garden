@@ -8,4 +8,4 @@ I think it will
 - Lead to a fulfilled life
 - Be less stressful
 
-It's also probably the best answer to [[How to generate more good ideas]] and [[How to Get Startup Ideas]].
+It's also probably the best answer to [[Generating good ideas]] and [[How to Get Startup Ideas]].

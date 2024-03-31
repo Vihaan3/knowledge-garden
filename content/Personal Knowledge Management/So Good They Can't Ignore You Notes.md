@@ -18,7 +18,7 @@ Rule 3:
 Rule 4:
 - It's important to find a mission (but don't try to have one right away because then you fall into similar traps as the passion people.)
 - Finding a mission takes getting to the edge and looking into the "adjacent possibles"
-- Validate your interesting mission ideas thru little bets abt whetever seems to be a promising direction. Don't start out w/ a full plan in mind. This matches up with Paul Graham's [[Life Advice for Ambitious Teenagers]] about doing lots of fun projects and following what's excitingly ambitious. 
+- Validate your interesting mission ideas thru little bets abt whetever seems to be a promising direction. Don't start out w/ a full plan in mind. This matches up with Paul Graham's [[Outside advice for ambitious teenagers]] about doing lots of fun projects and following what's excitingly ambitious. 
 - Advice from Seth Godin here from [[How to make ideas spread]]. You have to build purple cows. Do what's remarkable if you want to stand out.
 	1. You have to build remarkable things to spread ideas.
 	2. Build these things and show them to off to a community that would remark about it. 

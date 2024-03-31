@@ -2,15 +2,13 @@
 - [[On the importance of friction]]
 - [[What we should be doing in English class]]
 - Some kind of quantified self-type project?
+	- Want to track ideas as a result of journaling + note-taking + anki, but idk how to weight different ideas
 - [[How to train yourself to think a certain way]]
-- How to do great work + advice blog post for teens?
-	- Core life skills we should get taught earlier and resources to learning more about: how to have a fulfilling life and doing great work (career advice and life advice), productivity advice, how to learn effectively, [[People Skills]], etc.
-	- Summarize the best and add your own takes.
-		- [[Life Advice]], [[Life Advice for Ambitious Teenagers]]
+- [[Life advice for myself]]
 - [[Search of the future]]
 - [[Tensions between ideas]]
 - [[Engelbart on aiding cognition]] -> use the Engelbart quote and try to break it down to get new and better ideas.
-- [[How to generate more good ideas]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think
+- [[Generating good ideas]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think
 - How to [[Dealing with lots of good content]]
 - [[Craft vs Imperfection or Depth vs. Speed]]
 - [[How to make good predictions]]

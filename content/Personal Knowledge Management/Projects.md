@@ -14,7 +14,7 @@ See [[Project Map.canvas|Project Map]] to see how most of these ideas connect.
 	- A few projects at [Hack Club](https://hackclub.com/) 
 - Learning
 	- About search 
-	- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[How to generate more good ideas]], and [[How to train yourself to think a certain way]].
+	- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[Generating good ideas]], and [[How to train yourself to think a certain way]].
 	- Understanding how to [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]].
 ### Very near future
 - Learning more about AI
