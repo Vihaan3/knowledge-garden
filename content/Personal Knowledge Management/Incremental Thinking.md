@@ -1,3 +1,4 @@
+#seed 
 Inspiration source: https://supermemo.guru/wiki/Incremental_writing + https://notes.andymatuschak.org/Spaced_repetition_may_be_a_helpful_tool_to_incrementally_develop_inklings
 
 This is a form of [[Spaced everything]].

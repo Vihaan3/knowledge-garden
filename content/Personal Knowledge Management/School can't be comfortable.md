@@ -1,3 +1,4 @@
+#evergreen 
 If [[You can't be comfortable]], if you want to learn effectively and [[There is no speed limit]] other than a self-imposed one, than school is pretty bad for learning. Mostly because most high-achieving kids in school are completely in it for the grades, and they'll complain at anything that has the possibility of bringing their oh-so-perfect 100 down the tiniest bit.
 
 ### An ideal school structure that prioritizes life-long learning, should probably have these qualities:
