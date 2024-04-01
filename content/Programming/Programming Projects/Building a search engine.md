@@ -5,6 +5,4 @@ Website data somehow -> OpenAI API embeddings -> Pinecone API
 
 Search Pipeline: search query -> OpenAI API embeddings -> Pinecone API -> Display search results
 
-This should mostly be a clone of Sid Dubey's stuff. 
-
 Future: full-text search engine 
