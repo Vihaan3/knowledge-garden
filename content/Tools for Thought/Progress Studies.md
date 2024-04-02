@@ -16,4 +16,3 @@ https://patrickcollison.com/progress
 https://nintil.com/fixing-science
 https://nintil.com/innovation-thinking
 https://nintil.com/better-science
-[[AI is going to unlock research opportunities]]

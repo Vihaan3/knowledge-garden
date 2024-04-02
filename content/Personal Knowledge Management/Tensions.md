@@ -1,6 +1,8 @@
-These are all false dichotomies; there is a fine balance for each of these that is heavily context dependent.
+These are all false dichotomies; there is a fine balance for each of these that is heavily [[The Law of Equal and Opposite Advice|context dependent]]. 
 
 - [[Setting Goals vs. Not]]
+- [[Does learning have intrinsic value|Does learning have intrinsic value?]]
+- [[Progress|Is progress desirable?]]
 - [[Being in motion vs. being in action]]
 - Convergent thinking vs. Divergent Thinking [[Two Types of Thinking]]
 - [[Massive Input vs Spaced Repetition]]

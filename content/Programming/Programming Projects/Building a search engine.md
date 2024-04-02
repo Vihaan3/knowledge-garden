@@ -6,3 +6,5 @@ Website data somehow -> OpenAI API embeddings -> Pinecone API
 Search Pipeline: search query -> OpenAI API embeddings -> Pinecone API -> Display search results
 
 Future: full-text search engine 
+
+https://lunrjs.com/

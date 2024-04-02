@@ -5,7 +5,7 @@
 - [[How to train yourself to think a certain way]]
 - [[Life advice for myself]]
 - [[Search of the future]]
-- [[Tensions between ideas]]
+- [[Tensions]]
 - [[Engelbart on aiding cognition]] -> use the Engelbart quote and try to break it down to get new and better ideas.
 - [[Generating good ideas]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think
 - How to [[Dealing with lots of good content]]
