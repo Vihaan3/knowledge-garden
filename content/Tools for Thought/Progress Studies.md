@@ -12,7 +12,6 @@ Foundational text: https://www.theatlantic.com/science/archive/2019/07/we-need-n
 
 ## To Read
 https://patrickcollison.com/progress
-(More science-esque but you can pick out some relevant parts maybe)
 https://nintil.com/fixing-science
 https://nintil.com/innovation-thinking
 https://nintil.com/better-science
