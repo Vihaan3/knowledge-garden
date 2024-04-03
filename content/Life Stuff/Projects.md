@@ -1,30 +1,27 @@
-See [[Project Map.canvas|Project Map]] to see how most of these ideas connect. 
-See [[Project Ideas]] for ideas I'm not yet sure about. 
-*I don't think I'm doing a lot of these ideas justice. If you want to learn more about any of them or want to collaborate, reach out. If these projects spark any ideas for you, feel free to work on those ideas by yourself if you'd like!  (Please reach out and let me know.) I'm too excited about all of these ideas to claim any sort of ownership over them, and I'd love to see them done well.* 
+A mixture of a /now and a future project ideas page.  
 
-### Now
-- Making
-	- A personal search engine that indexes some of my favorite slices of the web
-		- Building my own crawler
-		- Building my own parser
-		- Semantic search
-	- Semantic search for these notes
-	- A [spaced repetition inbox](https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5) in Obsidian       
-	- A few projects at [Hack Club](https://hackclub.com/) 
-- Learning
-	- About search 
-	- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[Generating good ideas]], and [[How to train yourself to think a certain way]].
-	- Understanding how to [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]].
-### Very near future
-- Learning more about AI
-	1. To understand if I might want to pursue a career in [alignment](https://www.alignmentforum.org/posts/5rsa37pBjo4Cf9fkE/a-newcomer-s-guide-to-the-technical-ai-safety-field)
-	2. For use in my tools for thought projects 
-- [[Re-inventing the srs system for spaced everything]].
-	-  A true [OS-level spaced repetition system](https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3) Alexander Obenauer has created [an exciting prototype](https://alexanderobenauer.com/ollos/) that's somewhat similar to what I was envisioning. 
-- [[Notetaking for thinking]]: scroll down for quick tests. (Sorry if this note isn't cleaned up by the time you read this; this was a collection of many of my scratch thoughts as this idea developed.)
-- A flashcard chrome extension that turns any text into a [mnemonic medium](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) like [Quantum Country](https://quantum.country/).
-
-### (Slightly) More distant future
-- A definitive project for [hack club](https://hackclub.com/) that can transform the capabilities and lives of all hack clubbers.
-- Something like [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) (most likely a prototype for fun so that I can improve my design skills). Maybe for Hack Club?
-- A better read-it-later + downtime application that uses [[Spaced everything |spaced repetition]] scheduling. Basically [Sofa](https://www.sofahq.com/) + [Pocket](https://getpocket.com/) + spaced repetition. 
+*If you want to collaborate on any of these (including and especially learning), please reach out! I have too many ideas and too little time, so the existence of a collaborator would be a strong factor in getting me to do one of these over the other. If these projects spark any ideas for you, feel free to work on them by yourself if you'd like! I'm too excited to claim any sort of ownership over them, and I'd love to see them done well.* 
+### Learning
+#### Now
+- About search and information retrieval 
+- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[Generating novel insights]], and [[How to train yourself to think a certain way]].
+- Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure]].
+#### (Hopefully) Near Future
+- Economics, and specifically poverty ( #economics/poverty )
+- Really in-depth into the fundamentals of AI
+- AR/VR 
+### Making/Doing
+- My own semantic search tool for these notes (almost done; just integrating into the existing search without breaking things)
+- A prototype search engine that aspires to be somewhere in between Google and academic search engines (incentivize intellectually stimulating content instead of shallow content)
+	- Potential Approach: ranks based on a crawler that's really an LLM trained through human feedback on a bunch of different websites by some of the most intellectually curious people I know 
+		- Not too familiar with large-scale AI projects but would probably be costly at scale
+- [[AI as a memory system]] + [[Notetaking for thinking]] + [[Re-inventing the srs system for spaced everything]]
+- Exploring AR-powered search
+- Building a prototype of [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) to test if some of those ideas work and upskill in design and fullstack development
+- Maybe: Building my own search tool for fun that indexes my favorite sites (quick [proof of concept](https://vihaan3.github.io/Custom-Search-Engine-Demo/) using Google Custom Search Engine)
+	- Building my own crawler
+	- Building my own parser
+	- Some NLP and other techniques
+	- Some sort of unique ranking through experimentation
+- Maybe: A flashcard chrome extension that uses an LLM to turn any text into a [mnemonic medium](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) like [Quantum Country](https://quantum.country/).
+- Maybe: Build on Alexander Obenauer's ideas around the [itemized operating system](https://alexanderobenauer.com/articles/os/1/). 

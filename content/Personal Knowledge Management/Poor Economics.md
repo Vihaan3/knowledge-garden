@@ -1,6 +1,4 @@
-I'm writing this not as definitive advice and I'm not necessarily trying to add my own ideas here. I'm just writing this in public as a way to make sense of my own understanding of this. 
-
-**Look at the chapter summaries at the end of each chapter and add that to the notes.**
+#book #economics/poverty 
 ### Think Again, Again
 Too much of the action we take to help the poor is well-intended by over-generalized and lacking an substantial evidence that it's the right action to take. 
 

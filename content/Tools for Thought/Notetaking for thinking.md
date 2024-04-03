@@ -1,4 +1,6 @@
 #note-taking 
+
+*Scratch thoughts as this idea developed; still working on cleaning it up.*
 ## Srs-first
 I think it would be something like anki but with the ability to write longer things and more text editing options + linking and better graph views. I don’t see why srs and notetaking have to be separate.  Multiple different types of cards (prompts will be like standard flash cards with a question as the question and multiple possible answers as answers that you want to hide until you come up with a new one, while normal will just be a standard obsidian sheet, and maybe others as well). [[Building a better memory system]]
 
@@ -9,11 +11,6 @@ The AI chatbot to help support divergent thinking, convergent thinking, help you
 There’s an easy way to capture multiple thoughts at once (maybe there's default options for when this window is closed then show me this, this, this?). An AI “coach” that provides feedback on your notes, your process, and your reading speed (can help notice when you’re skimming).
 
 Quick capture, plus maybe the algorithm changes slightly the more you click on/edit a note. Think of more primitives/insight about idea formation and how you can build those in.
-
-## Note-taking First
-I think that that treating it as srs first is best, but there's plenty of different ideas even outside of that. Maybe it's primarily a note-taking app, with incremental reminders and basic srs functionality built in so that notes repeat.
-
-In a note-taking first approach, you could have different types of notes (some for ideas, others for fully fleshed notes, others for prompts, etc), and then integrate a lot of those other ideas. 
 
 ## Breaking it down into quick tests
 

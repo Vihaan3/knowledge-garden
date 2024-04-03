@@ -1,10 +1,8 @@
-[[Spaced everything]]
-It would probably have a different scheduling algorithm and you can suggest the first day you want it to repeat and what time interval (long, short, medium) and there’s a default one otherwise.
+[[Spaced everything]] + [[Building a better memory system]]
+A new tool would probably have a different scheduling algorithm where you can suggest the first day you want a card to repeat and what time interval (long, short, medium).
 
 Also maybe some options for timelines that collapse inward (start on long time frames that progressively get shorter). There are probably some defaults for standard use cases as described in [[Building a better memory system]].
-
-A key question: should I build design off of deck-first hierarchies or tag-first hierarchies? Deck-first is good in that you train yourself to think different in different decks i.e. slower and deeper for idea-style decks and learning decks vs quick check-off style mentality in task and habit decks. Tag-first is good is more fluid. I can also just implement functionality for both (though that's more difficult).
-### Some shortcomings with traditional srs for specific other use cases
+#### Some shortcomings with traditional srs for specific use cases
 
 - Ideas
 	- There needs to be an easy way to put a limit to the amount of cards you can have in a day. 

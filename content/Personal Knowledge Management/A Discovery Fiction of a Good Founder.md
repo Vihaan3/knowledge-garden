@@ -4,7 +4,7 @@ Inspired by https://michaelnotebook.com/df/index.html
 Basically I just ran a "what would an awesome founder look like" simulation in my head, and here's what I got.
 
 - Takes ideation very seriously because innovating and ideation is critical at every level.
-	- Follows [[Generating good ideas]] seriously
+	- Follows [[Generating novel insights]] seriously
 - great [[People Skills]]; really good at inspiring other people
 	- Good at spotting and recruiting top talent, builds good [[Social Infrastructure]]
 - innovates fast and consistently

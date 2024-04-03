@@ -1,14 +1,13 @@
 #brain_hacking 
-Most of the value in the world is about contrarian thinking about the future from [[Outside advice for ambitious teenagers]]. Mark Manson agrees with this as well, that one of the best ways to have success is through having contrarian ideas. 
+Most of the value in the world is in contrarian thinking about the future from [[Outside advice for ambitious teenagers]]. 
 
-This is something that takes time and effort, but it's intensely valuable. Here are some ways to do this, I think.
+The best ways to develop contrarian ideas about a field is to get to the frontiers of knowledge in the field and notice promising gaps. 
 
-- Think from [[First Principles]] 
-- Try not to follow the trends that everyone does ("If you read what everyone else reads, you think like everyone else thinks")
-- Constantly question everything about life. This will make life somewhat less comfortable and easy to navigate, but it's the best way to develop contrarian ideas.
+To notice promising gaps, think from [[First Principles]]. Be strict about the world and willing to break rules. 
 
 Of course, there's good reasons that most trends exist. Most of your contrarian ideas will be wrong. But you only have to be right a few times. 
 
 ## Special Use Cases for contrarian thinking
 - Writing essays (you need good ideas to [[How to Write Better]])
 - Starting up (the fastest growing startups are the ones that are based on contrarian ideas [[How to Get Startup Ideas]])
+- Being a comedian

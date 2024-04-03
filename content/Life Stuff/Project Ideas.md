@@ -1,5 +1,0 @@
--  **A search engine that uses an LLM trained with an RLHF-inspired technique on the most intellectually curious people you know to rank** 
-- [[Building a social network|Social Network]] like DK for fun
-- AI clone
-- [[AI as a memory system]]
-- A calendar like usemotion that also takes into account your energy and other things (probably has you check in with how you feel throughout the day). Like basically an actually good calendar + to-do list app that wants to help you remember tasks but also wants to keep in mind the ethos of [[Do what's excitingly ambitious]]

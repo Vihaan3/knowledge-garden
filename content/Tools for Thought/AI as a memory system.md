@@ -3,6 +3,6 @@ A lot of what I love about [Michael Nielsen](https://michaelnotebook.com/bbms/in
 
 The key issue with modern memory systems is that there's no way to ensure that the right prompt appears at the right time. You can just hope that thinking about it often enough due to the repetitions will eventually prime your brain to make the right decisions in the right times. 
 
-AI could help with that. I envision an AI collaborator that almost takes the form of journaling in that it provides suggestions based on what's in your memory systems. Perhaps with multi-modal and more general application models, it can monitor and recognize when you're doing something wrong 
+AI could help with that. I envision an AI collaborator that almost takes the form of journaling in that it provides suggestions based on what's in your memory systems.
 
 Something key to think about here is [[On the importance of friction|friction]] and how much of it there should be.
