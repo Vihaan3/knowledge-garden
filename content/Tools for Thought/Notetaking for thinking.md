@@ -1,3 +1,4 @@
+#note-taking 
 ## Srs-first
 I think it would be something like anki but with the ability to write longer things and more text editing options + linking and better graph views. I don’t see why srs and notetaking have to be separate.  Multiple different types of cards (prompts will be like standard flash cards with a question as the question and multiple possible answers as answers that you want to hide until you come up with a new one, while normal will just be a standard obsidian sheet, and maybe others as well). [[Building a better memory system]]
 

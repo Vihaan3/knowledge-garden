@@ -1,3 +1,4 @@
+#brain_hacking 
 Most of the value in the world is about contrarian thinking about the future from [[Outside advice for ambitious teenagers]]. Mark Manson agrees with this as well, that one of the best ways to have success is through having contrarian ideas. 
 
 This is something that takes time and effort, but it's intensely valuable. Here are some ways to do this, I think.

@@ -1,3 +1,4 @@
+#economics/business #brain_hacking 
 https://paulgraham.com/startupideas.html
 https://www.julian.com/guide/startup/
 https://startupclass.samaltman.com/

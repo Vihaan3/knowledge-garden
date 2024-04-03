@@ -1,3 +1,4 @@
+#personal 
 I've noticed this recently while playing guitar, and I think it generalizes well to anything that you want to have dramatic improvement in. A core tenet of [[Deliberate Practice]] is that if you want constant improvement, you have to be constantly pushing yourself past where you are know.
 
 This means that as a...

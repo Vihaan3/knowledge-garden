@@ -1,4 +1,4 @@
-#pattern
+#pattern #movement #culture 
 https://logangraves.com/social-infrastructure
 
 ## Definition

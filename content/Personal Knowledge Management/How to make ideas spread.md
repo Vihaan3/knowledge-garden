@@ -1,3 +1,4 @@
+#movement
 https://www.youtube.com/watch?v=xBIVlM435Zg
 
 To make something stand out, you need it to be remarkable. Not just as in cool or neat, but something worth making a remark about. Because that's how ideas spread. The biggest ideas are the ones that are unique and do something in a new, unheard of way. This follows the ideas about [[Contrarian Thinking]]. 
