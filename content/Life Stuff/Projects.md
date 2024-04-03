@@ -9,7 +9,8 @@ A mixture of a /now and a future project ideas page.
 #### (Hopefully) Near Future
 - Economics, and specifically poverty
 - Really in-depth into the fundamentals of AI
-- AR/VR 
+- Smaller projects to learn AR/VR 
+- A sampling of philosophy
 ### Making/Doing
 - My own semantic search tool for these notes (almost done; just integrating into the existing search without breaking things)
 - A prototype search engine that aspires to be somewhere in between Google and academic search engines (incentivize intellectually stimulating content instead of shallow content)
