@@ -7,7 +7,7 @@ A mixture of a /now and a future project ideas page.
 - Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[Generating novel insights]], and [[How to train yourself to think a certain way]].
 - Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure]].
 #### (Hopefully) Near Future
-- Economics, and specifically poverty ( #economics/poverty )
+- Economics, and specifically poverty
 - Really in-depth into the fundamentals of AI
 - AR/VR 
 ### Making/Doing
