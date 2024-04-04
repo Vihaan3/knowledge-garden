@@ -1,5 +1,9 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/3/2024
+- Worked through my blog backlog a TON
+- Cleaned up these notes a bit
+- Trying (and failing) to integrate the semantic search to this website
 #### 4/2/2024
 - Started work on a blog post
 - Built a [quick custom search engine](https://vihaan3.github.io/Custom-Search-Engine-Demo/#gsc.tab=0) powered by google to proof of concept malleable search 
