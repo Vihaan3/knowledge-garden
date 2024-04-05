@@ -5,7 +5,7 @@ From: https://stratechery.com/2015/aggregation-theory/ + https://stratechery.com
 #### Aggregation Theory
 3 parts to the value chain: suppliers, distributors, consumers
 
-Before the internet, distributors tried to integrate with suppliers with the consumers as a background thought. 
+Before the internet, distributors tried to integrate with suppliers and the consumers were a background thought. 
 
 The internet has made distribution more scalable and instantaneous, so distributors optimize for consumers with the suppliers as a background thought. 
 
