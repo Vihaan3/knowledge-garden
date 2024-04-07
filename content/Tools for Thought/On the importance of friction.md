@@ -1,3 +1,6 @@
+#user_interaction
+Discovered https://uxdesign.cc/the-fallacy-of-easy-a89ef864759b after writing this; illustrates a lot of these viewpoints better.
+
 I feel like modern design is too *cluttered*, and people in general are too focused on removing all friction and making everything as fast as possible. 
 
 There's certainly times when low-friction is good for things like habits you want to cultivate, but applying that principle to everything is what leads to things like social media sucking all of our attention. 
@@ -10,3 +13,4 @@ It's often better for there to be more minimalist design that's focused on allow
 
 It's important to use core primitives with high-upside when designing [[Mediums for Thought Not Tools for thought |mediums for thought]].
 Designing with a focus on [[End-user programming|malleability]] like Notion and Figma do is insanely important for this. You can't (and shouldn't be able to) imagine all the various use cases of a true medium, so you should design the building blocks that [[Enabling Environments|enable]] users to obtain mastery if they try. Instead of providing the user with tons of bells and whistles that dictate how to use the app.
+

@@ -25,4 +25,5 @@ A mixture of a /now and a future project ideas page.
 	- Some NLP and other techniques
 	- Some sort of unique ranking through experimentation
 - Maybe: A flashcard chrome extension that uses an LLM to turn any text into a [mnemonic medium](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) like [Quantum Country](https://quantum.country/).
-- Maybe: Build on Alexander Obenauer's ideas around the [itemized operating system](https://alexanderobenauer.com/articles/os/1/). 
+- Maybe: Building on Alexander Obenauer's ideas around the [itemized operating system](https://alexanderobenauer.com/articles/os/1/). 
+- Maybe: I don't use twitter, but I love the idea of a chrome extension that inserts [something into a feed](https://uxdesign.cc/hijack-your-feed-2b9070d13a0d). Outside of tasks, what about things like favorite pieces of content on the internet like a [media playlist](https://sirupsen.com/playlists) of sorts. Things like notes or srs cards as well. 

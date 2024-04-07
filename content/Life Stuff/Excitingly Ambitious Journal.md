@@ -1,5 +1,13 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/6/2024
+- More road trip
+#### 4/5/2024
+- Road trip
+#### 4/4/2024
+- Tried out a new writing style for a blog and got some nice feedback
+- Tried a few hard USACO problems and failed to solve them lol
+
 #### 4/3/2024
 - Worked through my blog backlog a TON
 - Cleaned up these notes a bit
