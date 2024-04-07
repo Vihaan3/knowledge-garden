@@ -12,3 +12,8 @@ Something key to think about here is [[On the importance of friction|friction]] 
 
 ### Concretely
 More concretely, I think that this system would be takes my idea of creating an srs system at core that takes notetaking seriously from [[Notetaking for thinking]] even further by making it AI chat first. The use of notes is in writing down ideas (which is solved by spaced repetition) and in codifying information long-term, which is pointless without being used at the right time. I think the opening home page of this system would be a chatbox with an llm where you just kind of describe your new ideas or how your day went and what challenges you faced, solutions to those challenges, etc. For ideas and things like that, the AI would help provide constructive feedback, provide other resources to explore related ideas, and generally help you expand on the idea + help you quickly set all the scheduling stuff from [[Re-inventing the srs system for spaced everything]]. For journaling, it would be able to suggest ways to improve from previous knowledge and help you stick to your commitments and identity changes by asking you fluidly. Besides that, the rest of the srs logic would work the same and cards and notes would pop up based on whatever schedule you put them in. Of course, you could also view notes/srs cards separately.
+
+
+#### Some People Working on Something Similar
+https://www.theverge.com/2023/11/29/23981802/software-applications-inc-workflow-shortcuts-apple-employees-startup
+https://new.computer/
