@@ -15,8 +15,7 @@ A mixture of a /now and a future project ideas page.
 - My own semantic search tool for these notes (almost done; just integrating into the existing search without breaking things)
 - [[Re-inventing the srs system for spaced everything]]
 - **A prototype search engine that aspires to be somewhere in between Google and academic search engines (incentivize intellectually stimulating content instead of shallow content)**
-	- Potential Approach: ranks based on a crawler that's really an LLM trained through human feedback on a bunch of different websites by some of the most intellectually curious people I know 
-		- Not too familiar with large-scale AI projects but would probably be costly at scale
+	- Potential Approach: ranks based on a crawler that's really an LLM trained through human feedback on a bunch of different websites by some of the most intellectually curious people I know ([[Building an RLHF-Ranker Crawler Thing|this]])
 - **[[AI as a memory system]] + [[Notetaking for thinking]]**
 - **Exploring AR-powered search**
 - Building a prototype of [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) to test if some of those ideas work and upskill in design and fullstack development
