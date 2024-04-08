@@ -1,5 +1,7 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/7/2024
+- Learnt a lot about the idea of [[Network States]]
 #### 4/6/2024
 - More road trip
 #### 4/5/2024
