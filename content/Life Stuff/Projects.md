@@ -13,11 +13,12 @@ A mixture of a /now and a future project ideas page.
 - A sampling of political theory
 ### Making/Doing
 - My own semantic search tool for these notes (almost done; just integrating into the existing search without breaking things)
-- A prototype search engine that aspires to be somewhere in between Google and academic search engines (incentivize intellectually stimulating content instead of shallow content)
+- [[Re-inventing the srs system for spaced everything]]
+- **A prototype search engine that aspires to be somewhere in between Google and academic search engines (incentivize intellectually stimulating content instead of shallow content)**
 	- Potential Approach: ranks based on a crawler that's really an LLM trained through human feedback on a bunch of different websites by some of the most intellectually curious people I know 
 		- Not too familiar with large-scale AI projects but would probably be costly at scale
-- [[AI as a memory system]] + [[Notetaking for thinking]] + [[Re-inventing the srs system for spaced everything]]
-- Exploring AR-powered search
+- **[[AI as a memory system]] + [[Notetaking for thinking]]**
+- **Exploring AR-powered search**
 - Building a prototype of [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) to test if some of those ideas work and upskill in design and fullstack development
 - Maybe: Building my own search tool for fun that indexes my favorite sites (quick [proof of concept](https://vihaan3.github.io/Custom-Search-Engine-Demo/) using Google Custom Search Engine)
 	- Building my own crawler
@@ -25,5 +26,5 @@ A mixture of a /now and a future project ideas page.
 	- Some NLP and other techniques
 	- Some sort of unique ranking through experimentation
 - Maybe: A flashcard chrome extension that uses an LLM to turn any text into a [mnemonic medium](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) like [Quantum Country](https://quantum.country/).
-- Maybe: Building on Alexander Obenauer's ideas around the [itemized operating system](https://alexanderobenauer.com/articles/os/1/). 
-- Maybe: I don't use twitter, but I love the idea of a chrome extension that inserts [something into a feed](https://uxdesign.cc/hijack-your-feed-2b9070d13a0d). Outside of tasks, what about things like favorite pieces of content on the internet like a [media playlist](https://sirupsen.com/playlists) of sorts. Things like notes or srs cards as well. 
+- **Maybe: Building on Alexander Obenauer's ideas around the [itemized operating system](https://alexanderobenauer.com/articles/os/1/).** 
+- **Maybe: I don't use twitter, but I love the idea of a chrome extension that inserts [something into a feed](https://uxdesign.cc/hijack-your-feed-2b9070d13a0d). Outside of tasks, what about things like favorite pieces of content like a [media playlist](https://sirupsen.com/playlists) of sorts?** 
