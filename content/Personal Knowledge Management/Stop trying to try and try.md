@@ -10,5 +10,5 @@ You're not trying to solve this math problem. You're testing this approach, and 
 
 You're not trying to create tools for thought. You're thinking of new ideas, testing solutions on people, doing research, etc.
 
-Have no excuses: https://mindingourway.com/have-no-excuses/, [[There is no speed limit]]. Try isn't a word you get to say about yourself. It's a word others get to say about you. There is no excuse. You are responsible for everything that happens to you ([[The Subtle Art of Not Giving a Fck]]).
+Have no excuses: https://mindingourway.com/have-no-excuses/, [[There is no speed limit]]. Try isn't a word you get to say about yourself. It's a word others get to say about you. There is no excuse. You are responsible for everything that happens to you ([[The Subtle Art of Not Giving a F_ck]]).
 

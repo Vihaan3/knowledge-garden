@@ -6,5 +6,5 @@
 [[Deep Work]]
 
 ## More general advice
-[[The Subtle Art of Not Giving a Fck]]
+[[The Subtle Art of Not Giving a F_ck]]
 [[Atomic Habits]]
