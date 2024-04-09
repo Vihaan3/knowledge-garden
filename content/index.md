@@ -13,8 +13,11 @@ Common Abbreviations:
 - SRS in place of spaced repetition system
 
 *Unfixed bugs*: 
+- Search might be broken because I keep failing to integrate semantic search after paying up for an OpenAI embeddings api key :(
 - The note dates update every time I sync with my Obsidian notes (which is everyday), so the dates for every note will almost always be within the last few days. 
 - There's double tagging on most notes.
+- Tailwind integration isn't working properly for some reason so the styling isn't what was intended.
+
 
 
 
