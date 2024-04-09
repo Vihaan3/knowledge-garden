@@ -1,7 +1,11 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/8/2024
+- Kind of grokked React and Next JS??? 
+- Started rebuilding my AI core fundamentals with https://www.3blue1brown.com/topics/neural-networks
 #### 4/7/2024
 - Learnt a lot about the idea of [[Network States]]
+- Began learning React and Next JS
 #### 4/6/2024
 - More road trip
 #### 4/5/2024
