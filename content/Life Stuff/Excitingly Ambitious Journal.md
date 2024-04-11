@@ -1,5 +1,12 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+
+#### 4/10/2024
+- Had a lot of ideas, and turned that into [[Open Questions + Project Ideas]]
+
+#### 4/9/2024
+- I spent a full day working on the [[Spaced everything]] app
+
 #### 4/8/2024
 - Kind of grokked React and Next JS??? 
 - Started rebuilding my AI core fundamentals with https://www.3blue1brown.com/topics/neural-networks
