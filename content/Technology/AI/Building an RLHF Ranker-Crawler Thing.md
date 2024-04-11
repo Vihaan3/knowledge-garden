@@ -1,7 +1,11 @@
+[[An RLHF-Ranker Crawler Thing]]
+
+#### To Consume
 https://www.appen.com/blog/the-5-steps-of-reinforcement-learning-with-human-feedback
 https://machinelearningmodels.org/choosing-reinforcement-learning-models-a-comprehensive-guide/
 https://kili-technology.com/large-language-models-llms/exploring-reinforcement-learning-from-human-feedback-rlhf-a-comprehensive-guide
 
+#### AI Summaries :)
 Creating a language model (LLM) for ranking websites using reinforcement learning through human feedback (RLHF) involves several steps, combining the power of reinforcement learning with human feedback to improve the performance of large language models. Here's a step-by-step guide based on the provided sources:
 
 1. **Start with a Pre-trained Model**: Begin by using a pre-trained LLM that has been trained on a vast amount of data to generate outputs for a specific task. This model serves as the foundation for your ranking system [2].
