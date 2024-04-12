@@ -1,3 +1,5 @@
+#unfinished 
+
 Is learning intrinsically meaningful even if you have no expectation of ever using that knowledge?
 
 ### Favor

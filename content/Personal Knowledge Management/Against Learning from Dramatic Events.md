@@ -1,3 +1,4 @@
+#unfinished 
 https://www.astralcodexten.com/p/against-learning-from-dramatic-events
 
 Basically you should assign probabilities to things beforehand, and when something happens evaluate if it was in line with your probabilities. Update accordingly. 

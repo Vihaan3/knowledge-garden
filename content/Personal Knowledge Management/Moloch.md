@@ -1,3 +1,4 @@
+#unfinished 
 Moloch is [Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)'s fill-in for misaligned incentives. Multipolar traps (traps where each agent pursuing what's beneficial for them will be harmful for society at large)) will occur no matter what you do.
 - Everyone who takes one less day off will be slightly more respectable than their coworkers, but this ends up in everyone having to take days off. 
 - The more a politician lies, the higher chances they'll end up in office.

@@ -1,3 +1,4 @@
+#unfinished 
 https://unaligned.world/p/life-is-memetics
 
 Memetics is the idea that ideas, behaviors, and information ecosystems undergo natural selection, so it's important to always be able to identify where it might occur and what the key selection mechanisms are.

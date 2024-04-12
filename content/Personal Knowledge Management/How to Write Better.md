@@ -1,4 +1,3 @@
-
 Julian Shapiro Guide
 Source found from taking [[Non-Trivial Courses]]
 https://www.julian.com/guide/write/intro

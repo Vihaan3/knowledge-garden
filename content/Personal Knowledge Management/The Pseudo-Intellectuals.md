@@ -1,3 +1,4 @@
+#unfinished 
 Self-help gurus often love to flatter themselves as being high-flying intellectuals just because they read often and take copious notes. I have a bunch of issues.
 
 1. Very rarely do I see them post book criticisms. It's always book reviews and book summaries that are just notes (I used to do this myself). NOT EVERYTHING YOU READ IS TRUE. 

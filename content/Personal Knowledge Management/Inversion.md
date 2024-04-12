@@ -1,3 +1,4 @@
+#unfinished 
 
 Sometimes, instead of focusing on all the goals you want to achieve and all the things you want to do to achieve them, think about them in terms of what would stop me from achieving my goal.
 

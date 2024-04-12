@@ -1,3 +1,4 @@
+#unfinished 
 https://www.zaxis.page/p/hidden-layers
 
 Everyone loves building fancy consumer-facing products that get all the attention. But there's tremendous value in building in the hidden layers. You can take one step back and focus on areas where there's less competition and build the infrastructure that allows others to succeed. 
