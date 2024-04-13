@@ -4,7 +4,7 @@ Right now, I'm fascinated by [[What my research should be |building tools that c
 
 Ideally, all of my notes should be [Evergreen](https://notes.andymatuschak.org/Evergreen_notes) (though most aren't perfect yet), and I take a lot of inspiration from the way [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes), [Jacky Zhao](https://jzhao.xyz/), and [Jess Martin](https://notes.jessmart.in/Lab+Notebook/About+this+lab+notebook) take their notes. 
 
-For more about me and contact info, visit my [Substack](https://vihaansondhi.substack.com/about) . 
+For more about me and contact info, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . 
 
 See [[Excitingly Ambitious Journal]] and [[Projects]] as a combined /now and definitely reach out if you're also interested in any of [[Open Questions + Project Ideas|these questions]]! Click around on the graph to explore more.
 
