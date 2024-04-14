@@ -1,4 +1,4 @@
-https://thesephist.com/posts/notation/
+https://thesephist.com/posts/notation/?curius=4317
 https://worrydream.com/MediaForThinkingTheUnthinkable/
 https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf
 
