@@ -1,5 +1,20 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/15/2024
+- Started Fast.AI!!!!!!!!
+
+#### 4/14/2024
+- Finished the template!
+- Did a ton of USACO
+
+#### 4/13/2024
+- At a movie, nothing else
+
+#### 4/12/2024
+- Worked on a next js template for the club
+
+#### 4/11/2024
+- Not much, I was kind of dead today because of no sleep from yesterday lol
 
 #### 4/10/2024
 - Had a lot of ideas, and turned that into [[Open Questions + Project Ideas]]
