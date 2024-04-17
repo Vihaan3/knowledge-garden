@@ -1,5 +1,9 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/16/2024
+- Paused fast.ai to spend to time learning how to use Jupyter notebook
+- Created a comprehensive roadmap of THLI for this upcoming event
+
 #### 4/15/2024
 - Started Fast.AI!!!!!!!!
 
