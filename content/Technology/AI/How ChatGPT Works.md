@@ -1,1 +1,0 @@
-Generative Pre-Trained [[Transformer]] 
