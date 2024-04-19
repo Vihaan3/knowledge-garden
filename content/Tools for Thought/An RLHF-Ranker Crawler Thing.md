@@ -10,5 +10,3 @@ I want to build a search engine that indexes based off the rankings provided by 
 3. Play around with full-text and semantic search
 4. Practice building a crawler with a wonky ranking mechanism
 
-
-See [[Building an RLHF Ranker-Crawler Thing]] for more technical details.
