@@ -8,3 +8,4 @@ Some ideas:
 - Created an anki deck for my ideas, which ensures they repeat, and ensures that I think about them often
 - Write down my ideas in journals 
 - A lot of this probably has some sort of knowledge faucet type effect from [[Generating novel insights]], where I'm trying my brain to get better ideas and to pay more attention to the ideas that I have
+- Use [Curius](https://curius.app/vihaan-sondhi), and find people that you think are interesting and you want to think more like. 
