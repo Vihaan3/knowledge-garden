@@ -1,5 +1,15 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/19/2024
+- Picked up work on the [[Spaced everything]] project again. Long weekend coming up, so hopefully I'll get that done + all the websites for school (that I haven't started yet)
+  
+#### 4/18/2024
+- I couldn't really get beyond just school :(
+
+#### 4/17/2024
+- Practicing Jupyter notebook with small projects
+- Doing a few exercises on [exercism](https://exercism.org/tracks/python) with Python to refresh on that
+
 #### 4/16/2024
 - Paused fast.ai to spend to time learning how to use Jupyter notebook
 - Created a comprehensive roadmap of THLI for this upcoming event
@@ -12,10 +22,10 @@ A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambiti
 - Did a ton of USACO
 
 #### 4/13/2024
-- At a movie, nothing else
+- Worked on a next js template for the club
 
 #### 4/12/2024
-- Worked on a next js template for the club
+- Wanted the club to practice our web dev skills, so I sent out a form for the school and now we have two teachers who want us to build websites for them!
 
 #### 4/11/2024
 - Not much, I was kind of dead today because of no sleep from yesterday lol
@@ -55,4 +65,4 @@ A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambiti
 #### 3/30/2024
 - Learned a lot about how search works
 - Planned out a semantic search project
-- Started to plan out a [[Building a social network|social network]] project for hack ttc
+- Started to plan out a [social network](https://www.notion.so/DK-a5582abad4fa49eca5a6115493747e0c) project for hack ttc
