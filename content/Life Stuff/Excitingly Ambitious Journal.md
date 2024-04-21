@@ -1,5 +1,8 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/20/2024
+- Worked on spaced everything
+
 #### 4/19/2024
 - Picked up work on the [[Spaced everything]] project again. Long weekend coming up, so hopefully I'll get that done + all the websites for school (that I haven't started yet)
   
