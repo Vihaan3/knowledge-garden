@@ -1,5 +1,12 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/22/2024
+- fast.ai!
+
+#### 4/21/2024
+- Finished practicing Jupyter notebook and Python
+- Re-started fast.ai!
+
 #### 4/20/2024
 - Worked on spaced everything
 

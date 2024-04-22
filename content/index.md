@@ -1,6 +1,6 @@
 Hey! I'm Vihaan. 
 
-Right now, I'm fascinated by [[What my research should be |building tools that can augment cognition]] and learning about AI.   Within building tools that augment cognition, I'm especially interested in [[Making Massive Input Better|information retrieval]]. I eventually also want to build the kind of [[Social Infrastructure]] for others that's been missing for a lot of my life.
+Right now, I'm fascinated by [[What my research should be |building tools that can augment cognition]] and learning about AI.   Within building tools that augment cognition, I'm especially interested in [[Making Massive Input Better|information retrieval]]. I eventually also want to build the kind of [[Social Infrastructure]] for others that's been missing for a lot of my life. 
 
 Ideally, all of my notes should be [Evergreen](https://notes.andymatuschak.org/Evergreen_notes) (though most aren't perfect yet), and I take a lot of inspiration from the way [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes), [Jacky Zhao](https://jzhao.xyz/), and [Jess Martin](https://notes.jessmart.in/Lab+Notebook/About+this+lab+notebook) take their notes. 
 
