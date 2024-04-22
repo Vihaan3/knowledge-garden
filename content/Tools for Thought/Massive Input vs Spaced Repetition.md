@@ -1,3 +1,4 @@
+#unfinished #tools_for_thought #memory_systems 
 Primarily inspired by [[Elijah]]'s idea that school should be geared towards massive input to train our brains to optimize for learning (the more you learn, the more sophisticated your brain becomes at developing structures that optimize for learning which is something that [[Jacob GW]] talks abt)
 
 reminded of this by https://nintil.com/massive-input-spaced-repetition

@@ -1,3 +1,4 @@
+#tools_for_thought #unfinished #meta-thinking #user_interaction 
 Quotes found here: https://maggieappleton.com/tools-for-thought
 
 In the words of several of the pioneers, tfts are:

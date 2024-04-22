@@ -1,3 +1,4 @@
+#search #tools_for_thought #technology/ai #user_interaction 
 As AI models become better, will search engines become obsolete? 
 
 *Clarification: Obviously there's lots of potential in mixing search with AI (and that's where most of the innovation in search has been coming from recently), but I'm talking about whether the idea of a search engine itself will become obsolete.*

@@ -1,3 +1,4 @@
+#unfinished #memory_systems 
 ## Definition
 
 > Suppose you want to remember your shopping list. To do so using the method of loci, you visualize yourself in some familiar location – say, your childhood home. And then you visualize yourself walking from room to room, placing an item from your shopping list prominently in each room. When you go shopping, you can recall the list by imagining yourself walking through the house – your so-called _memory palace_ – and looking at the items in each room.

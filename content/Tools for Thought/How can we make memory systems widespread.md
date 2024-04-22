@@ -1,4 +1,4 @@
-#movement #memory_systems
+#movement #memory_systems #tools_for_thought 
 https://michaelnotebook.com/mmsw/
 
 ## Answer to the question

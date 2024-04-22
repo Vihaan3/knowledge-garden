@@ -1,4 +1,4 @@
-#note-taking 
+#note-taking #tools_for_thought #memory_systems #unfinished 
 
 *Scratch thoughts as this idea developed; still working on cleaning it up.*
 ## Srs-first

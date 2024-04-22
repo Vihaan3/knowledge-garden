@@ -1,3 +1,4 @@
+#tools_for_thought #meta-research 
 Or more accurately, what my "research" should be.
 
 The current tools for thought research scene is [oversaturated with broadly identical productivity tools and note-taking apps](https://maggieappleton.com/tools-for-thought). It would be tragic for me "research" to result in yet another standard to-do list app. 

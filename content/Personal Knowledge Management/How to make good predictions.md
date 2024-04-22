@@ -1,4 +1,4 @@
-#brain_hacking #unfinished 
+#unfinished #meta-thinking #empty 
 [[Superforecasting]]
 ## To-Dos
 

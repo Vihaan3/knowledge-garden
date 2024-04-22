@@ -1,3 +1,4 @@
+#competitive_programming 
 To convert a bit representation into a number, sum up 2^i (where i is the index) for all of the 1s.
 ## Bit Operations
 

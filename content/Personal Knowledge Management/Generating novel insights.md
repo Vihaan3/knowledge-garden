@@ -1,4 +1,4 @@
-#brain_hacking 
+#meta-thinking 
 Creating spaced repetition inbox for your ideas
 
 **Read these first**

@@ -1,4 +1,4 @@
-#memory_systems 
+#memory_systems #tools_for_thought 
 
 *Scratch thoughts as the idea develops; still cleaning this note up for sharing with others.* 
 

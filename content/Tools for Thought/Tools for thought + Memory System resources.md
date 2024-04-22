@@ -1,6 +1,4 @@
-[[Tools for Thought Research Questions]], [[Progress Studies]]
-https://docs.google.com/document/d/14RQ1GLfOaLmdgjOmtqmwTDw1DivTJ_JsCVnthbGr1aY/edit
-
+#unfinished #tools_for_thought #note-taking #memory_systems 
 https://ncase.me/remember/: Good intro to memory systems and active recall
 https://andymatuschak.org/prompts/: Good intuition builder for writing good prompts
 https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge: Holy text of memory system people

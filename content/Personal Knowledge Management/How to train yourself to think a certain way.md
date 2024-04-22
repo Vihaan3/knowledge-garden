@@ -1,4 +1,4 @@
-#unfinished 
+#unfinished #meta-thinking 
 This is really important. Let's say that you want to start up, but you're not sure what problems to work on. Everyone always tells you to be the kind of person that notices things that are missing, but how do you do that?
 
 Some ideas:

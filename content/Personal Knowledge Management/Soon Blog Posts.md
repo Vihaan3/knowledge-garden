@@ -13,7 +13,7 @@
 - [[How to make good predictions]]
 - How to actually build a proper tft movement [[Building a Community for Tools for Thought]], also look at notes in Anki and write a full write-up that summarizes actionable next steps.
 - [[Memetics]]
-- [[Massive Extensive Blog Post on Tools for Thought]]
+- [[Extensive Blog Post on Tools for Thought]]
 - Massive extensive blog post on social infrastructure 
 - Massive extensive blog post on serendipity.
 - Discuss the technology in this [[Making Massive Input Better]]

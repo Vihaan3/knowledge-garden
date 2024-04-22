@@ -1,4 +1,4 @@
-
+#competitive_programming 
 ## Finding the Maximum x Such That f(x) = true
 
 We want to construct a function `lastTrue` such that `lastTrue(lo, hi, f)` returns the last `x` in the range `[lo,hi]` such that `f(x) = true`. If no such `x` exists, then `lastTrue` should return `lo-1`.

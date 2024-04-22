@@ -1,3 +1,4 @@
+#unfinished #meta-thinking 
 [[Ideas as social graphs]]
 [[Idea Triggers]]
 [[How do researchers get new ideas]]

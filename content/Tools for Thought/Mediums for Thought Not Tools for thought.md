@@ -1,3 +1,5 @@
+#unfinished #tools_for_thought 
+
 https://thesephist.com/posts/browser/
 
 ## Intro

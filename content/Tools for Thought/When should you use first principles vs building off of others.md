@@ -1,3 +1,4 @@
+#unfinished #meta-thinking 
 First Principles argument: You're not derivative, sometimes it's important to shoot yourself in the foot to gain a deeper understanding(https://jacobgw.com/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html), riskier of doing good work but higher chances of doing innovative work
 
 Learning from others argument: More efficient (it's faster to learn from others and make sure that your work isn't just doing what somebody else's already done), maybe derivative is okay if you're expanding, more likely that you can do good work by maybe higher chances???

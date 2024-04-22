@@ -1,4 +1,4 @@
-#economics/business #brain_hacking 
+#economics/business #meta-thinking #startup 
 https://paulgraham.com/startupideas.html
 https://www.julian.com/guide/startup/
 https://startupclass.samaltman.com/

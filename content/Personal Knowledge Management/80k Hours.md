@@ -1,3 +1,4 @@
+#career 
 ## Misc
 - The work you enjoy most isn't necessarily the one with the highest pay, but the one that has the best colleagues, the feeling of most impact, and the one where you have the greatest personal fit
 - 3 Factors to evaluate jobs based purely on amount of good done

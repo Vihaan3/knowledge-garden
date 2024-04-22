@@ -1,4 +1,4 @@
-#pattern #unfinished 
+#pattern #unfinished #empty 
 
 - [ ] flesh out what evergreen notes are and what they mean to you   
 

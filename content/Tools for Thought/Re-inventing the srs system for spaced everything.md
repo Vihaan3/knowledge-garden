@@ -1,3 +1,4 @@
+#user_interaction #tools_for_thought 
 [[Spaced everything]] + [[Building a better memory system]]
 A new tool would probably have a different scheduling algorithm where you can suggest the first day you want a card to repeat and what time interval (long, short, medium).
 

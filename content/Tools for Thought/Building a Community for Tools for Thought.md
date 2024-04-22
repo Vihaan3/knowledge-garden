@@ -1,3 +1,4 @@
+#culture #meta-research #tools_for_thought
 https://thesephist.com/posts/research-community/
 https://www.patreon.com/posts/ratcheting-in-47976114
 

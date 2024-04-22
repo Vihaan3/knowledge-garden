@@ -1,4 +1,4 @@
-#technology #unfinished 
+#technology #unfinished #to-learn #empty 
 ### Theory
 Crawler + Index + Algorithm
 

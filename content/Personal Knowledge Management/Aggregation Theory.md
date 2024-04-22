@@ -1,4 +1,4 @@
-#economics/business 
+#economics/business #startup 
 
 From: https://stratechery.com/2015/aggregation-theory/ + https://stratechery.com/2017/defining-aggregators/
 

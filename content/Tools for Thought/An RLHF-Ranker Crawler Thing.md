@@ -1,3 +1,4 @@
+#technology/ai #user_interaction #search #unfinished #tools_for_thought 
 #### Manifesto
 As more people become creators with AI, search becomes increasingly important (at least until training becomes so cheap that everyone can have personalized agents creating content tailor-made for them). Google has been starting to feel crummy as a user experience for several years now, and I think search experiences in general will continue to get worse without significant overhauls into the core ideas behind search. A new [Anatomy of a Large-Scale Hypertextual Web Search Engine](https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/).
 

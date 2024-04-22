@@ -1,3 +1,4 @@
+#tools_for_thought  #meta-thinking/meta-learning #culture 
 Inspiration: https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp
 - Testing and developing better cultural practices that help you think and learn better
     - Promote the use of [[Evergreen Notes]]

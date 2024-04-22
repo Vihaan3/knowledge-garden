@@ -1,3 +1,4 @@
+#meta-research #unfinished #to-learn 
 Super important to study progress itself, and how insights happen. This can help me understand better ways to build a community with syngenious and with my tft research. **I want to build the next Bell Labs/the next Silicon Valley but online. How can that happen?** (While also keeping things fun. This is probably another question to ask while building social infrastructure. What's the focus on inspiring innovation and building and entrepreneurship and excellence vs just providing a community and which is preferable?)
 
 Foundational text: https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/

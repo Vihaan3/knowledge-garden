@@ -1,4 +1,4 @@
-#economics/business 
+#economics/business #startup 
 https://www.julian.com/guide/startup/  From same author as [[How to Write Better]]. Somewhat similar to [[Outside advice for ambitious teenagers]]. 
 ## Market Pull
 **"Market pull is when consumers reflexively want a product upon learning of it, and they're willing to do whatever is required to get it"**. 

@@ -1,4 +1,4 @@
-#brain_hacking #unfinished 
+#meta-thinking  #unfinished 
 Most of the value in the world is in contrarian thinking about the future from [[Outside advice for ambitious teenagers]]. 
 
 The best ways to develop contrarian ideas about a field is to get to the frontiers of knowledge in the field and notice promising gaps. 

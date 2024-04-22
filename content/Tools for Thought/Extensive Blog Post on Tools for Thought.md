@@ -1,4 +1,5 @@
-Use these resources to search for other ideas about this stuff.
+#unfinished #tools_for_thought #empty 
+[[How can we develop transformative tools for thought]]
 https://thesephist.com/
 https://notes.andymatuschak.org/zPKTSiU725W9WQCqoVPBcxm
 https://notes.jessmart.in/Lab+Notebook/About+this+lab+notebook

@@ -1,4 +1,4 @@
-#brain_hacking
+#meta-thinking 
 Based on what I know from [[Generating novel insights]] and [[How to train yourself to think a certain way]]
 
 - Read a lot from people who constantly search for gaps in the world to prime my brain to look for those

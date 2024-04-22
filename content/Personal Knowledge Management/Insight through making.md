@@ -1,4 +1,4 @@
-[[The dots connect in the end|Ideas and thinking are great]], but execution is also important, even if just to develop more ideas. 
+[[The dots connect in the end|Ideas and thinking are great]], but execution is also important for [[Understanding the shape of an idea]] (besides it's even greater inherent worth). 
 
 The process of having to translate something abstract in your head to something concrete leads to tons of new ideas because that translation is *almost always* so much harder than it seems at first that you have to engage your [[Thinking, Fast and Slow|System 2]] more. There's also just the fact that you have to sit with and play with the idea for longer during that process of translation. 
 

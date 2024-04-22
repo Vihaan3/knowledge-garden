@@ -1,4 +1,4 @@
-#memory_systems 
+#memory_systems #tools_for_thought 
 
 Primary inspiration: https://michaelnotebook.com/bbms/index.html
 

@@ -1,3 +1,5 @@
+#meta-thinking/meta-learning #tools_for_thought 
+
 - [[Massive Input vs Spaced Repetition]]
 - [[Evergreen Notes]]
 - [[Expert and AI Mnemonic Mediums]]
