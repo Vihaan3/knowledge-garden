@@ -22,7 +22,6 @@ For example, for the folder `content/posts`, you can add another file `content/p
 
 Quartz will also create an index page for each unique tag in your vault and render a list of all notes with that tag.
 
-Quartz also supports tag hierarchies as well (e.g. `plugin/emitter`) and will also render a separate tag page for each level of the tag hierarchy. It will also create a default global tag index page at `/tags` that displays a list of all the tags in your Quartz.
 
 You can link to the tag listing by referencing its name with a `tag/` prefix, like this: `[[tags/plugin]]` (results in [[tags/plugin]]).
 
