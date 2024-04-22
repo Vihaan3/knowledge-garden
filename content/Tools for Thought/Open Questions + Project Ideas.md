@@ -15,7 +15,7 @@ Some questions I'm thinking about and projects I want to work on in the somewhat
 #### AI
 *Disclaimer: I have only been getting into AI recently, so all of these thoughts might already exist or be extremely stupid. I'm just trying to take advantage of the fact that I'm new to the field while I still am, because newcomers can often question things that others take for granted. Would especially love being contacted for these if you have any feedback!*
 - Guiding AI to do what you want is hard, because plain English is not always the highest fidelity [[Notation|notation]] for your thoughts. What does a programming language for guiding AI-generated code look like? Deep explorations into prompt engineering techniques would be useful for this.
-	- Building off this idea, could something like an AI language be used to wrap "general" AIs like GPTs around narrowly trained AIs instead of just using clever prompting engineering techniques on top of GPT like many companies seem to be doing today? This could help with the issue that you want most public-facing narrow AI applications to understand text well, but training for that understanding reduces the narrowness. Basically, user passes in text -> converted by a general AI into the language -> narrow AI -> narrow AI gives output in language -> general AI spits it out for the user.
+	- Building off this idea, could something like an AI language be used to wrap "general" AIs like GPTs around narrowly trained AIs instead of just using clever prompting engineering techniques on top of GPT like many companies seem to be doing today? This could help with the issue that you want most public-facing narrow AI applications to understand text well, but training for that understanding reduces the narrowness. Basically, user passes in text -> converted by a general AI into the language -> narrow AI -> narrow AI gives output in language -> general AI spits it out for the user. ^859f92
 - How do humans operate without well-defined goals, and could that be extrapolated to alignment? 
 	- [This](https://evanjconrad.com/posts/world-models) suggests a somewhat interesting approach. Just bias it excessively towards loving humanity at first???
 - How many "parameters" did evolution give us? Many people talk about how humans can learn things in much less time and with less data than models, but I suspect that most of the architecture for that learning was already in place because of evolution.
@@ -25,6 +25,8 @@ Some questions I'm thinking about and projects I want to work on in the somewhat
 	- I think you could go quite far, but I'm not sure how much novel reasoning there could be with just next-token prediction. The quality of much of the data on the internet is low, and I'm not sure you could get too far with only "high-quality" data. 
 - I like Sakana AI's [idea of using evolution](https://sakana.ai/evolutionary-model-merge/). Where else could that apply?
 	- For the last: Natural selection for data? I don't know what you would be selecting on, but it seems interesting.
+- [[The Busy Person's Introduction to Large Language Models#System 1 vs. System 2|How can we give LLMs System 2s]]?
+- [[The Busy Person's Introduction to Large Language Models#Self-improvement|How do we unlock the step 2 of LLMs?]] (Allow them to truly be superhuman in their responses)
 #### Other
 - #consciousness 
 - To what extent is human knowledge inherently dual use? Michael Nielsen presents a disturbingly compelling case here: https://michaelnotebook.com/xrisk/ (cmd/ctrl-f "dual use").
