@@ -1,6 +1,8 @@
 #unfinished 
 [[Bayes Theorem]]
 
+A symptom of the observations on [[Cognitive Ease]].
+
 Raw experience + context (previous beliefs, ideas -> your priors) = perceptions
 
 Every time you have an experience on a topic, your priors update slightly based on your experience. For example, if you had a good experience with a dog, your prior might be that all dogs are good. Then, if you have a bad experience, your prior might update to some dogs are good and some dogs are bad. 

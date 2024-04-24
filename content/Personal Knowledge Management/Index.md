@@ -15,6 +15,7 @@ In here, I've linked to several articles that I've read before. If you want to s
 	- #technology + #technology/ai 
 	- #meta-thinking 
 	- #culture 
+	- #book 
 
 ##### Common Abbreviations:
 - TFT in place of tools for thought

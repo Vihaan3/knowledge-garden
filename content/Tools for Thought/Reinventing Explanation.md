@@ -4,3 +4,4 @@
 [https://notes.jessmart.in/Lab+Notebook/Evergreen+Notes/Reinventing+the+Book](https://notes.jessmart.in/Lab+Notebook/Evergreen+Notes/Reinventing+the+Book)
 [[Enacted Experiences]]
 [[Enabling Environments]]
+[[Thinking, Fast and Slow]] -> it's very helpful to explain things through the use of fictitious agents

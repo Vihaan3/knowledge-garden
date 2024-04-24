@@ -10,7 +10,8 @@ Some questions I'm thinking about and projects I want to work on in the somewhat
 - I like Sakana AI's [idea of using evolution](https://sakana.ai/evolutionary-model-merge/). Where else could that apply?
 	- Natural selection for data? I don't know what you would be selecting on, but it seems interesting.
 - [[The Busy Person's Introduction to Large Language Models#System 1 vs. System 2|How can we give LLMs System 2s]]?
-- [[The Busy Person's Introduction to Large Language Models#Self-improvement|How do we unlock the step 2 of LLMs?]] (Allow them to truly be superhuman in their responses)
+- [[The Busy Person's Introduction to Large Language Models#Self-improvement|How do we unlock the step 2 of LLMs?]] 
+	- Right now, they can only be as good as the best humans at writing, conversing, and almost even "thinking". This might not seem that bad until you read something like [[Thinking, Fast and Slow]] and realize how many shared cognitive biases we have.
 - Guiding AI to do what you want while coding is hard, because plain English is not always the highest fidelity [[Notation|notation]] for your thoughts. What does a programming language for working with AI-generated code look like? Deep explorations into prompt engineering techniques would be useful for this.
 	- Building off this idea, could something like an AI language be used to wrap "general" AIs like GPTs around narrowly trained AIs instead of just using clever prompting engineering techniques on top of GPT like many companies seem to be doing today? This could help with the issue that you want most public-facing narrow AI applications to understand text well, but training for that understanding reduces the narrowness. Basically, user passes in text -> converted by a general AI into the language -> narrow AI -> narrow AI gives output in language -> general AI spits it out for the user. 
 

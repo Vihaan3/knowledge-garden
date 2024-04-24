@@ -1,5 +1,9 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/23/2024
+- Started reading GEB
+- fast.ai!
+
 #### 4/22/2024
 - fast.ai!
 

@@ -11,7 +11,7 @@ Only give your system 1 credence if you've had the opportunity to train your pat
 	- Distinguish as sharply as you can between the known and unknown and leave no assumption unscrutinized
 	- Adopt the outside view and put the problem into a comparative perspective that downplays its uniqueness and treats it as a special case of a wider class of phenomena.
 	- Then adopt the inside view that plays up the uniqueness of the problem
-	- Also explore the similarities and differences between your views and those of others-- and pay special attention to prediction markets and other methods of extracting wisdom from crowds. 
+	- Also explore the similarities and differences between your views and those of others-- and pay special attention to prediction markets and other methods of extracting wisdom from crowds. Ctrl-f wisdom of crowds [[Thinking, Fast and Slow]] 
 	- Synthesize all these different views into a single vision as acute as that of a dragonfly.
 	- Express your judgement as precisely as you can, using a finely grained scale of probability
 - When should you update in response to new information?

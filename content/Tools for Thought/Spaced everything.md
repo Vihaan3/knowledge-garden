@@ -11,3 +11,4 @@ However, the scheduling of all the srs apps I've come across are pretty inflexib
 - Certain types of tasks
 - Habit tracking 
 - Reading inbox
+- [[The Priming Effect|Identity change]]
