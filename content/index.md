@@ -10,12 +10,13 @@ In here, I've linked to several articles that I've read before. If you want to s
 - [[Excitingly Ambitious Journal]] as a /now
 - [[Projects]] + [[Open Questions + Project Ideas]] 
 - [[Soon Blog Posts]]
-- `[[tags/|Tags]]`
+- Some tags with cool things
 	- #tools_for_thought 
 	- #technology + #technology/ai 
 	- #meta-thinking 
 	- #culture 
 	- #book 
+- Open the graph below and click around!
 
 ##### Common Abbreviations:
 - TFT in place of tools for thought
