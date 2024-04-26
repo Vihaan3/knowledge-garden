@@ -10,7 +10,7 @@ In here, I've linked to several articles that I've read before. If you want to s
 - [[Excitingly Ambitious Journal]] as a /now
 - [[Projects]] + [[Open Questions + Project Ideas]] 
 - [[Soon Blog Posts]]
-- `[[tags/plugin|Tags]]`
+- `[[tags/|Tags]]`
 	- #tools_for_thought 
 	- #technology + #technology/ai 
 	- #meta-thinking 
