@@ -1,5 +1,20 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 4/27/2024 (ridiculously excitingly ambitious)
+- Discovered [Nicky Case](https://ncase.me/)
+- Drafted out a website for Hack Club (CNHS)
+- Continued listening to the podcast episode
+- Tons of guitar
+- Continued reading GEB
+
+#### 4/26/2024
+- Started listening to Dwarkesh Patel's [[Sholto Douglas + Trenton Bricken + Dwarkesh Patel|podcast episode]] with Trenton Bricken and Sholto Douglas. So far it's been really really cool (although I have to pause to search things up 80% of the time).
+- Had a THLI meeting on https://www.gather.town/
+
+#### 4/24/2024
+- Continued reading GEB
+- Worked a lot on the notes
+
 #### 4/23/2024
 - Started reading GEB
 - fast.ai!
