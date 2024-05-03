@@ -1,5 +1,21 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 5/2/2024
+- Probably the worst day of allergies I've ever had so nothing much (excuses, excuses)
+
+#### 5/1/2024
+- Jazz Festival at CBA!
+	- There was a guitarist there who was absolutely insane. Motivated me a lot to get better at raw shredding
+
+#### 4/30/2024
+- Tried (and failed) to "find my style" in guitar
+
+#### 4/29/2024
+- Deployed a small tool to HuggingFace!
+
+#### 4/28/2024
+- ~~Basically read GEB the entire day and did nothing else~~
+
 #### 4/27/2024 (ridiculously excitingly ambitious)
 - Discovered [Nicky Case](https://ncase.me/)
 - Drafted out a website for Hack Club (CNHS)
@@ -9,7 +25,7 @@ A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambiti
 
 #### 4/26/2024
 - Started listening to Dwarkesh Patel's [[Sholto Douglas + Trenton Bricken + Dwarkesh Patel|podcast episode]] with Trenton Bricken and Sholto Douglas. So far it's been really really cool (although I have to pause to search things up 80% of the time).
-- Had a THLI meeting on https://www.gather.town/
+- Had a THLI meeting on https://www.gather.town/. It was super awesome! Also had a great idea about potentially hosting monthly hackathons using it.
 
 #### 4/24/2024
 - Continued reading GEB

@@ -1,3 +1,5 @@
+- [[My (More Than a) Kilobyte]]
+- What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]].
 - [[On the importance of friction]]
 - [[What we should be doing in English class]]
 - Some kind of quantified self-type project?
