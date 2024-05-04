@@ -1,0 +1,3 @@
+#user_interaction #tools_for_thought 
+
+> Software design so often focus on the first few hours of someone's experience. Yet what you really want is to max out the experience someone is having in their thousandth or ten thousandth hour of use. Pianos seem designed primarily for experts and only incidentally for beginners. If you were designing the piano with modern software design practice in mind it would have 8 white keys, no black keys, and no pedals. It'd be easy to play some simple songs, and that's it. What we're really looking for is ideas which can be the foundation for long-run improvement, with an extraordinarily high ceiling. - [Michael Nielsen](https://michaelnotebook.com/bbms/index.html)

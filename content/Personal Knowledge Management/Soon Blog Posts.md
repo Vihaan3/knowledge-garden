@@ -1,4 +1,5 @@
 - [[My (More Than a) Kilobyte]]
+- [[Search of the future]]
 - What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]].
 - [[On the importance of friction]]
 - [[What we should be doing in English class]]
@@ -6,7 +7,6 @@
 	- Want to track ideas as a result of journaling + note-taking + anki, but idk how to weight different ideas
 - [[How to train yourself to think a certain way]]
 - [[Life advice for myself]]
-- [[Search of the future]]
 - [[Tensions]]
 - [[Engelbart on aiding cognition]] -> use the Engelbart quote and try to break it down to get new and better ideas.
 - [[Generating novel insights]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think

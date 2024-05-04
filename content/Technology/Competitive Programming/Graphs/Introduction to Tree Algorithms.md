@@ -22,7 +22,7 @@
 
 ## Tree Traversal
 [[Graph Traversal]]
-Tree traversal is usually done using bfs, but you don't have to worry about being able to visit every node, so it's a little bit easier. 
+Tree traversal is usually done using dfs, but you don't have to worry about being able to visit every node, so it's a little bit easier. 
 
 ```
 //s = current node and e = previous node

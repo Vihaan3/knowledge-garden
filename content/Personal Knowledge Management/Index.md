@@ -10,6 +10,7 @@ In here, I've linked to several articles that I've read before. If you want to s
 - [[Excitingly Ambitious Journal]] as a /now
 - [[Projects]] + [[Open Questions + Project Ideas]] 
 - [[Soon Blog Posts]]
+- [[My (More Than a) Kilobyte]]
 - [Tags](https://vihaan3.github.io/knowledge-garden/tags/) (really an internal link)
 	- #tools_for_thought 
 	- #technology + #technology/ai 
