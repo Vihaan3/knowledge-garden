@@ -1,5 +1,9 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 5/3/2024
+- Held a meeting with gather
+- Continue fast.ai
+
 #### 5/2/2024
 - Probably the worst day of allergies I've ever had so nothing much (excuses, excuses)
 
@@ -11,7 +15,7 @@ A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambiti
 - Tried (and failed) to "find my style" in guitar
 
 #### 4/29/2024
-- Deployed a small tool to HuggingFace!
+- Deployed a small tool to HuggingFace! with fast.ai
 
 #### 4/28/2024
 - ~~Basically read GEB the entire day and did nothing else~~
