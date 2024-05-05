@@ -1,3 +1,4 @@
+- [[You can change your identity]] or "Keeping your identity large"
 - [[My (More Than a) Kilobyte]]
 - [[Search of the future]]
 - What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]].
@@ -16,8 +17,7 @@
 - How to actually build a proper tft movement [[Building a Community for Tools for Thought]], also look at notes in Anki and write a full write-up that summarizes actionable next steps.
 - [[Memetics]]
 - [[Extensive Blog Post on Tools for Thought]]
-- Massive extensive blog post on social infrastructure 
-- Massive extensive blog post on serendipity.
+- extensive blog post on social infrastructure 
+- extensive blog post on serendipity.
 - Discuss the technology in this [[Making Massive Input Better]]
-- Meditative exercises: guitar, swimming, etc
 
