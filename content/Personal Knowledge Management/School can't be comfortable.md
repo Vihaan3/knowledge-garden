@@ -1,18 +1,20 @@
-If [[You can't be comfortable]], if you want to learn effectively and [[There is no speed limit]] other than a self-imposed one, than school is pretty bad for learning. Mostly because most high-achieving kids in school are completely in it for the grades, and they'll complain at anything that has the possibility of bringing their oh-so-perfect 100 down the tiniest bit.
+#meta-thinking/meta-learning 
 
-### An ideal school structure that prioritizes life-long learning, should probably have these qualities:
-- Only pop assessments, and these assessments should actually test your learning instead of being simple pattern-matching. Probably little to no multiple choice
-	- Use of memory systems (especially srs) should probably become standard to make this low-stress
-- homework that's difficult and actually pushes you to apply and expand on what you've learned in class
-	- no fake class work and home work that doesn't actually teach you anything and is merely meant to keep you busy
-- Popcorn calling instead of voluntary participation
-- This: [[What we should be doing in English class]]
-- Faster pace with the resources and scaffolding to learn outside of class if you fall behind
+See [[What my ideal high school looks like]] for something more personal and slightly more developed.
+
+If learning effectively requires [[You can't be comfortable|discomfort]] and [[There is no speed limit]] other than a self-imposed one, then most current high school environments don't seem optimal for actual learning. What frustrates me the most is that most students aren't taught core meta-learning skills. Almost everything that is learnt is *very* quickly forgotten, and for many people it ends up just being an elaborate mechanism that lets them get a taste of many different fields/modes of thinking. Most students are just trying to get the best possible grades with the least amount of effort. 
+
+I think we can do way better.
+##### An ideal school structure that prioritizes real learning should probably have these qualities:
+- **Core: The use of spaced repetition systems and other memory systems should be highly encouraged.** This allows for everything else. 
+- Only pop assessments, and these assessments should actually test your learning instead of simple pattern-matching. Little to no multiple choice.
+- Homework that's difficult and actually pushes you to apply and expand on what you've learned in class. **No busywork.**
+- [[What we should be doing in English class]]
+- Much faster pace with very good resources and scaffolding to learn outside of class if you fall behind
 - Gym should actually push you to become stronger, more athletic, and healthier all around
-- Somehow develop a general student culture that values intellectual curiosity
-- To accommodate for all of this there should be:
-	- Greater autonomy in choosing what classes you want to take so that you only learn what you genuinely want to learn
-	- A different grading system somehow that reflects the rigor
-		- Notes on the word "rigor" -> most "rigorous" schools/programs just give more busywork than other ones instead of actually being more intellectually rigorous. There's no value in hard work for the sake of hard work.
+- Somehow develop a general student culture that values intellectual curiosity, and being a "nerd" doesn't require fighting social currents
+- Greater autonomy in choosing what classes you want to take so that you only learn what you genuinely want to learn
+- A different grading system somehow that reflects the rigor
+	- Note on the word "rigor": most "rigorous" schools/programs just give more busywork than other ones instead of actually being (much) more intellectually rigorous. There's no value in hard work for the sake of hard work.
 
-It's weird to write this because I know that up to a few months ago I would've detested a school like this.
+Note: I don't believe that most schools have ulterior motives or don't care about their students. It's just that there is an outdated status quo that has [[Ossification|ossified]]. Also, [[Goodhart's law]] has taken over basically everywhere. 

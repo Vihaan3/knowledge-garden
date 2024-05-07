@@ -1,8 +1,8 @@
-A lot of the time we spend in English is wasteful, and building skills that I honestly don't think really matter. Even in academia, I won't be using the writing methods that my English teachers expect from me. I have a suspicion that most of those methods (introduction, 3 body paragraphs, conclusion) were just standardized to make it easier to grade (or that might be a major factor why). 
-
+A lot of the time we spend in English is wasteful, and building skills that I honestly don't think really matter.
 What we should be learning (some of this is taught somewhat, but the focus should be increased)
+
 - Be able to critically analyze other writing
-	- This is probably the only thing we do somewhat well
+	- Something we do well in school
 - Learn [[How to make ideas spread]]
 	- Learn and practice [[How to Write Better]]
 	- Learn and practice [[How to be a great storyteller]]
