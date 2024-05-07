@@ -1,5 +1,14 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 5/6/2024
+- Talked with [[Elijah]] for an hour and a half
+
+#### 5/5/2024
+- Allergies were brutal, but I watched 3b1bs video on attention
+
+#### 5/4/2024
+- Had a devestating headache, but still managed to get a ton of competitive programming done
+
 #### 5/3/2024
 - Held a meeting with gather
 - Continue fast.ai
