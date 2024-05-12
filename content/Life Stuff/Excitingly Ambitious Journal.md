@@ -1,5 +1,11 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 5/12/2024
+- Finished the soccer website!
+
+#### 5/7/2024-5/11/2024
+- Forgot to keep track
+
 #### 5/6/2024
 - Talked with [[Elijah]] for an hour and a half
 
