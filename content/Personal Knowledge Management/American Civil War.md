@@ -2,7 +2,7 @@
 
 https://podcasts.apple.com/gb/podcast/american-civil-war-the-causes/id1537788786?i=1000567780922 + the rest of that series
 
-Frightening parallel between the American Civil War and today: you are at a time when *all* issues divide (almost) evenly on partisan lines.
+Frightening parallel between the American Civil War and America today: you are at a time when *all* issues divide (almost) evenly on partisan lines.
 
 This leads to a host of problems. 
 1. Because both parties divide evenly across the spectrum, there's little room for compromise on any subject, which makes both parties hate each other even more and increases the echo chamber in each party.
@@ -13,3 +13,5 @@ This leads to a host of problems.
 Many people view Reconstruction as a failure, but that's only because of a modern perspective. Many white northerners didn't really care about racial justice, and were only in it to save the Union and bring back stability. Reconstruction accomplished that.  
 
 Interesting: cricket was actually pretty successful in America until civil war camps made it easier to play baseball because it was hard to set up a pitch. 
+
+Interesting: Advocates of the "Lost Cause" argue that the war was over states' rights when Southern states were just as willing to use the power of the federal government over the Northern states when it suited them. 
