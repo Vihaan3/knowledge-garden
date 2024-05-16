@@ -1,5 +1,15 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+
+#### 5/15/2024
+- GOT UNSTUMPED! I love 3blue1brown
+
+#### 5/14/2024
+- Getting stumped by some of the math in fast.ai lecture 3
+
+#### 5/13/2024
+- Turns out I wasn't finished with the soccer website :(
+
 #### 5/12/2024
 - Finished the soccer website!
 
