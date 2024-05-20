@@ -1,20 +1,18 @@
+- [[My Autobiography]]
+- [[What we should be doing in English class]] + [[What my ideal high school looks like]]
+- What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]].
 - [[You can change your identity]] or "Keeping your identity large"
 - [[My (More Than a) Kilobyte]]
 - [[Search of the future]]
-- What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]].
 - [[On the importance of friction]]
-- [[What we should be doing in English class]] + [[What my ideal high school looks like]]
-- Some kind of quantified self-type project?
-	- Want to track ideas as a result of journaling + note-taking + anki, but idk how to weight different ideas
 - [[How to train yourself to think a certain way]]
 - [[Life advice for myself]]
 - [[Tensions]]
 - [[Engelbart on aiding cognition]] -> use the Engelbart quote and try to break it down to get new and better ideas.
 - [[Generating novel insights]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think
-- How to [[Dealing with lots of good content]]
 - [[Craft vs Imperfection or Depth vs. Speed]]
 - [[How to make good predictions]]
-- How to actually build a proper tft movement [[Building a Community for Tools for Thought]], also look at notes in Anki and write a full write-up that summarizes actionable next steps.
+- [[Building a Community for Tools for Thought]]
 - [[Memetics]]
 - [[Extensive Blog Post on Tools for Thought]]
 - extensive blog post on social infrastructure 
