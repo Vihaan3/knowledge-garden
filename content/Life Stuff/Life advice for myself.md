@@ -2,6 +2,8 @@ Built off of [[Outside advice for ambitious teenagers]].
 
 *Just based off of what I've read and speaking to some older friends. No personal experience.*
 
+Take a lot of advice from [[My (More Than a) Kilobyte]]. 
+
 Learn core skills that you don't get taught in school:
 - All the different [[People Skills]]
 - Learning fast -> spaced repetition systems
@@ -12,3 +14,5 @@ Learn core skills that you don't get taught in school:
 Don't really worry too much about whether or not you're going in the right direction because there's very few ways to know what the right direction is. Make sure to focus on the ambitious part because this is how you develop [[Agency]]. 
 
 Make a habit of trying to think from [[First Principles]]
+
+#unfinished 

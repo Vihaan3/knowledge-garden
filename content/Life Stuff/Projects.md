@@ -26,3 +26,4 @@ These are some projects that I'm either working on or planning to work on in the
 	- Some NLP and other techniques
 	- Some sort of unique ranking through experimentation
 - A flashcard chrome extension that uses an LLM to turn any text into a [mnemonic medium](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) like [Quantum Country](https://quantum.country/).
+

@@ -19,3 +19,6 @@ What we should be learning (some of this is taught somewhat, but the focus shoul
 	- Note-taking practices
 		- [[Evergreen Notes]]
 	- Memorization practices potentially
+
+
+#meta-thinking/meta-learning #memory_systems #note-taking 

@@ -26,3 +26,6 @@ Identifying a company with a breakout trajectory
 2. It has traction or has the potential to gain traction.
 
 If you're forcing yourself to think of a startup idea just to think of an idea, you shouldn't start up. 
+
+
+#literature-note 

@@ -9,3 +9,5 @@ Given an array of numbers and a target sum, find two array values such that thei
 Sort the array in increasing order. Then, start the left pointer at the first value and the right pointer at the end. The left pointer moves one step to the right on each turn, and the right pointer moves left until the sum of the left and right value is at most the target on each turn.  
 
 The run time of this is O (n log n) because the sorting takes O (n log n) time before the pointers can travel (they only take O(n)).
+
+#competitive_programming 

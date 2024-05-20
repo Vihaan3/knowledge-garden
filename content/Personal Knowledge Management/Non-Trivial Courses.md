@@ -31,3 +31,6 @@ https://ea-internships.pory.app/board
 Reach high, but have backups because they will let you truly reach high. (Or alternatively burn all your ships [[Burning ships]])
 
 https://www.givingwhatwecan.org/get-involved/share-our-ideas/guide-to-talking-about-effective-altruism
+
+
+#literature-note 

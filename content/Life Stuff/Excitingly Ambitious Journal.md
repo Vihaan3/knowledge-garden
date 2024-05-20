@@ -1,5 +1,7 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 5/16/2024-5/19/2024
+- More website work + road trip
 
 #### 5/15/2024
 - GOT UNSTUMPED! I love 3blue1brown

@@ -1,4 +1,4 @@
-#history #unfinished 
+#history #unfinished #literature-note 
 
 https://podcasts.apple.com/gb/podcast/young-putin-the-kgb-and-the-soviet-union/id1537788786?i=1000553113993 + the rest of this series
 

@@ -60,3 +60,6 @@ What are systems as sholto talks about?
 
 Sholto and Trenton backstories: Both of them are incredibly agentic people. If they face a roadblock they'll just go ahead and solve the entire thing vertically instead of sitting around and waiting for it to get fixed. Worked on a lot of interesting things themselves and got hired by putting themselves out there and having luck strike.
 
+
+
+#technology/ai 

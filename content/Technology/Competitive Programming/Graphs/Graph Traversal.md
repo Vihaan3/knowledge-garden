@@ -67,3 +67,5 @@ Common use cases for undirected graphs:
 1. Checking for connectivity in the graph. A graph is connected if you can start at any node and end up at any other node. You can check if a graph is connected by starting at a random node and finding out if you can reach all the other ones.
 2. Finding cycles: A cycle is when you find a neighbor other than the previous node that's already been visited. ![[Pasted image 20240131175252.png]]
 3. Bipartiteness check: A graph is bipartite if its nodes can be colored using two colors such that there are no adjacent nodes with the same color. The way you check it is coloring node 1 blue, all its neighbors red, all their neighbors blue, and so on. If there are two adjacent nodes that have the same color, it's not bipartite.
+
+#competitive_programming 

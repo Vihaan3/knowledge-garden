@@ -11,3 +11,5 @@ Here's how it works:
 This approach aims to shift the focus from "winning" the argument to genuinely understanding each other's views and potentially changing your mind if evidence suggests your initial belief was flawed.
 
 A personal application of this that works really well with reconciling arguments within yourself is the [[Internal Double Crux]].
+
+#meta-thinking 

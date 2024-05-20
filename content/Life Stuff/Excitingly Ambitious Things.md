@@ -5,3 +5,6 @@
 - Building my first large-scale full-stack application through my [[Spaced everything]] web app
 - Becoming a (relatively) good songwriter in tandem with upskilling guitar -> [[There is no speed limit]]
 - Mastering the craft of writing and [[How to make ideas spread]]
+
+
+#pattern #personal 

@@ -28,3 +28,4 @@ $$
 
 We only need to access 4 values for an submatrix, which means that this solution will run in O(Q) time after a processing of O(NM) time. 
 
+#competitive_programming 

@@ -23,3 +23,5 @@ Basically I can boil it down to:
 6. Iteratively improve your writing over time.
 
 But probably the most important thing that's the bedrock of all of this is **hone your craft**/**adopt the craftsman's mindset**. Pursue virtuosity in this field like a basketball player would pursue virtuosity. 
+
+#meta-thinking #

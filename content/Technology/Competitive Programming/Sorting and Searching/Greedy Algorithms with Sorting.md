@@ -18,3 +18,5 @@ Let's take the following example, where we have a maximum capacity of 4:
 |C|2|10|5|
 
 If we use greedy based on highest value first, we choose item A and then we are done, as we don't have remaining weight to fit either of the other two. Using greedy based on value per weight again selects item A and then quits. However, the optimal solution is to select items B and C, as they combined have a higher value than item A alone. 
+
+#competitive_programming 

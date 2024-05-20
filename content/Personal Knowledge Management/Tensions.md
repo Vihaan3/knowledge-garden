@@ -17,3 +17,5 @@ These are all false dichotomies; there is a fine balance for each of these that 
 	- Being underconfident vs overconfident
 	- Under-updating vs over-updating ([[Against Learning from Dramatic Events]])
 	- Inside vs Outside
+
+#unfinished 

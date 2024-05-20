@@ -161,3 +161,5 @@ You can ask for feedback for all of these things using this template:
 
 - Practice by writing persuasive essays. This helps you focus on improving (A) the quality of your thinking and (B) your eye for rewriting. Try writing posts that persuade your friends to change their minds.
 - Ask them to score how much your writing sustained their interest.
+
+#literature-note
