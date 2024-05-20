@@ -1,8 +1,10 @@
 - [[My Autobiography]]
 - [[What we should be doing in English class]] + [[What my ideal high school looks like]]
-- What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]].
-- [[You can change your identity]] or "Keeping your identity large"
 - [[My (More Than a) Kilobyte]]
+- [[You can change your identity]]
+- What are the biggest influences on our moral landscape? 
+- A [discovery fiction](https://michaelnotebook.com/df/index.html) on something interesting that I want to grok deeply
+- What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]]. 
 - [[Search of the future]]
 - [[On the importance of friction]]
 - [[How to train yourself to think a certain way]]
