@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 Hey! I'm Vihaan. 
 
 Right now, I'm fascinated by [[What my tft research should be|building tools that can augment cognition]], learning about AI, and competitive programming puzzles. Within building tools that augment cognition, I'm especially interested in [[Making Massive Input Better|information retrieval]]. I also want to eventually build the kind of [[Social Infrastructure]] for others that's been missing for a lot of my life. 
@@ -24,7 +28,7 @@ In here, I've linked to several articles that I've read before. If you want to s
 ##### Bugs to be fixed
 - Search might be broken because I keep failing to integrate semantic search after paying up for an OpenAI embeddings api key :(
 - The note dates update every time I sync with my Obsidian notes (which is everyday), so the dates for every note will almost always be within the last few days. 
-- Wonky formatting with tagging. 
+- I'm working on converting my tagging so that it's more Quartz-friendly. There might be wonky formatting with tags in many notes.
 - I've only been using Curius for a few days, so most of the articles here aren't saved to it yet.
 
 For more about me and contact info, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . 
