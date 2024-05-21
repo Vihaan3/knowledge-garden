@@ -1,6 +1,7 @@
 - [[My Autobiography]]
 - [[What we should be doing in English class]] + [[What my ideal high school looks like]]
 - [[My (More Than a) Kilobyte]]
+- [[The importance of having a fallback]]
 - [[You can change your identity]]
 - What are the biggest influences on our moral landscape? 
 - A [discovery fiction](https://michaelnotebook.com/df/index.html) on something interesting that I want to grok deeply

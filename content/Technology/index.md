@@ -1,0 +1,1 @@
+Home for vaguely tech-related notes that don't fall into the Tools for Thought folder.
