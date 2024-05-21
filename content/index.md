@@ -1,35 +1,23 @@
 ---
 tags:
 ---
-
 Hey! I'm Vihaan. 
 
-Right now, I'm fascinated by [[What my tft research should be|building tools that can augment cognition]], learning about AI, and competitive programming puzzles. Within building tools that augment cognition, I'm especially interested in [[Making Massive Input Better|information retrieval]]. I also want to eventually build the kind of [[Social Infrastructure]] for others that's been missing for a lot of my life. 
+You've stumbled across the very messy forest of my notes. They're pretty weird. Some notes address an imaginary reader, others address me, and still others are statements and don't address anybody in particular. They aren't terrifically public-facing by any means, but I do try (sometimes) to keep an audience in mind.  
 
-I keep an infrequently updated blog at https://vihaansondhi.substack.com/, but I spend a lot of time thinking, and I like [translating those ideas to words](https://paulgraham.com/words.html) in my journal. Inspired by [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes), [Jacky Zhao](https://jzhao.xyz/), and [Jess Martin](https://notes.jessmart.in/Lab+Notebook/About+this+lab+notebook), I've started this collection of writing as a way to publish the ideas that don't get lost in between my journal and the blog. Ideally, all of these notes should be [Evergreen](https://notes.andymatuschak.org/Evergreen_notes) (though most aren't perfect yet). The notes are kind of weird. Some of them address a reader, some of them address myself, and others are just statements not really targeted at anyone in particular. 
+These notes are generally on topics that interest me, so knowing more about me would probably help you get a grasp of the types of notes I would right about. 
+Right now, I'm fascinated by [[What my tft research should be|building tools that can augment cognition]], learning about AI, [history](https://podcasts.apple.com/gb/podcast/the-rest-is-history/id1537788786), and competitive programming puzzles. Within building tools that augment cognition, I'm especially interested in [[Making Massive Input Better|information retrieval]]. I also want to eventually build the kind of [[Social Infrastructure]] for others that's been missing for a lot of my life. 
 
-In here, I've linked to several articles that I've read before. If you want to see my highlights and notes on these articles, quickly sign up to https://curius.app/ and follow me at https://curius.app/vihaan-sondhi. You should see my profile at the top of any article that I've saved to Curius. 
+Visit [[Paths to get started|this note]] for potential paths to get started.  Visit [[Why this exists|this note]] to learn more about why this even exists.
 
-##### Paths to get started:
-- [[Excitingly Ambitious Journal]] as a /now
-- [[Projects]] + [[Open Questions + Project Ideas]] 
-- [[Soon Blog Posts]]
-- Some tags with cool things
-	- #tools_for_thought 
-	- #technology + #technology/ai 
-	- #meta-thinking 
-	- #culture 
-	- #book 
-- Open the graph below and click around!
+##### More housekeeping
+- Common abbreviations
+	- TFT in place of tools for thought
+	- SRS in place of spaced repetition system
+- Pesky bugs I'm working on fixing.
+	- The note dates update every time I sync with my Obsidian notes (which is everyday), so the dates for every note will almost always be within the last few days. 
+	- I'm working on converting my tagging so that it's more Quartz-friendly. There might be wonky formatting with tags in many notes.
+	- I've only been using Curius for a few days, so most of the articles here aren't saved to it yet.
 
-##### Common Abbreviations:
-- TFT in place of tools for thought
-- SRS in place of spaced repetition system
-##### Bugs to be fixed
-- Search might be broken because I keep failing to integrate semantic search after paying up for an OpenAI embeddings api key :(
-- The note dates update every time I sync with my Obsidian notes (which is everyday), so the dates for every note will almost always be within the last few days. 
-- I'm working on converting my tagging so that it's more Quartz-friendly. There might be wonky formatting with tags in many notes.
-- I've only been using Curius for a few days, so most of the articles here aren't saved to it yet.
-
-For more about me and contact info, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . 
+For more polished writing, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . If you want to talk about anything interesting that you find in these notes, email me at vihaansondhi07@gmail.com. 
 

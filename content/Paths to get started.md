@@ -1,0 +1,10 @@
+- [[Excitingly Ambitious Journal]] as a /now. 
+- [[Projects]] + [[Open Questions + Project Ideas]]
+- [[Soon Blog Posts]]
+- Some tags with cool things
+	- #book 
+	- #tools_for_thought 
+	- #technology + #technology/ai 
+	- #meta-thinking 
+	- #culture 
+	- #pattern 

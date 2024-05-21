@@ -1,0 +1,1 @@
+These are notes that are note-taking in the traditional sense of taking notes on another work. What distinguishes these notes from other notes where I take inspiration from outside works is that literature notes tend to have far less personal input.  

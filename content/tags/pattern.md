@@ -1,0 +1,1 @@
+Patterns are atomic notes and ideas that I reference often in other notes. 
