@@ -1,3 +1,4 @@
+- Click around on the graph :)
 - [[Excitingly Ambitious Journal]] as a /now. 
 - [[Projects]] + [[Open Questions + Project Ideas]]
 - [[Soon Blog Posts]]

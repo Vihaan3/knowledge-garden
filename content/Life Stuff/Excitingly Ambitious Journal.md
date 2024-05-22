@@ -1,5 +1,16 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+
+#### 5/22/2024
+- Tried (and failed) to re-build some of the fast.ai models from scratch
+	- Brushing up on some more advanced Python. 
+
+#### 5/21/2024
+- Updated this website a ton and added a ton of notes that I hadn't found the time to add
+
+#### 5/20/2024
+- Improvised a couple of guitar solos!
+
 #### 5/16/2024-5/19/2024
 - More website work + road trip
 
