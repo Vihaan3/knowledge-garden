@@ -1,6 +1,6 @@
 - [[My Autobiography]]
 - Education reform
-	- [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]]
+	- [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[School can't be comfortable]]
 - [[My (More Than a) Kilobyte]]
 - [[The importance of having a fallback]]
 - [[You can change your identity]]
