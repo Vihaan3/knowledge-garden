@@ -1,4 +1,4 @@
-#meta-thinking/meta-learning 
+#meta-thinking/meta-learning #education
 This is a high school that encourages high flexibility, and gives a lot of [[Agency]] to students. Selfishly, I believe cultivating agency, genuine knowledge, and a love for lifelong learning, vaguely in that order, should be the only priorities of school. For a more "structured" school plan, see [[School can't be comfortable]]. 
 
 1. Guiding principles: more flexibility and encourage high [[Agency]]. Should remove as many obstacles in the way of students [[Do what's excitingly ambitious|doing what's excitingly ambitious]] as possible.

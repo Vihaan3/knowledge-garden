@@ -1,6 +1,7 @@
+#education 
 A lot of the time we spend in English is wasteful, and building skills that I honestly don't think really matter.
-What we should be learning (some of this is taught somewhat, but the focus should be increased)
 
+Things we should be learning:
 - Be able to critically analyze other writing
 	- Something we do well in school
 - Learn [[How to make ideas spread]]
@@ -19,6 +20,7 @@ What we should be learning (some of this is taught somewhat, but the focus shoul
 	- Note-taking practices
 		- [[Evergreen Notes]]
 	- Memorization practices potentially
+- Other things from [[Schools that support democracies]]
 
 
 #meta-thinking/meta-learning #memory_systems #note-taking 

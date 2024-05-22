@@ -1,4 +1,4 @@
-#meta-thinking/meta-learning 
+#meta-thinking/meta-learning #education  
 
 See [[What my ideal high school looks like]] for something more personal and slightly more developed.
 
