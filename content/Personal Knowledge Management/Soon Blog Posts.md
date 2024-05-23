@@ -1,9 +1,11 @@
-- [[My Autobiography]]
-- Education reform
-	- [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[School can't be comfortable]]
+- Education reform: 
+	- There's four things especially wrong with schools. 1) You forget most of what you learn. 2) Most people leave school with a *hatred* of learning instead of a love for it. 3) Schools aren't the greatest at building a resilient citizenry well-suited to democracy 4) Most people leave school with very little [[Agency|agency]] 
+	- My answers to these issues: [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[School can't be comfortable]]
 - [[My (More Than a) Kilobyte]]
-- [[The importance of having a fallback]]
+- [[My Autobiography]]
 - [[You can change your identity]]
+- [[Anki Uses]] + How to learn well with anki
+- [[The importance of having a fallback]]
 - What are the biggest influences on our moral landscape? 
 - A [discovery fiction](https://michaelnotebook.com/df/index.html) on something interesting that I want to grok deeply
 - What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]]. 

@@ -1,0 +1,15 @@
+---
+tags:
+  - meta-thinking/meta-learning
+  - education
+  - empty
+---
+- For learning 
+	- Vaguely two types of cards
+		- Cards that build on knowledge
+		- Cards that test knowledge
+- Misc Uses
+	- Writing
+	- Tasks
+	- Habits
+	- Identity
