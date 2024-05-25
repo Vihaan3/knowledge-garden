@@ -25,4 +25,4 @@ I wanted to jot down some "off the top of my head" answers to interesting [John 
 		- Your moral intuitions are mostly a combination of things selected for by evolution + random things that you absorb from others. Those random things are mostly driven by [[Mimetics]]. 
 			- You easily could have very different moral intuitions in different circumstances
 - Is there such a thing as too much democracy?
-- Why do civilizations collapse? Is our civilization in danger? 
+- Why do civilizations collapse? Is our civilization in danger?
