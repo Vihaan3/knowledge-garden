@@ -4,7 +4,7 @@ tags:
   - meta-thinking/meta-learning
   - unfinished
 ---
-- [ ] Add notes on [[Nazis]], [[American Civil War]], [[Civil War]] 
+- [ ] Add notes on [[The Rise of the Nazis]], [[American Civil War]], [[Civil War]] 
 
 For all of their positives, representative democracies also tend to amplify some of the worst parts of tribalism and "human nature" (traits selected for by evolution). To make democracies better, it's incredibly important to have clear-thinking and resilient citizenries resistant to populism and civil war. This is a key goal of the education system, but I think it's gotten lost somewhere (or perhaps never existed off-paper). 
 

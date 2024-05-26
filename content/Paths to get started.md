@@ -9,4 +9,5 @@
 	- #meta-thinking 
 	- #culture 
 	- #pattern 
+	- #podcast 
 	- #history 

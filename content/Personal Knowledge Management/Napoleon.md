@@ -14,4 +14,4 @@ Surprisingly precocious
 Republican, but at the same time authoritarian. Loves order, hates mobs, and believes in strong government. 
 - This is what gets him fame and power. He beats down the Parisian mob when others were too squeamish to do so. 
 
-#history #unfinished #literature-note 
+#history #unfinished #literature-note #podcast 

@@ -20,6 +20,9 @@ For example: I had difficulty remembering what a weight (in a neural network) wa
 - What's the difference between a weight and a neuron?
 - The connections between neurons in different layers are called [(cloze deletion)].
 
+Another useful thing to think about when making cards is that you generally want prompts that are situation-oriented. 
+Prefer: "How do you find the max of all the values in a list in Python" - "max(list_name)" to "What does max(list_name) do?" "Find the max value in the list."
+
 ##### Misc Uses
 [[Spaced everything]]
 - Writing
