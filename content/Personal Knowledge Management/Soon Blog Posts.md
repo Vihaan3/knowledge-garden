@@ -4,9 +4,9 @@
 	- My answers to these issues: [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[School can't be comfortable]]
 	- https://www.astralcodexten.com/p/a-theoretical-case-against-education
 - [[My (More Than a) Kilobyte]]
+- [[Meta-Learning]] 
 - [[My Autobiography]]
 - [[You can change your identity]]
-- [[Anki Uses]] + How to learn well with anki
 - [[The importance of having a fallback]]
 - What are the biggest influences on our moral landscape? 
 - A [discovery fiction](https://michaelnotebook.com/df/index.html) on something interesting that I want to grok deeply
