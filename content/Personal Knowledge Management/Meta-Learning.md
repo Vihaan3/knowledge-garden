@@ -4,7 +4,6 @@ tags:
   - education
 ---
 Because you'll probably spend large amounts of your life learning, it's really useful to know how to learn efficiently and effectively. 
-
 ##### On learning
 Some tips to learning:
 - Meta tip: Be patient. If you care about learning this particular subject well (which you probably will for only a few subjects), be willing to spend a little bit extra time. 
