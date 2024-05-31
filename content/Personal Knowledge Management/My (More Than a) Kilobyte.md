@@ -15,4 +15,3 @@ Here's my answer. It ended up being a bit over 1 kilobyte, but I couldn't really
 	- [[There is no speed limit]]
 - Be around awesome people (whatever that means to you). Almost everything else on this list comes by default. 
 	- Help others be around awesome people and/or be an awesome person for them. 
-- Contrary to popular opinion, I think [[On the importance of friction|friction]] is actually good. If everything was super easy, what would be the point?

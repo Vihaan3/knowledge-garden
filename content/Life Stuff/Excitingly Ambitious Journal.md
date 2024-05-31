@@ -1,5 +1,14 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 5/29/2024
+- Finished a first draft the education blog post
+
+#### 5/28/2024
+- Started writing the education blog post
+
+#### 5/24-5/27
+- Finally starting to understand a lot of the actual code and implementation in fast.ai
+
 #### 5/24/2024
 - Not much :( Did a lot of school work
 

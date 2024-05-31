@@ -2,15 +2,15 @@
 
 See [[What my ideal high school looks like]] for something more personal and slightly more developed.
 
-If learning effectively requires [[You can't be comfortable|discomfort]] and [[There is no speed limit]] other than a self-imposed one, then most current high school environments don't seem optimal for actual learning. What frustrates me the most is that most students aren't taught core meta-learning skills. Almost everything that is learnt is *very* quickly forgotten, and for many people it ends up just being an elaborate mechanism that lets them get a taste of many different fields/modes of thinking. Most students are just trying to get the best possible grades with the least amount of effort. 
+Schools frustrate me, because I firmly believe that [[There is no speed limit|there's no speed limit]] to learning other than a self-imposed one. What irritates me the most is that most students aren't taught core meta-learning skills. Almost everything that is learnt is *very* quickly forgotten, and for many people it ends up just being an elaborate mechanism that lets them get a taste of many different fields/modes of thinking. Most students are just trying to get the best possible grades with the least amount of effort. 
 
 I think we can do way better.
+
 ##### An ideal school structure that prioritizes real learning should probably have these qualities:
 - **Core: The use of spaced repetition systems and other memory systems should be highly encouraged.** This allows for everything else. 
 - Only pop assessments, and these assessments should actually test your learning instead of simple pattern-matching. Little to no multiple choice.
-- Homework that's difficult and actually pushes you to apply and expand on what you've learned in class. **No busywork.**
+- Less homework, but homework that actually pushes you to apply and expand on what you've learned in class and *guides* you slightly beyond your reach. **No busywork.**
 - [[What we should be doing in English class]]
-- Much faster pace with very good resources and scaffolding to learn outside of class if you fall behind
 - Gym should actually push you to become stronger, more athletic, and healthier all around
 - Somehow develop a general student culture that values intellectual curiosity, and being a "nerd" doesn't require fighting social currents
 - Greater autonomy in choosing what classes you want to take so that you only learn what you genuinely want to learn

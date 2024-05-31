@@ -1,7 +1,7 @@
 - Education reform: 
-	- There's four things especially wrong with schools. 
+	- There's four things especially wrong with schools:
 	1) You forget most of what you learn. 2) Most people leave school with a *hatred* of learning instead of a love for it. 3) Schools aren't the greatest at building a resilient citizenry well-suited to democracy 4) Most people leave school with very little [[Agency|agency]] 
-	- My answers to these issues: [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[School can't be comfortable]]
+	- My answers to these issues: [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[Schools are bad for learning]]
 	- https://www.astralcodexten.com/p/a-theoretical-case-against-education
 - [[My (More Than a) Kilobyte]]
 - [[Meta-Learning]] 

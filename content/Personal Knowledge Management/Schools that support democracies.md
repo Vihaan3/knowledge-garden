@@ -6,7 +6,7 @@ tags:
 ---
 - [ ] Add notes on [[The Rise of the Nazis]], [[American Civil War]], [[Civil War]] 
 
-For all of their positives, representative democracies also tend to amplify some of the worst parts of tribalism and "human nature" (traits selected for by evolution). To make democracies better, it's incredibly important to have clear-thinking and resilient citizenries resistant to populism and civil war. This is a key goal of the education system, but I think it's gotten lost somewhere (or perhaps never existed off-paper). 
+For all of their positives, representative democracies also tend to amplify some of the worst parts of tribalism and "human nature" (traits selected for by evolution). To make democracies better, it's incredibly important to have clear-thinking and resilient citizenries resistant to populism and civil war. There's a clear and important role here that schools need to fully embrace. 
 
 Things to learn:
 - Deeply internalizing epistemic humility
@@ -23,7 +23,9 @@ Things to learn:
 	- Most education systems are terrible about this. It's just "I teach, you memorize and regurgitate". Most schools need to be better about encourage more critical thinking and intellectual engagement with material. 
 		- Maybe teachers should intentionally slip up at times while explaining abstract topics (not simple errors on math answers) and encourage students to catch them
 	- Basic critical thinking skills around statistics, ads, media, propaganda
+		- Understanding [[Mimetics]]
 - Other basic skills
+	- [[Mimetics]] (I'll repeat it again)
 	- Recognizing and avoiding groupthink, mob behavior, extremist ideology
 	- Understanding the importance of engaging with people who disagree with you despite [[Cognitive Ease]]
 	- Understanding that **Correlation != Causation**
