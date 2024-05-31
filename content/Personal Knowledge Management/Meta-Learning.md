@@ -2,16 +2,20 @@
 tags:
   - meta-thinking/meta-learning
   - education
+  - best
 ---
 Because you'll probably spend large amounts of your life learning, it's really useful to know how to learn efficiently and effectively. 
 ##### On learning
 Some tips to learning:
 - Meta tip: Be patient. If you care about learning this particular subject well (which you probably will for only a few subjects), be willing to spend a little bit extra time. 
+- Focus on intuition. It's *much* easier to remember things if you have a feel for the how and the why. 
 - Use multiple resources (and preferably multiple mediums). I like to think of it as encoding knowledge in multiple ways.
 	- Example: When learning about how *basic* neural networks work, you might watch [3b1b's explanation](https://youtu.be/aircAruvnKk), [Jeremy Howard's explanation](https://course.fast.ai/Lessons/lesson3.html), play with notebooks that [explain](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work) and [build](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch) neural nets, and read [another explanation](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
 - Use Spaced Repetition Systems to retain your knowledge (see next section) 
 
 ##### Using Spaced Repetition Systems
+
+**Meta-Tip:** Use your SRS system to help you recall the intuition that you've hopefully learned. 
 
 When learning with SRS systems, there's 3 types of cards that I often create. 
 1. Building block card: "What is a dictionary in Python?"
@@ -37,6 +41,7 @@ Example:
 is better than
 
 "What does max(list_name) do?" "Find the max value in the list."
+
 
 For way more tips and insights around using SRS systems, visit *at least the first 2* of the following links. They're ordered in terms of how useful I think they'll be. 
 - **https://andymatuschak.org/prompts: Will help you get a good intuitive understanding of how to break down common types of information into good cards.**

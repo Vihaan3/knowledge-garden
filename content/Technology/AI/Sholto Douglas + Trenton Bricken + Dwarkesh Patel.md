@@ -62,4 +62,4 @@ Sholto and Trenton backstories: Both of them are incredibly agentic people. If t
 
 
 
-#technology/ai 
+#technology/ai #unfinished 

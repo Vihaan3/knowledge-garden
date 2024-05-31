@@ -1,4 +1,9 @@
-#meta-thinking/meta-learning #education
+---
+tags:
+  - meta-thinking/meta-learning
+  - education
+  - best
+---
 This is a high school that encourages high flexibility, and gives a lot of [[Agency]] to students. For a more "structured" school plan, see [[Schools are bad for learning]]. 
 
 1. Guiding principles: more flexibility and encourage high [[Agency]]. Should remove as many obstacles in the way of students [[Do what's excitingly ambitious|doing what's excitingly ambitious]] as possible.

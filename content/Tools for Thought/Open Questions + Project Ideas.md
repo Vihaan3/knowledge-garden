@@ -1,3 +1,7 @@
+---
+tags:
+  - best
+---
 Some questions I'm thinking about and projects I want to work on in the somewhat distant future. 
 
 #### AI

@@ -1,5 +1,8 @@
-#personal 
-
+---
+tags:
+  - personal
+  - best
+---
 For the last day, I've been thinking about a prompt I got from a friend. 
 “If you could beam a kilobyte of information straight into the minds of every person alive, what would it be?”
 Here's my answer. It ended up being a bit over 1 kilobyte, but I couldn't really decide what to cut out. 
@@ -11,7 +14,6 @@ Here's my answer. It ended up being a bit over 1 kilobyte, but I couldn't really
 		- "It's amazing how quickly you can be world-class at something, just because most people don't try." - No idea
 - [[Thinking, Fast and Slow|You are way stupider than you probably think you are (and so is everyone else).]]
 	- Try your best not to judge people based on their beliefs. Beliefs are so context-dependent that in a large number of counterfactual realities you probably hold the beliefs you hate most.
-- Many social norms are stupid
-	- [[There is no speed limit]]
+- [[There is no speed limit]], but you should be wary about going too fast sacrificing quality for speed. 
 - Be around awesome people (whatever that means to you). Almost everything else on this list comes by default. 
 	- Help others be around awesome people and/or be an awesome person for them. 

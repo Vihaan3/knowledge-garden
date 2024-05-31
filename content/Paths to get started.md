@@ -3,6 +3,7 @@
 - [[Projects]] + [[Open Questions + Project Ideas]]
 - [[Soon Blog Posts]]
 - Some tags with cool things
+	- #best 
 	- #education 
 	- #tools_for_thought 
 	- #technology + #technology/ai 
