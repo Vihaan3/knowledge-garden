@@ -1,5 +1,11 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 6/1/2024
+- Pytorch + Numpy continued
+
+#### 5/31/2024
+- Learning Numpy + Pytorch
+
 #### 5/29/2024
 - Finished a first draft the education blog post
 

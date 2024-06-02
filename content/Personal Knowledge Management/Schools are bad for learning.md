@@ -2,7 +2,7 @@
 
 See [[What my ideal high school looks like]] for something more personal and slightly more developed.
 
-Schools frustrate me, because I firmly believe that [[There is no speed limit|there's no speed limit]] to learning other than a self-imposed one. What irritates me the most is that most students aren't taught core meta-learning skills. Almost everything that is learnt is *very* quickly forgotten, and for many people it ends up just being an elaborate mechanism that lets them get a taste of many different fields/modes of thinking. Most students are just trying to get the best possible grades with the least amount of effort. 
+Schools frustrate me, because I firmly believe that [[There is no speed limit|there's no speed limit]] to learning other than a self-imposed one. What irritates me the most is that most students aren't taught core meta-learning skills. Almost everything that is learned is *very* quickly forgotten, and for many people it ends up just being an elaborate mechanism that lets them get a taste of many different fields/modes of thinking. Most students are just trying to get the best possible grades with the least amount of effort. 
 
 I think we can do way better.
 
