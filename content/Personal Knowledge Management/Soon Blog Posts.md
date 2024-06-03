@@ -7,7 +7,7 @@ tags:
 	1) You forget most of what you learn. 2) Most people leave school with a *hatred* of learning instead of a love for it. 3) Schools aren't the greatest at building a resilient citizenry well-suited to democracy 4) Most people leave school with very little [[Agency|agency]] 
 	- My answers to these issues: [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[Schools are bad for learning]]
 	- https://www.astralcodexten.com/p/a-theoretical-case-against-education
-- [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
+- [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
 - [[My Autobiography]]
 - [[The importance of having a fallback]]
 - What are the biggest influences on our moral landscape? 
