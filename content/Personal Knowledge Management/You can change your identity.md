@@ -1,4 +1,4 @@
-#personal #pattern 
+#personal #pattern #best 
 
 Inspired by [[Agency]] and [[Atomic Habits]] (although I wish *Atomic Habits* stressed it more)
 
@@ -14,6 +14,5 @@ You can:
 - become more hard-working
 - become more caring
 Intentional identity change is *hard*. The only way is to just [[Agency|go and do the thing]] that you think you can't do, and *convince yourself*. Do the actions that you would do if you had the desired identity. A helpful way I've found of thinking about it, is to do the thing until you would use that identity to describe yourself in a bio. 
-And this works the other way as well. If you want to do more math, forcing yourself to do math at a specific time on a specific day will only work for so long. Eventually, life will come in the way, you'll lose track, and you won't feel like getting started. Try to cultivate the identity of someone who does math often. You'll find a way when it's part of your identity. A reader will find a way to read. A mathematician will find a way to do math. 
-
-Beyond just doing the things that a `insert desired identity` does, it's helpful to just hand around people with your desired identity. You'll absorb the desired trait by osmosis. At a meta-level, I've been intentionally hanging out with people who have high [[Agency]] and intellectual curiosity, and it's definitely changed my identity completely. If you can't find any in person, join a Reddit community, discord server, etc with a high density of people with your desired identity. It works wonders. Even the act of joining reinforces the identity. 
+Using Anki to [[How to change the way you think|change your thinking]] to more closely resemble what `insert desired identity` is also tremendously helpful. This can be a quick way to get you past the initial activation energy and build momentum while developing the desired identity. 
+For an identity that you truly care about getting, join a community of people with that identity. You'll absorb the desired traits by osmosis. In person is great, but otherwise join a Reddit community, discord server, etc with a high density of people with your desired identity. It works wonders. Even the act of joining reinforces the identity. 

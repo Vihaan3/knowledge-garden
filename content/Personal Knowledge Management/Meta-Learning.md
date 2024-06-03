@@ -11,7 +11,7 @@ Some tips to learning:
 - Focus on intuition. It's *much* easier to remember things if you have a feel for the how and the why. 
 - Use multiple resources (and preferably multiple mediums). I like to think of it as encoding knowledge in multiple ways.
 	- Example: When learning about how *basic* neural networks work, you might watch [3b1b's explanation](https://youtu.be/aircAruvnKk), [Jeremy Howard's explanation](https://course.fast.ai/Lessons/lesson3.html), play with notebooks that [explain](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work) and [build](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch) neural nets, and read [another explanation](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
-- Use Spaced Repetition Systems to retain your knowledge (see next section) 
+- Use Spaced Repetition Systems to retain your knowledge (see next section). If you don't know what spaced repetition systems are, scroll down to the bottom and read one of the first two resources there
 
 ##### Using Spaced Repetition Systems
 

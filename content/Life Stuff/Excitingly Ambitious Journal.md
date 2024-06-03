@@ -1,5 +1,14 @@
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+
+#### 6/3/2024
+- Editing education post based on feedback
+- Learning Comfortably Numb Solo 1
+
+#### 6/2/2024
+- Numpy and Pytorch done for now!
+- Learning about random forests
+
 #### 6/1/2024
 - Pytorch + Numpy continued
 

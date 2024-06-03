@@ -8,4 +8,4 @@ tags:
 - Writing
 - Tasks
 - Habits
-- [[You can change your identity|Identity]]
+- [[You can change your identity|Identity]] + [[How to change the way you think|Thought]] change

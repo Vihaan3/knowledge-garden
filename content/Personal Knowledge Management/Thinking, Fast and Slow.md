@@ -4,8 +4,9 @@
 
 General vibes: I thought I'd already known how fallible our brains were, and I mostly read this book in hopes of improving my meta-thinking, but this made me a lot more pessimistic. The extent to which cognitive biases affect us seems almost fantastical.
 
-![[Pasted image 20240423223250.png]]
+- The brain is an association machine
 - You can't not see the Muller-Lyer illusion. The best you can do is be aware of major fallacies and hope to avoid them in important situations (aka the point of this book). 
+![[Pasted image 20240423223250.png]]
 - We have a limited budget of cognitive attention. In a real sense, you are literally paying attention.
 - Intuition is only developed through deliberate practice (when something from System 2 enter System 1). 
 - We like thinking of everything causally and seeing agents everywhere. In fact, the reason the book talks about systems 1 and 2 is because we like thinking of things in the form of agents w/ motives and traits. This could actually be a sneaky good way of improving explanations. 

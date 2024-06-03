@@ -5,7 +5,7 @@ These are some projects that I'm either working on or planning to work on in the
 #### Now
 - **Taking [Fast.ai](https://www.fast.ai/)**
 - **About search and information retrieval** 
-- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[Generating novel insights]], and [[How to train yourself to think a certain way]].
+- Learning a little bit about [[How to Get Startup Ideas]], [[How to (tech) Startup]], [[Generating novel insights]], and [[How to change the way you think]].
 - Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure]].
 #### (Hopefully) Near Future
 - Economics, and specifically poverty
