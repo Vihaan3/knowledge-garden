@@ -4,7 +4,7 @@ tags:
   - education
 ---
 [[Spaced everything]]
-- Learning (obvi)
+- [[Meta-Learning|Learning (obvi)]]
 - Writing
 - Tasks
 - Habits

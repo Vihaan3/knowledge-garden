@@ -42,6 +42,7 @@ is better than
 
 "What does max(list_name) do?" "Find the max value in the list."
 
+**Tip 3:** (related to #1) This is something that's hard to understand until you actually start learning something with an SRS system, but be very attentive to and obsessive of the wording you use when designing cards. Based on the way you've learned the subject in the first place, certain phrases and word choices as more likely to evoke the *intuition* that you want to "extract". 
 
 For way more tips and insights around using SRS systems, visit *at least the first 2* of the following links. They're ordered in terms of how useful I think they'll be. 
 - **https://andymatuschak.org/prompts: Will help you get a good intuitive understanding of how to break down common types of information into good cards.**
