@@ -1,6 +1,7 @@
 ---
 tags:
   - personal
+  - best
 ---
 ##### Pre-2024
 - 5th grade math teacher convinced me to give coding a try
