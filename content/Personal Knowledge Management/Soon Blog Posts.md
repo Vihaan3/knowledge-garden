@@ -8,6 +8,7 @@ tags:
 	- My answers to these issues: [[What we should be doing in English class]] + [[What my ideal high school looks like]] + [[Schools that support democracies]] + [[Schools are bad for learning]]
 	- https://www.astralcodexten.com/p/a-theoretical-case-against-education
 - [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
+- Tensions -> just need to polish off a draft in Substack
 - [[A Brief Autobiography]]
 - [[The importance of having a fallback]]
 - What are the biggest influences on our moral landscape? 
