@@ -1,6 +1,6 @@
 - Click around on the graph :)
 - [[Excitingly Ambitious Journal]] as a /now. 
-- [[Projects]] + [[Open Questions + Project Ideas]]
+- [[Open Questions + Project Ideas]] + [[Projects]]
 - [[Soon Blog Posts]]
 - Some tags with cool things
 	- #best 
