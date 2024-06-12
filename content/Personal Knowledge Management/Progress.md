@@ -5,6 +5,7 @@ Is progress actually good? Should [[Progress Studies]] be a thing? Has progress 
 
 TO CONSUME
 https://youtu.be/Qp1pNlLCta4
+https://www.forourposterity.com/securing-posterity/
 https://rootsofprogress.org/progress-studies-a-moral-imperative
 https://rootsofprogress.org/a-new-philosophy-of-progress
 https://www.reddit.com/r/philosophy/comments/2h7a2k/is_progress_good_for_humanity/
