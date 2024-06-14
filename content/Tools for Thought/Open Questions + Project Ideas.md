@@ -7,7 +7,7 @@ A combination of questions I'm thinking about, projects I want to work on in the
 #### AI
 *Disclaimer: I have only been getting into AI recently, so all of these thoughts might already exist or be extremely stupid. I'm just trying to take advantage of the fact that I'm new to the field while I still am, because newcomers can often question things that others take for granted. Would especially love being contacted for these if you have any feedback!*
 - (For people with better empirical understanding of the field, and also those with good grasps of tech and culture) What futures of AI look most likely to you? 
-	- Tool-like vs. agentic. Severe bottlenecks vs. rapid growth. Alignment being relatively doable vs. insanely difficult. Arms race dynamics between different countries vs. cooperation. 
+	- Tool-like vs. agentic. Severe bottlenecks vs. rapid growth. Alignment being relatively doable vs. insanely difficult. Arms race dynamics between different countries vs. international cooperation. 
 - I like Sakana AI's [idea of using evolution](https://sakana.ai/evolutionary-model-merge/). Where else could that apply?
 	- Natural selection for data? I don't know what you would be selecting on, but it seems interesting.
 - [[The Busy Person's Introduction to Large Language Models#System 1 vs. System 2|How can we give LLMs System 2s]]?

@@ -13,4 +13,4 @@ It's important to be able to identify what the different factors are that influe
 Examples:
 - The news that reaches you had to be the type of news that could spread to reach you
 - The most famous book is not necessarily the "best" because there are other factors that influence the selection
-- The societies that last are more likely to have cultures with prosocial values
+- The societies that last are more likely to be militaristic
