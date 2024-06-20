@@ -47,6 +47,7 @@ is better than
 For way more tips and insights around using SRS systems, visit *at least the first 2* of the following links. They're ordered in terms of how useful I think they'll be. 
 - **https://andymatuschak.org/prompts: Will help you get a good intuitive understanding of how to break down common types of information into good cards.**
 - **https://augmentingcognition.com/ltm.html: More on the utility of SRS systems and other use cases.** 
+- ****
 - https://quantum.country/: Same as #1 but with a more "academic" subject.
 - https://ncase.me/remember/: Really cool intro to SRS and some solid intuition. 
 - https://gwern.net/spaced-repetition: Great rabbit hole of links and other useful tips. 
