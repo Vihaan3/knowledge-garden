@@ -1,5 +1,12 @@
+
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
 
+#### 6/4/2024 - 6/21/2024
+*I forgot to keep track for a while, so this is a general update.*
+- Finished fast.ai
+	- Now learning more of the background math before learning about transformers
+- Published the education blog post! It ended up being ~20 minutes long. 
+- Learnt 3 new guitar solos (While My Guitar Gently Weeps, Fade to Black, Plug In Baby)
 
 #### 6/3/2024
 - Editing education post based on feedback

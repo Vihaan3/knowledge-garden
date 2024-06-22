@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+title: Home
 ---
 Hey! I'm Vihaan. 
 
@@ -18,7 +19,7 @@ Getting started:
 
 *Sidenote: I'm generally super interested in one thing at a time with tons of side interests, and I'm constantly looking for cool things that I might want to work on. Let me know if there's an underrated field that you love and wish more people worked on.* 
 
-##### More housekeeping
+#### More housekeeping
 - Common abbreviations
 	- TFT in place of tools for thought
 	- SRS in place of spaced repetition system (stupidly, I'll often say "SRS system")
