@@ -5,6 +5,7 @@ What's the difference between fields like music and sports and ones like investm
 I think a lot of it comes down to environment. It's a lot easier to achieve virtuosity in environments that are conducive to [[Deliberate Practice|deliberate practice]]. 
 
 Some characteristics of these environments:
+- Lots of practice
 - Tight feedback loops
 - Easy way to distinguish between success and failure
 - High signal feedback
