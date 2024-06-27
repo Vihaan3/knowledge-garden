@@ -1,5 +1,12 @@
-#unfinished #to-learn #user_interaction #technology/ai #tools_for_thought #empty 
-
+---
+tags:
+  - unfinished
+  - to-learn
+  - user_interaction
+  - technology/ai
+  - tools_for_thought
+  - empty
+---
 [https://stream.thesephist.com/?q=future+desktop](https://stream.thesephist.com/?q=future+desktop)
 
 Itemized OS -> alexander Obenauer

@@ -1,4 +1,9 @@
-#tools_for_thought #meta-research 
+---
+tags:
+  - tools_for_thought
+  - meta-research
+  - best
+---
 
 I want to build software that broadly empowers people to do more of what they want to do (with reasonable constraints of course). Things like [[Search of the future|finding content]] that never would have been found otherwise, preserving attention rather than draining it, and protecting [[Slack|Slack]] are all important to me.
 

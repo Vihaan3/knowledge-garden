@@ -1,4 +1,12 @@
-#note-taking #search #memory_systems #user_interaction #tools_for_thought #unfinished 
+---
+tags:
+  - "#note-taking"
+  - "#search"
+  - memory_systems
+  - user_interaction
+  - tools_for_thought
+  - unfinished
+---
 How can we make it easier to learn faster while also increasing the ability to recall and use that knowledge?
 
 I think this problem can be broken down to two parts. 

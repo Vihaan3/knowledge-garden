@@ -1,5 +1,9 @@
-#personal #pattern #best 
-
+---
+tags:
+  - personal
+  - pattern
+  - best
+---
 Inspired by [[Agency]] and [[Atomic Habits]] (although I wish *Atomic Habits* stressed it more)
 
 Realizing this has massively changed the way I behave and act. I don't think that enough people realize this. They feel that they have to be "the kind of person that's awkward in social situations", "the kind of person that doesn't drink water", "the kind of person that's unwilling to take risks", and worst of all "the kind of person that's unproductive", "just not hard-working", "just not as smart as `X other person` ", "just not a math (insert `X other subject`) person". 

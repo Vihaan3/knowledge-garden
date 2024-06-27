@@ -2,7 +2,6 @@
 tags:
   - best
 ---
-
 - [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
 - Tensions -> just need to polish off a draft in Substack
 - [[A Brief Autobiography]]

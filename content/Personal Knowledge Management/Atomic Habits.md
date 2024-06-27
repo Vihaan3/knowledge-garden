@@ -1,5 +1,7 @@
-#book
-
+---
+tags:
+  - book
+---
 1% increase every day for a year = 37x increase over the year, but 1% decrease every day for a year = 3% of where you where when you started. For this reason a better key performance indicator is the trajectory you're going on vs. where you currently are.
 
   

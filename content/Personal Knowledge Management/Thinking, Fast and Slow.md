@@ -7,6 +7,7 @@ tags:
 ---
 *Not a cut-and-dry summary of the book (I already knew a lot of the underlying concepts, so I didn't take notes on anything I knew). It's a mix of (mostly illegible) notes on the book + my thoughts on some specific things, and it's not even in chronological order because all of my post-its got mixed up :(.*
 
+
 General vibes: I thought I'd already known how fallible our brains were, and I mostly read this book in hopes of improving my meta-thinking, but this made me a lot more pessimistic. The extent to which cognitive biases affect us seems almost fantastical.
 
 - System 1 vs System 2
@@ -31,8 +32,8 @@ General vibes: I thought I'd already known how fallible our brains were, and I m
 - [[The Priming Effect]] 
 - [[Cognitive Ease]]
 - Wisdom of crowds only works well when observations are independent and their errors are uncorrelated. 
-	- Relevant for [[Superforecasting]] + [[How to make good predictions]]. 
-	- Also super relevant for [[Organizational Culture]]. When you're gathering opinions about something, do an anonymous async survey instead of a one-by-one voicing of opinions.  #culture 
+	- Relevant for [[Superforecasting]] + [[How to make good predictions]] + [[Organizational Culture]]. 
+		- When you're gathering opinions about something, do an anonymous async survey before an open discussion in a meeting. Otherwise observations will stop being independent, and errors will be repeated because people will tend to moderate their beliefs to agree with each other. #culture 
 - [[The Anchoring Effect]]
 - [[Risk]]
 - Loss Aversion
@@ -89,7 +90,7 @@ General vibes: I thought I'd already known how fallible our brains were, and I m
 		- 95% to lose $10,000
 	- Losses + Low Probability = Risk Averse
 		- 5% to lose $10,000
-	- "Many unfortunate human situations unfold in the [losses + low probability] cell. This is where people who face very bad options take desperate gambles, accepting a high probability of making things worse in exchange for a small hope of avoiding a larger loss. Risk taking of this kind often turns manageable failures into disasters. The thoughts of accepting the large sure loss is too painful, and the hope of complete relief too enticing, to make the sensible decision that it is time to cut one's losses. This is where businesses that are losing ground to a superior technology waste their remaining assets in futile attempts to catch up."
+	- "Many unfortunate human situations unfold in the [losses + high probability] cell. This is where people who face very bad options take desperate gambles, accepting a high probability of making things worse in exchange for a small hope of avoiding a larger loss. Risk taking of this kind often turns manageable failures into disasters. The thoughts of accepting the large sure loss is too painful, and the hope of complete relief too enticing, to make the sensible decision that it is time to cut one's losses. This is where businesses that are losing ground to a superior technology waste their remaining assets in futile attempts to catch up."
 - Rare Events
 	- Will always be either virtually ignored or overweighted
 	- Vivid imagery makes you less sensitive to probability.
@@ -111,8 +112,9 @@ General vibes: I thought I'd already known how fallible our brains were, and I m
 	  "Now that you have seen that your reactions to the problem are influenced by the frame, what is your answer to the question: How should the tax code treat the children of the rich and the poor? Here again, you will probably find yourself dumbfounded. You have moral intuitions about differences between the rich and the poor, but these intuitions depend on an arbitrary reference point, and they are not about the real problem. This problem--the questions about actual states of the world--is how much tax individual families should pay, how to fill the cells in the matrix of the tax code. You have no compelling moral intuitions to guide you in solving that problem. Your moral feelings are attached to frames, to descriptions of reality rather than to reality itself...framing should not be viewed as an intervention that masks or distorts an underlying preference. At least in this instance...there is no underlying preference that is masked or distorted by the frame. Our preferences are about framed problems, and our moral intuitions are about descriptions, not about substance."
 - Well-being
 	- Contrast between the "experiencing self" and the "remembering self"
+		- The correlation between the happiness of the two selves is about the same as the correlation of the heights of parent and child.
 	- Peak-end rule: Your feelings about an episode are generally an average of the peak emotion and the last emotion. 
-	- Duration neglect: You won't factor in the length of an episode much when evaluating how your feel about it. 
+	- Duration neglect: You won't factor in the length of an episode much when evaluating how you feel about it. 
 		- These two lead to bad decisions. You may choose to repeat an episode that has more overall pain but a lower peak and a better end,  
 			- As a doctor, should you give preference to the experiencing self or the remembering self? Should you prefer a surgery that minimizes suffering in reality while worsening the memory of the experience? Should you prefer a surgery that increases suffering in reality but leaves a better memory of the experience? 
 	- Life as a story
@@ -130,6 +132,7 @@ General vibes: I thought I'd already known how fallible our brains were, and I m
 			- Goods are overrated: You'll eventually stop thinking about your car while driving or about your new house while living in it.
 			- Experiences will require your attention every time. A book club will occupy your attention every meeting. Playing guitar will require your attention every practice session.
 	- "The remembering self's neglect of duration, its exaggerated emphasis on peaks and ends, and its susceptibility to hindsight combine to yield distorted reflections of our actual experience."
+		- Because of the above + [[Attention is the medium through which we experience life|attention]], people might give different ratings on life satisfaction surveys than during daily sampling surveys. When they're taking a life satisfaction survey, they will think about their recent promotion, their new car, the lovely weather, and their house (or their injury) but they won't pay much attention to these things in daily life. 
 - How much freedom should people have?
 	- "freedom has a cost, which is borne by individuals who make bad choices, and by a society that feels obligated to help them."
 	- Libertarian Paternalism

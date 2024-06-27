@@ -1,3 +1,9 @@
+---
+tags:
+  - personal
+  - best
+  - pattern
+---
 Inspired by https://logangraves.com/aesthetics.
 
 *In random order*:
