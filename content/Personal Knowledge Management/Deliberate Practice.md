@@ -1,1 +1,6 @@
-#pattern #unfinished #empty 
+---
+tags:
+  - pattern
+  - empty
+---
+

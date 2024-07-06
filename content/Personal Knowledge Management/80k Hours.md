@@ -29,4 +29,4 @@
 - Nuclear War
 	- Build platforms that prevent the existential risks that could be caused in the case of a war
 		- Maybe some digital platforms and stuff that can connect you to nearby things
-[[Non-Trivial Courses]]: 80k for teens.
+[[Non-Trivial Course Notes]]: 80k for teens.

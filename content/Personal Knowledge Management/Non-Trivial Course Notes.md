@@ -1,3 +1,8 @@
+---
+tags:
+  - literature-note
+---
+
 [[80k Hours]]
 There's concepts on high to choose a topic and standard EA stuff, but I already know that.
 
@@ -32,5 +37,3 @@ Reach high, but have backups because they will let you truly reach high. (Or alt
 
 https://www.givingwhatwecan.org/get-involved/share-our-ideas/guide-to-talking-about-effective-altruism
 
-
-#literature-note 

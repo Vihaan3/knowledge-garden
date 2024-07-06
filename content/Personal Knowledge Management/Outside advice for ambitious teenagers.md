@@ -1,9 +1,15 @@
+---
+tags:
+  - literature-note
+---
+
+#### Links
 https://blog.samaltman.com/advice-for-ambitious-19-year-olds
 https://blog.samaltman.com/how-to-be-successful
 https://paulgraham.com/greatwork.html
 https://patrickcollison.com/advice
 https://ldeming.posthaven.com/advice-for-ambitious-teenagers
-[[Non-Trivial Courses]]
+[[Non-Trivial Course Notes]]
 
 ### Work
 4 Steps to great work:
@@ -26,6 +32,3 @@ Identifying a company with a breakout trajectory
 2. It has traction or has the potential to gain traction.
 
 If you're forcing yourself to think of a startup idea just to think of an idea, you shouldn't start up. 
-
-
-#literature-note 

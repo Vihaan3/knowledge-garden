@@ -1,4 +1,9 @@
-#unfinished 
+---
+tags:
+  - to-learn
+  - pattern
+  - literature-note
+---
 https://www.julian.com/blog/storytelling
 - Blow your own mind (feel what you're talking about and natural storytelling techniques will come out by themselves)
 - Imagine yourself smiling from ear to ear while talking

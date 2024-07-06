@@ -15,9 +15,9 @@ Some tips to learning:
 
 ##### Using Spaced Repetition Systems
 
-**Meta-Tip:** Use your SRS system to help you recall the intuition that you've hopefully learned. 
+**Meta-Tip:** Use your spaced repetition system to help you recall the intuition that you've hopefully learned. 
 
-When learning with SRS systems, there's 3 types of cards that I often create. 
+When learning with spaced repetition systems, there's 3 types of cards that I often create. 
 1. Building block card: "What is a dictionary in Python?"
 2. Application card: "In Python, how would you initialize a dictionary called planets with keys "one", "two", "three" and values 1, 2, 3.
 	- You can start to get too comfortable memorizing these, so I like editing these after 2-3 repetitions.
@@ -42,12 +42,12 @@ is better than
 
 "What does max(list_name) do?" "Find the max value in the list."
 
-**Tip 3:** (related to #1) This is something that's hard to understand until you actually start learning something with an SRS system, but be very attentive to and obsessive of the wording you use when designing cards. Based on the way you've learned the subject in the first place, certain phrases and word choices as more likely to evoke the *intuition* that you want to "extract". 
+**Tip 3:** (related to #1) This is something that's hard to understand until you actually start learning something with a spaced repetition system, but be very attentive to and obsessive of the wording you use when designing cards. Based on the way you've learned the subject in the first place, certain phrases and word choices as more likely to evoke the *intuition* that you want to "extract". 
 
-For way more tips and insights around using SRS systems, visit *at least the first 2* of the following links. They're ordered in terms of how useful I think they'll be. 
+For way more tips and insights around using spaced repetition systems, visit *at least the first 2* of the following links. They're ordered in terms of how useful I think they'll be. 
 - **https://andymatuschak.org/prompts: Will help you get a good intuitive understanding of how to break down common types of information into good cards.**
-- **https://augmentingcognition.com/ltm.html: More on the utility of SRS systems and other use cases.** 
+- **https://augmentingcognition.com/ltm.html: More on the utility of spaced repetition systems and other use cases.** 
 - ****
 - https://quantum.country/: Same as #1 but with a more "academic" subject.
-- https://ncase.me/remember/: Really cool intro to SRS and some solid intuition. 
+- https://ncase.me/remember/: Really cool intro to spaced repetition and some solid intuition. 
 - https://gwern.net/spaced-repetition: Great rabbit hole of links and other useful tips. 

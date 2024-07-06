@@ -1,5 +1,8 @@
-#pattern #personal 
-
+---
+tags:
+  - pattern
+  - personal
+---
 True understanding that you can *just do things*. It's hard to describe well, but Neel Nanda does a [good job](https://www.neelnanda.io/blog/44-agency).
 
 Examples of agency:

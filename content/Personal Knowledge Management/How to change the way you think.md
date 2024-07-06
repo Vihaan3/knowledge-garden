@@ -5,7 +5,7 @@ tags:
 ---
 Knowing how to do this is one of those meta skills that can completely change your life. A while ago, I got into the start up advice world to help out a friend who was considering starting up, and I found a common message along the lines of "become the type of person who notices gaps." How do you become that person? ([Paul Graham](https://paulgraham.com/articles.html))
 
-- **Use [[Meta-Learning#Using Spaced Repetition Systems|Anki]]** 
+- **Use [[Meta-Learning#Using Spaced Repetition Systems|Spaced Repetition Systems]]** 
 	- Use situation-based/application/"real world" cards because your brain is an [[Thinking, Fast and Slow|association machine]], and with enough repetitions you will hopefully think. This is unbelievably effective.
 	- You can [[The Priming Effect|prime]] your brain a surprising amount
 	- Examples:

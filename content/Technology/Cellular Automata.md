@@ -1,2 +1,7 @@
-#technology #unfinished #to-learn #empty 
+---
+tags:
+  - technology
+  - to-learn
+  - empty
+---
 https://www.wolframscience.com/nks/

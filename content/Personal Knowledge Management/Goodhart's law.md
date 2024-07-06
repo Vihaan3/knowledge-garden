@@ -1,5 +1,9 @@
-#meta-thinking #economics/business #cognitive_bias #pattern 
-
+---
+tags:
+  - meta-thinking
+  - economics
+  - pattern
+---
 "When a measure becomes a target, it ceases to be a good measure."
 
 Some places this shows up:

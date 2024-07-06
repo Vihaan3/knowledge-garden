@@ -1,6 +1,11 @@
+---
+tags:
+  - personal
+---
 Polished: https://vihaansondhi.substack.com/p/how-to-be-a-great-blogger
 
-This is funny because I'm a pretty unsuccessful blogger, but from analyzing other ppl, if you do this for long enough, you'll probably get there eventually. 
+### First Draft
+The fact that I'm writing this is funny because I'm a pretty unsuccessful blogger, but from analyzing other ppl, if you do this for long enough, you'll probably get there eventually. 
 
 Everyone tells you to "write about interesting things" and "write stuff that ppl want to read". This is hard, though, and what it often leads to is people trying their hardest and then defaulting to standard things. However, I think I've figured out the way to do this. 
 
@@ -23,5 +28,3 @@ Basically I can boil it down to:
 6. Iteratively improve your writing over time.
 
 But probably the most important thing that's the bedrock of all of this is **hone your craft**/**adopt the craftsman's mindset**. Pursue virtuosity in this field like a basketball player would pursue virtuosity. 
-
-#meta-thinking #

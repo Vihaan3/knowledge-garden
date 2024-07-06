@@ -1,4 +1,8 @@
-#user_interaction
+---
+tags:
+  - user_interaction
+  - unfinished
+---
 Discovered https://uxdesign.cc/the-fallacy-of-easy-a89ef864759b after writing this; illustrates a lot of these viewpoints better.
 
 I feel like modern design is too *cluttered*, and people in general are too focused on removing all friction and making everything as fast as possible. 

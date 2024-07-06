@@ -1,5 +1,8 @@
-#book 
-
+---
+tags:
+  - book
+  - literature-note
+---
 Pretty standard EA book written by Will MacAskill. Aims to bring to the public the idea that maybe future people hold significantly higher moral status than we assign, and that we should focus on taking actions that preserve those future people. 
 
 It was convincing, but kind of dry ([[Where's the magic]]?). The population ethics part felt tangential at best and kind of unnecessary (though enjoyable).  
@@ -8,7 +11,7 @@ It was convincing, but kind of dry ([[Where's the magic]]?). The population ethi
 Nothing much new.
 
 ### Part 2: Trajectory Changes
-The idea behind [[Ossification]] was something I had been thinking about myself, and I love this phrasing of it as a [[Mental Models|mental model]] for [[How to Build a Movement|creating change]]. 
+The idea behind [[Ossification]] was something I had been thinking about myself, and I love this phrasing of it as a mental model for [[How to Build a Movement|creating change]]. 
 
 ### Part 3: Safeguarding Civilization
 #### Extinction

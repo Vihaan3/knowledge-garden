@@ -4,14 +4,13 @@ tags:
   - meta-research
   - best
 ---
-
 I want to build software that broadly empowers people to do more of what they want to do (with reasonable constraints of course). Things like [[Search of the future|finding content]] that never would have been found otherwise, preserving attention rather than draining it, and protecting [[Slack|Slack]] are all important to me.
 
 The current tools for thought research scene is [oversaturated with broadly identical productivity tools and note-taking apps](https://maggieappleton.com/tools-for-thought). It would be tragic for my "research" to result in yet another standard to-do list app. 
 
 Currently, my primary aspiration within those broader goals is to eventually build [new mediums](https://thesephist.com/posts/medium/) based off core primitives which are themselves based off some **fundamental insights on cognition**. 
 
-Gaining these insights requires understanding [[Generating novel insights|idea generation]] and striving to do [serious work](https://numinous.productions/ttft/#serious-work) both as a tool for thought creator and in separate authentic contexts. 
+Gaining these insights requires understanding [[How to generate novel insights|idea generation]] and striving to do [serious work](https://numinous.productions/ttft/#serious-work) both as a tool for thought creator and in separate authentic contexts. 
 ### Powerful quotes that have influenced my vision
 
 >"A means of increasing the capability of a man to **approach** a complex problem situation, **gain comprehension** to suit his particular needs, and to **derive solutions** to problems.” https://www.dougengelbart.org/content/view/138

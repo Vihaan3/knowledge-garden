@@ -1,4 +1,8 @@
-#tools_for_thought 
+---
+tags:
+  - literature-note
+  - tools_for_thought
+---
 https://numinous.productions/ttft/#improving-mnemonic-medium
 
 General Principles for Flashcard Creation

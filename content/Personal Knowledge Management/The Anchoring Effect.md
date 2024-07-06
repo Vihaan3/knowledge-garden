@@ -1,4 +1,8 @@
-#cognitive_bias #meta-thinking 
+---
+tags:
+  - cognitive_bias
+  - meta-thinking
+---
 Note from [[Thinking, Fast and Slow]].
 
 When your estimation of a quantity is affected by another original quantity. There's two ways this happens.

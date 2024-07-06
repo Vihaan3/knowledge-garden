@@ -3,7 +3,7 @@
 A new tool would probably have a different scheduling algorithm where you can suggest the first day you want a card to repeat and what time interval (long, short, medium).
 
 Also maybe some options for timelines that collapse inward (start on long time frames that progressively get shorter). There are probably some defaults for standard use cases as described in [[Building a better memory system]].
-#### Some shortcomings with traditional srs for specific use cases
+#### Some shortcomings with traditional speced repetition systems for specific use cases
 
 - Ideas
 	- There needs to be an easy way to put a limit to the amount of cards you can have in a day. 

@@ -7,11 +7,11 @@ tags:
   - tools_for_thought
   - unfinished
 ---
-How can we make it easier to learn faster while also increasing the ability to recall and use that knowledge?
+With the primitive spaced repetition systems we currently have, it's sometimes necessary to sacrifice [[Massive Input vs Spaced Repetition|spaced repetition for massive input]]. I want to bridge the gap here.
 
-I think this problem can be broken down to two parts. 
-1. Better ways to search and gather information
-2. Better recall and application of information
+I think this can be broken down to two major components. 
+1. Find better ways to search and gather information
+2. Find better ways to integrate massive 
 
 ### Leading Figures
 Linus Lee is doing a lot of great work on #1 (https://thesephist.com/posts/monocle/, https://thesephist.com/posts/browser/, https://thesephist.com/posts/search-vs-nav/, https://thesephist.com/posts/nav/), and Andy Matuschak is one of the leading figures on #2 (https://andymatuschak.org/books, https://andymatuschak.org/prompts, https://notes.andymatuschak.org/z244xx3kMf1v8UnkZKUwQBAwBsHLpUgN4YhsG).

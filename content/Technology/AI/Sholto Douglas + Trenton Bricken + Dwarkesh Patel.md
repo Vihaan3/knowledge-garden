@@ -1,3 +1,8 @@
+---
+tags:
+  - technology/ai
+  - unfinished
+---
 *First pass, just taking notes on what doesn't make sense and making quick Google searches for smaller topics. Will do a second pass later on more technical topics once done with 3Blue1Brown's neural networks course + fast.ai.*
 
 https://www.youtube.com/watch?v=UTuuTTnjxMQ
@@ -60,6 +65,3 @@ What are systems as sholto talks about?
 
 Sholto and Trenton backstories: Both of them are incredibly agentic people. If they face a roadblock they'll just go ahead and solve the entire thing vertically instead of sitting around and waiting for it to get fixed. Worked on a lot of interesting things themselves and got hired by putting themselves out there and having luck strike.
 
-
-
-#technology/ai #unfinished 

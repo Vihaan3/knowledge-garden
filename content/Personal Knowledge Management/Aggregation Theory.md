@@ -1,5 +1,9 @@
-#economics/business #startup 
-
+---
+tags:
+  - economics/business
+  - startup
+  - literature-note
+---
 From: https://stratechery.com/2015/aggregation-theory/ + https://stratechery.com/2017/defining-aggregators/
 
 #### Aggregation Theory

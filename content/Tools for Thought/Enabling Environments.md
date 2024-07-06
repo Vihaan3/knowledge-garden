@@ -1,5 +1,11 @@
-#culture #unfinished #tools_for_thought #user_interaction 
-https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby?
+---
+tags:
+  - culture
+  - unfinished
+  - tools_for_thought
+  - user_interaction
+---
+https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby
 
 Enabling environments should ideally be built around something that is intrinsically valuable in and of itself and shouldn't solely be focused on building an enabling environment. For example, apple, nasa, research labs, YC are enabling environments for the personal growth of a lot of ppl while serving separately meaningful purposes. This is important because it can help us structure a really good enabling environment for [[Social Infrastructure]].
 

@@ -1,2 +1,0 @@
-#unfinished #empty 
-"Landmark" ideas that you think about often will find their way into your notes sooner, and the links between different landmark notes inspire iteratively more notes until you've got a rough mental model of your head.

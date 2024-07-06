@@ -1,15 +1,14 @@
-#unfinished #tools_for_thought #memory_systems 
-Primarily inspired by [[Elijah]]'s idea that school should be geared towards massive input to train our brains to optimize for learning (the more you learn, the more sophisticated your brain becomes at developing structures that optimize for learning which is something that [[Jacob GW]] talks abt)
+---
+tags:
+  - unfinished
+  - tools_for_thought
+  - memory_systems
+---
+[Nintil](https://nintil.com/massive-input-spaced-repetition) suggests that you should massive input most things to build intuition/[tacit knowledge](https://nintil.com/scaling-tacit-knowledge/) and use spaced repetition for things that you really want to remember. 
 
-reminded of this by https://nintil.com/massive-input-spaced-repetition
-
-Nintil suggests that you should massive input most things and use spaced repetition for things that you especially have to remember. Massive input until you have a map of the territory and then build off of that with srs as needed. This seems correct to some extent.
-
-Talked to [[Jacob GW]] abt this, and he suggests that massive input works best in domains where there's immediate feedback like coding or learning rubix cubes. In other domains, srs provides the immediate feedback.
+I talked to [[Jacob GW]] about this, and he posits that massive input works best in domains where there's immediate feedback like coding or rubix cubing. In other domains, spaced repetition provides the immediate feedback. This tracks with my ideas around [[Environments that are good for deliberate practice]].
 
 This makes me wonder about [[Making Massive Input Better]].
-
-I think I'll take a mixed approach here. I like the idea that not everything should go into your memory system, but I also like the immediate feedback heuristic Jacob provides. 
 
 ## Massive Input vs Spaced Repetition Research
 I want to research into whether there's even better heuristics for when to use massive input and when to use spaced repetition for coming up with better ideas/getting to the edge of your field. I want to pioneer a new approach that combines the two into a system that can be used effectively for whatever you need. 

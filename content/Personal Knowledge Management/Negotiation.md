@@ -1,2 +1,6 @@
-#unfinished #empty 
+---
+tags:
+  - pattern
+  - empty
+---
 [[Never Split the Difference]]

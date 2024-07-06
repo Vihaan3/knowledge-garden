@@ -23,9 +23,9 @@ Things to learn:
 	- Most education systems are terrible about this. It's just "I teach, you memorize and regurgitate". Most schools need to be better about encourage more critical thinking and intellectual engagement with material. 
 		- Maybe teachers should intentionally slip up at times while explaining abstract topics (not simple errors on math answers) and encourage students to catch them
 	- Basic critical thinking skills around statistics, ads, media, propaganda
-		- Understanding [[Mimetics]]
+		- Understanding [[Memetics]]
 - Other basic skills
-	- [[Mimetics]] (I'll repeat it again)
+	- [[Memetics]] (I'll repeat it again)
 	- Recognizing and avoiding groupthink, mob behavior, extremist ideology
 	- Understanding the importance of engaging with people who disagree with you despite [[Cognitive Ease]]
 	- Understanding that **Correlation != Causation**
@@ -34,4 +34,4 @@ Things to learn:
 
 A lot of these things *are* taught but only as one-off workshops/lessons instead of getting the focus they deserve.   
 
-This should be present overtly (maybe via a reformed [[What we should be doing in English class|English class]]) and should also be present in the backdrop of everything. 
+This should be present overtly (maybe via a reformed [[What we should be doing in elementary school English classes|English class]]) and should also be present in the backdrop of everything. 

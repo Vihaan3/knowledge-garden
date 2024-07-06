@@ -1,4 +1,10 @@
-#user_interaction #unfinished #tools_for_thought #empty 
+---
+tags:
+  - user_interaction
+  - unfinished
+  - tools_for_thought
+  - empty
+---
 [https://jzhao.xyz/thoughts/interaction-design](https://jzhao.xyz/thoughts/interaction-design)
 [https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/](https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 [https://worrydream.com/MagicInk/](https://worrydream.com/MagicInk/)

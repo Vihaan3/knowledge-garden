@@ -1,8 +1,11 @@
-#unfinished #pattern
-
+---
+tags:
+  - unfinished
+  - pattern
+---
 A branch of [[How to change the way you think]].
 
-Use situation based Anki cards. For example, if you want to start eating healthier you can add cards like:
+Use situation based spaced repetition cards. For example, if you want to start eating healthier you can add cards like:
 - I will limit my sugar intake to < [cloze (21 grams)] a day.
 - When I see junk food in front of me, I [cloze (won't eat it.)]
 - When you go to the grocery store, what type of food should you not bring?

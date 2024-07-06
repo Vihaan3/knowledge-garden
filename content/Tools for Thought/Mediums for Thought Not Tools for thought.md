@@ -12,5 +12,5 @@ This is why [[End-user programming]] is such a powerful idea, and many of the re
 **Important to note that:** [[The best mediums for thought will live outside any particular apps]]
 
 ## Ideas
-- Medium for a new style of srs system 
+- Medium for a new style of spaced repetition system 
 - New medium for note-taking as described in [[Serendipitous Idea-Formation]]

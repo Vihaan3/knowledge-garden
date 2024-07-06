@@ -1,5 +1,9 @@
-#history #unfinished #literature-note #podcast 
-
+---
+tags:
+  - history
+  - podcast
+  - literature-note
+---
 https://podcasts.apple.com/gb/podcast/american-civil-war-the-causes/id1537788786?i=1000567780922 + the rest of that series
 
 Frightening parallel between the American Civil War and America today: you are at a time when *all* issues divide (almost) evenly on partisan lines.

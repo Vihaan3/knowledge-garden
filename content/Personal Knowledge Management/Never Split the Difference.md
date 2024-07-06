@@ -1,5 +1,8 @@
-#book 
-
+---
+tags:
+  - book
+  - literature-note
+---
 - A lot of the fallacy in negotiations occur when you assume humans are rational. You have to learn how to affect the irrational System 1 to get the System 2 to do what you want.
 - "It all starts with the universally applicable premise that people want to be understood and accepted. Listening is the cheapest, yet most effective concession we can make to get there"
 - "Negotiation serves two distinct, vital life functions-information gathering and behavior influencing"

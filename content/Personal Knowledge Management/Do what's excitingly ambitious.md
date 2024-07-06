@@ -1,3 +1,8 @@
+---
+tags:
+  - personal
+  - pattern
+---
 #personal #pattern 
 https://paulgraham.com/greatwork.html
 

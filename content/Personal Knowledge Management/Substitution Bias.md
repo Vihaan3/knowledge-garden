@@ -1,5 +1,8 @@
-#cognitive_bias #meta-thinking 
-
+---
+tags:
+  - cognitive_bias
+  - meta-thinking
+---
 The mother of many cognitive biases. This is the tendency to substitute a hard question for an easier question, often without even recognizing it.  
 
 Examples:

@@ -1,3 +1,10 @@
+---
+tags:
+  - history
+  - unfinished
+  - literature-note
+  - podcast
+---
 https://podcasts.apple.com/au/podcast/j-r-r-tolkien/id1537788786?i=1000577613968
 
 Tolkien's early life
@@ -17,4 +24,3 @@ Echoes from Tolkien's life
 - Ideas about intense male friendship and camaraderie probably come from his experiences at school
 
 
-#history #unfinished #literature-note #podcast 

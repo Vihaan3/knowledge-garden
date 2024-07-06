@@ -1,5 +1,8 @@
-#meta-thinking #cognitive_bias 
-
+---
+tags:
+  - meta-thinking
+  - cognitive_bias
+---
 Note from [[Thinking, Fast and Slow]]
 
 2 separate results about cognitive ease combine to be troubling:

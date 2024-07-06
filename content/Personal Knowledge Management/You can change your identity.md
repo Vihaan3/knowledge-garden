@@ -18,6 +18,6 @@ You can:
 - become more hard-working
 - become more caring
 Intentional identity change is *hard*. The only way is to just [[Agency|go and do the thing]] that you think you can't do, and *convince yourself*. Do the actions that you would do if you had the desired identity. A helpful way I've found of thinking about it, is to do the thing until you would use that identity to describe yourself in a bio. 
-Using Anki to [[How to change the way you think|change your thinking]] to more closely resemble what `insert desired identity` is also tremendously helpful. This can be a quick way to get you past the initial activation energy and build momentum while developing the desired identity. 
+Using spaced repetition systems to [[How to change the way you think|change your thinking]] to more closely resemble what `insert desired identity` is also tremendously helpful. This can be a quick way to get you past the initial activation energy and build momentum while developing the desired identity. 
 
 For an identity that you truly care about getting, join a community of people with that identity. You'll absorb the desired traits by osmosis. In person is great, but otherwise join a Reddit community, discord server, etc with a high density of people with your desired identity. It works wonders. Even the act of joining reinforces the identity. 

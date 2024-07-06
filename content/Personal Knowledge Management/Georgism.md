@@ -1,1 +1,6 @@
-#economics #unfinished #to-learn #empty 
+---
+tags:
+  - economics
+  - to-learn
+  - empty
+---

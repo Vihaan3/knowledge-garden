@@ -1,5 +1,8 @@
-#book 
-
+---
+tags:
+  - book
+  - literature-note
+---
 Only give your system 1 credence if you've had the opportunity to train your pattern matching based on cues. Even then, you should double-check rigorously
 - Many forecasts aren't really forecasts. "Some chance", "high chance", "high impact". We need probabilities and clear wording. 
 - Be both an information aggregator and a perspective aggregator (the second is for games where you have to beat the crowd)

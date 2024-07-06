@@ -1,10 +1,12 @@
-#meta-thinking/meta-learning #tools_for_thought 
-
+---
+tags:
+  - meta-thinking/meta-learning
+  - unfinished
+  - tools_for_thought
+---
 - [[Massive Input vs Spaced Repetition]]
 - [[Evergreen Notes]]
-- [[Expert and AI Mnemonic Mediums]]
 - [[Consumption vs Thinking]]
-- [[Massive Input vs Slower Consumption]]
 - [[Making Massive Input Better]]
 - [[Search of the future]]
 - AI-powered auto-spaced repetition whenever you're reading something that forces you to pause every few minutes. 

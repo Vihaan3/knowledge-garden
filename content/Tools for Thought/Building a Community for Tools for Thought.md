@@ -1,4 +1,11 @@
-#culture #meta-research #tools_for_thought
+---
+tags:
+  - literature-note
+  - meta-research
+  - culture
+  - tools_for_thought
+---
+## Links
 https://thesephist.com/posts/research-community/
 https://www.patreon.com/posts/ratcheting-in-47976114
 

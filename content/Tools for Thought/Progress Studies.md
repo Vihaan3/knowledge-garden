@@ -1,6 +1,10 @@
-#meta-research #unfinished #to-learn 
-
-
+---
+tags:
+  - literature-note
+  - meta-research
+  - unfinished
+  - to-learn
+---
 Foundational text: https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/
 
 - throughout history, relatively small geographic pockets have been centers for progress

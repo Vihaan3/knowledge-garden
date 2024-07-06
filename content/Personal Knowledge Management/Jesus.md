@@ -1,3 +1,11 @@
+---
+tags:
+  - history
+  - podcast
+  - literature-note
+---
+
+
 https://pca.st/q8v85kyr
 https://pca.st/ic5h8f7l
 
@@ -21,5 +29,3 @@ Rough idea of the figure
 - By [[Occam's Razor]] a lot of the sayings and teachings that are ascribed to Jesus are probably loosely accurate because they seem relatively coherent. if it wasn't Jesus then there must have been some other charismatic figure who retroactively created those teachings
 
  
-
-#history #unfinished #literature-note #podcast 

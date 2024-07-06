@@ -1,5 +1,8 @@
-#personal #pattern 
-
+---
+tags:
+  - personal
+  - pattern
+---
 https://www.neelnanda.io/blog/38-slack
 
 As Neel Nanda puts it, slack is "spare capacity". It's having the room to be able to do what you want and cultivate intrinsic motivation.

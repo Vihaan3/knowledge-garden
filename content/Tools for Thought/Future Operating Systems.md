@@ -1,9 +1,7 @@
 ---
 tags:
-  - unfinished
   - to-learn
   - user_interaction
-  - technology/ai
   - tools_for_thought
   - empty
 ---

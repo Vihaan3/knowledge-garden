@@ -11,4 +11,5 @@
 	- #culture 
 	- #pattern 
 	- #podcast 
+	- #book -> Notes on some of the most useful books I've read
 	- #history 

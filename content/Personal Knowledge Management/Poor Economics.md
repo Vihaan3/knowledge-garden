@@ -1,4 +1,8 @@
-#book #economics/poverty 
+---
+tags:
+  - book
+  - economics/poverty
+---
 ### Think Again, Again
 Too much of the action we take to help the poor is well-intended by over-generalized and lacking an substantial evidence that it's the right action to take. 
 

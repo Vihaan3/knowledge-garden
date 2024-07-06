@@ -1,3 +1,7 @@
-#unfinished #meta-thinking #empty 
-Location, memory, conversations, things you read, srs prompts. 
+---
+tags:
+  - empty
+  - meta-thinking
+---
+Locations, memory, conversations, things you read, spaced repetition prompts. 
 

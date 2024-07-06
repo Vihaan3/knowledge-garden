@@ -1,5 +1,15 @@
+---
+tags:
+  - best
+---
+A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]].
 
-A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]] (note intentionally empty).
+#### 6/22/2024-7/6/2025
+*Forgot to keep track again.*
+- Met with people about the education blog post!
+- Learnt all the basic probability, calculus, linear algebra I think I need right now for where I'm at with AI
+- Learnt how to play You Shook Me All Night Long 
+- Road trip!
 
 #### 6/4/2024 - 6/21/2024
 *I forgot to keep track for a while, so this is a general update.*

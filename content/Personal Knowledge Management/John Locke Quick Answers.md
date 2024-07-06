@@ -22,7 +22,7 @@ I wanted to jot down some "off the top of my head" answers to interesting [John 
 							- Even in this, deliberate practice with moral intuitions probably doesn't work as well because it's so hard to evaluate 
 						- People who don't regularly use their moral intuitions for day-to-day decision-making would find 
 				- Random events and triggers have a greater influence on you than you might realize (so your moral intuitions might change the next day)
-		- Your moral intuitions are mostly a combination of things selected for by evolution + random things that you absorb from others. Those random things are mostly driven by [[Mimetics]]. 
+		- Your moral intuitions are mostly a combination of things selected for by evolution + random things that you absorb from others. Those random things are mostly driven by [[Memetics]]. 
 			- You easily could have very different moral intuitions in different circumstances
 - Is there such a thing as too much democracy?
 - Why do civilizations collapse? Is our civilization in danger?

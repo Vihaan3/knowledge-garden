@@ -1,3 +1,9 @@
+---
+tags:
+  - history
+  - podcast
+  - literature-note
+---
 https://podcasts.apple.com/gb/podcast/empires/id1537788786?i=1000510095777
 
 - Outside of western Europe after the fall of the western Roman empire, much of human civilization seems to be based around empires rather than nation-states
@@ -8,4 +14,3 @@ https://podcasts.apple.com/gb/podcast/empires/id1537788786?i=1000510095777
 - Americans don't like believing that America is an empire because our founding myth is Star Wars-esque
 
 
-#history #unfinished #literature-note #podcast 

@@ -1,4 +1,8 @@
-#unfinished #tools_for_thought #empty 
+---
+tags:
+  - empty
+  - tools_for_thought
+---
 [[How can we develop transformative tools for thought]]
 https://thesephist.com/
 https://notes.andymatuschak.org/zPKTSiU725W9WQCqoVPBcxm

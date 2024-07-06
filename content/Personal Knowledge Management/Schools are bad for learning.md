@@ -10,7 +10,7 @@ I think we can do way better.
 - **Core: The use of spaced repetition systems and other memory systems should be highly encouraged.** This allows for everything else. 
 - Only pop assessments, and these assessments should actually test your learning instead of simple pattern-matching. Little to no multiple choice.
 - Less homework, but homework that actually pushes you to apply and expand on what you've learned in class and *guides* you slightly beyond your reach. **No busywork.**
-- [[What we should be doing in English class]]
+- [[What we should be doing in elementary school English classes]]
 - Gym should actually push you to become stronger, more athletic, and healthier all around
 - Somehow develop a general student culture that values intellectual curiosity, and being a "nerd" doesn't require fighting social currents
 - Greater autonomy in choosing what classes you want to take so that you only learn what you genuinely want to learn

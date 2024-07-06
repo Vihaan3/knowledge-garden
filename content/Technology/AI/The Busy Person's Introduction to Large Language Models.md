@@ -1,4 +1,7 @@
-#technology/ai 
+---
+tags:
+  - technology/ai
+---
 https://www.youtube.com/watch?v=zjkBMFhNj_g
 
 #### Training

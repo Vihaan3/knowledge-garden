@@ -1,3 +1,8 @@
+---
+tags:
+  - unfinished
+  - best
+---
 Built off of [[Outside advice for ambitious teenagers]]. 
 
 *Just based off of what I've read and speaking to some older friends. No personal experience.*
@@ -7,12 +12,10 @@ Take a lot of advice from [[My (More Than a) Kilobyte]].
 Learn core skills that you don't get taught in school:
 - All the different [[People Skills]]
 - Learning fast -> spaced repetition systems
-- [[Generating novel insights]]
+- [[How to generate novel insights]]
 
 [[Do what's excitingly ambitious]]. If stuck between two options, do what is more fun/puts you in the best position for the future. Ask yourself "what's excitingly ambitious every morning". Excitingly ambitious will change everyday, and that's good. **Optimize for this.** Make an effort to continuously have your horizons expanded so that you consistently have new understanding of what excitingly ambitious could be. Be around people who expand your horizons, consume content from people who could expand your horizons, read books, listen to podcasts, spend time with people you don't agree with. 
 
 Don't really worry too much about whether or not you're going in the right direction because there's no way to know what the right direction is. Hopefully, [[The dots connect in the end|the dots will connect in the end]]. 
 
 Make a habit of trying to think from [[First Principles]]
-
-#unfinished #best 

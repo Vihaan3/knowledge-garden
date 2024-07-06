@@ -1,5 +1,8 @@
-#cognitive_bias #economics 
-
+---
+tags:
+  - cognitive_bias
+  - economics
+---
 Main contribution from [[Thinking, Fast and Slow]].
 
 Most people basically either ignore a risk or take it extremely seriously. You can assess the numerator of a risk very well but not the denominator of chance. There's very little in-between for most people. 

@@ -1,4 +1,9 @@
-#book 
+---
+tags:
+  - literature-note
+  - book
+---
+
 The key to a good life is not giving an f about more; it’s giving an f about less, giving an f only about what is true and immediate and important.
 
 Social media means that when you feel bad, you’re inundated with thousands of picture of people feeling good, which makes you feel bad that you’re feeling bad. ->  The feedback loop from hell

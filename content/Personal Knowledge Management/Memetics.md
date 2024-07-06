@@ -1,11 +1,16 @@
-#unfinished 
-https://unaligned.world/p/life-is-memetics
+---
+tags:
+  - pattern
+  - empty
+---
+**Very** well described here: https://unaligned.world/p/life-is-memetics. 
 
-Memetics is the idea that ideas, behaviors, and information ecosystems undergo natural selection, so it's important to always be able to identify where it might occur and what the key selection mechanisms are.
-Many stupid everyday behaviors and decisions and beliefs come from 
-a. not being able to identify the fact that there are prominent selection mechanism
-b. identifying the wrong selection mechanisms
+Natural selection is at play in every information system.
+"No matter how abstract you get, information - be it chemical structure, body shape, or poem - proliferates and mutates to find an environmental optimum."
 
-Memetics exists in almost all of the information you consume, so you should always be on the lookout for it.
+It's important to be able to identify what the different factors are that influence the selection. 
 
-https://en.wikipedia.org/wiki/Memetics
+Examples:
+- The religions that spread are the ones that are most attractive
+- The news that reaches you had to be the type of news that could spread to reach you
+- The most famous book is not necessarily the "best" because there are other factors that influence the selection

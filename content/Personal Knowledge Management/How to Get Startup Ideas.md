@@ -1,4 +1,10 @@
-#economics/business #meta-thinking #startup 
+---
+tags:
+  - meta-thinking
+  - startup
+  - literature-note
+---
+#### Resources
 https://paulgraham.com/startupideas.html
 https://www.julian.com/guide/startup/
 https://startupclass.samaltman.com/

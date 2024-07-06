@@ -1,13 +1,15 @@
-#pattern #meta-thinking #meta-thinking 
-
+---
+tags:
+  - meta-thinking
+  - literature-note
+---
 A way of reasoning that standardizes updating your beliefs in response to new information. Connected to [[Trapped Priors]]. 
 
 H = hypothesis
 E = evidence
 Prior: P (H)
 Likelihood: P (E | H)
-#### Going progressively deeper
-
+### Going progressively deeper
 Primary Sources: https://www.youtube.com/watch?v=HZGCoVF3YvM + https://www.youtube.com/watch?v=U_85TaXbeIo
 
 1. Steve is very shy and withdrawn, invariably helpful but with very little interest in people or in the world of reality. A meek and tidy soul, he has a need for order and structure, and a passion for detail. Is he a farmer or a librarian? 

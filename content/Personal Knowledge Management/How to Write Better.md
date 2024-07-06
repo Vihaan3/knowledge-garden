@@ -1,5 +1,5 @@
 Julian Shapiro Guide
-Source found from taking [[Non-Trivial Courses]]
+Source found from taking [[Non-Trivial Course Notes]]
 https://www.julian.com/guide/write/intro
 https://thesephist.com/posts/how-i-write/ is another good one.
 Learn [[How to be a great storyteller]]

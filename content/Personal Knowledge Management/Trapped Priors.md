@@ -1,4 +1,7 @@
-#unfinished 
+---
+tags:
+  - unfinished
+---
 [[Bayes Theorem]]
 
 A symptom of the observations on [[Cognitive Ease]].

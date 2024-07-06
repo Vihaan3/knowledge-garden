@@ -1,6 +1,8 @@
-#meta-thinking  #unfinished 
-Most of the value in the world is in contrarian thinking about the future from [[Outside advice for ambitious teenagers]]. 
-
+---
+tags:
+  - meta-thinking
+  - unfinished
+---
 The best ways to develop contrarian ideas about a field is to get to the frontiers of knowledge in the field and notice promising gaps. 
 
 To notice promising gaps, think from [[First Principles]]. Be strict about the world and willing to break rules. 

@@ -1,4 +1,8 @@
-#book 
+---
+tags:
+  - book
+  - literature-note
+---
 Rule 1:
 - Passion is fake.
 Rule 2:

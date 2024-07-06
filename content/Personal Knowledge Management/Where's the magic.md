@@ -1,1 +1,6 @@
-#personal #unfinished #empty 
+---
+tags:
+  - empty
+  - personal
+  - pattern
+---

@@ -6,4 +6,4 @@ I.e. in the Scared Straight thing, they saw that the ppl reduced crime over the 
 
 Imagine an alternate universe where you didn't participate in hackathons, competitive programming comps, etc. Would the world be better?
 
-[[Non-Trivial Courses]]
+[[Non-Trivial Course Notes]]

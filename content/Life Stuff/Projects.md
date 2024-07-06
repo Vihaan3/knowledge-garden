@@ -1,12 +1,17 @@
 These are some projects that I'm either working on or planning to work on in the near future, roughly ordered by time. See [[Open Questions + Project Ideas]] for future projects I want to work on.
 
-*If you want to collaborate on any of these (including and especially learning), please reach out! I have too many ideas and too little time, so the existence of a collaborator would be a strong factor in getting me to do one of these over the other. If these projects spark any ideas for you, feel free to work on them by yourself if you'd like! I'm too excited to claim any sort of ownership over them, and I'd love to see them done well.*
-
 ##### Now
-- **Finishing [Fast.ai](https://www.fast.ai/)**
+- Taking Andrej Karpathy's neural nets course and learning about transformers
+- (Hopefully) getting to USACO plat
+- [Game Theory](https://oyc.yale.edu/economics/econ-159)
+
 ##### Near Future
-- Microeconomics
-- Search and information retrieval
+- Learning
+	- Deeper in microeconomics
+	- Search and information retrieval
+	- [Quantum Computing](https://quantum.country/)
+	- Deeper in calculus and linear algebra
 - Release an EP of small guitar pieces and solos
 - Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure]].
 
+Updated 7/6/2024. 

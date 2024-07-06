@@ -15,7 +15,7 @@ This is a high school that encourages high flexibility, and gives a lot of [[Age
 4. Open-ended projects with broad guidelines
 5. Time is carved out of the school day and/or school work is minimized to allow/encourage students to work on cool projects and excitingly ambitious things. Blog posts, programming projects, learning something extra, applying your knowledge from a class to something new, etc. Maybe there's a few big showcases?
 6. I think picking up various frames of looking at the world is really good, so there should be a required class that's specifically designed to expose you to lots of different topics. Maybe every month a new subject is covered. 
-7. A [[What we should be doing in English class|heavily modified English class]]
+7. A [[What we should be doing in elementary school English classes|heavily modified English class]]
 8. Better curriculum design
 	1. Classes use a top-down approach to teaching similar to [fast.ai's](https://course.fast.ai/) as much as possible. 
 	2. An emphasis on grasping the intuition behind why something works rather than rote memorization. 3Blue1Brown approach to pedagogy should be a big inspiration 

@@ -1,4 +1,9 @@
-#note-taking #search #tools_for_thought 
+---
+tags:
+  - note-taking
+  - search
+  - tools_for_thought
+---
 From: https://thesephist.com/posts/nav/
 
 > Thinking often involves a similar kind of search for better explanations, and applications of those explanations. Creative, “divergent” thinking involves our minds going out and exploring our idea mazes to try to find latent explanations – associations or relationships between previously unrelated ideas that may make our worldview more robust. Solution-seeking, “convergent” thinking involves the reverse – searching for explanations and associations in our minds that fit some problem at hand, so that we can decompose new problems into patterns we recognize how to solve.

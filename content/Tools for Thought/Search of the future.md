@@ -1,5 +1,11 @@
-#pattern #tools_for_thought #search #user_interaction 
-
+---
+tags:
+  - pattern
+  - tools_for_thought
+  - search
+  - user_interaction
+  - empty
+---
 While most "tools for thought" feel kind of trivial and inconsequential, I think that major improvements in something as fundamental as the browser could be truly transformative. 
 
 #### Browser of the Future

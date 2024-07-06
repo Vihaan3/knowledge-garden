@@ -1,7 +1,12 @@
-#tools_for_thought #user_interaction #meta-thinking/meta-learning 
+---
+tags:
+  - literature-note
+  - tools_for_thought
+  - user_interaction
+  - meta-thinking/meta-learning
+---
 https://andymatuschak.org/books/
 
-Caveat: [[What books do right]]
 ### Books
 **Books** are powerful as a way of collecting and storing knowledge, but just reading a book won't be effective for absorbing knowledge. Just reading a book is like just cracking open your textbook and expecting to remember everything. You need to use practices like spaced repetition or at least take good notes if you want to actually gain some useful information. The readers who do absorb deep insights are the ones who employ metacognition (thinking about their thinking) whether they realize it or not in order to interact with the book (is this something I already know, or should I make note of it? What do I think about this claim? Should I go research this somewhere else to understand it better?). This means that you have to read the book while also using metacognition, which is difficult (also most readers aren't particularly skillful at metacognition). 
 

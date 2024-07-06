@@ -1,4 +1,8 @@
-#book 
+---
+tags:
+  - book
+  - literature-note
+---
 # Introduction
 
 As tech advances it’s more and more important to adapt skills quickly or else you’ll fall behind
