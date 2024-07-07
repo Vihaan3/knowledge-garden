@@ -3,6 +3,7 @@ tags:
   - best
 ---
 - [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
+- [[Social Infrastructure]] + How to fix hack club
 - [[Tensions]] -> Just need to polish a substack draft
 - [[A Brief Autobiography]]
 - [[The importance of having a fallback]]
@@ -18,7 +19,6 @@ tags:
 - [[Building a Community for Tools for Thought]]
 - [[Memetics]]
 - [[Extensive Blog Post on Tools for Thought]]
-- extensive blog post on social infrastructure 
 - extensive blog post on serendipity.
 - Discuss the technology in this [[Making Massive Input Better]]
 
