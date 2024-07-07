@@ -5,7 +5,7 @@ tags:
   - culture
   - best
 ---
-*This is a collection of thoughts heavily influenced by https://logangraves.com/social-infrastructure and conversations with the author.*
+*This is a collection of thoughts heavily influenced by [Logan](https://logangraves.com/) through his [post](https://logangraves.com/social-infrastructure) on social infrastructure and conversations with him about this.*
 
 ## Definition
 

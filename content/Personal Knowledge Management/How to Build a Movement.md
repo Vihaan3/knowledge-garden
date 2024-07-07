@@ -4,7 +4,7 @@ tags:
   - culture
   - unfinished
 ---
-Important for both [[Social Infrastructure]] and [[How can we make memory systems widespread]]. Probably could help to know more about [[How to make ideas spread]]. It's also important to keep the idea of [[Ossification]] in mind.
+Important for both [[Social Infrastructure for Sparkly People]] and [[How can we make memory systems widespread]]. Probably could help to know more about [[How to make ideas spread]]. It's also important to keep the idea of [[Ossification]] in mind.
 
 ## Sivers Ideas
 https://sive.rs/ff: An interesting framework to use to think about starting a movement

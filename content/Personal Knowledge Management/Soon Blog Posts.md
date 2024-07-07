@@ -2,23 +2,25 @@
 tags:
   - best
 ---
-- [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
-- [[Social Infrastructure]] + How to fix hack club
+- Weird spaced repetition uses post -> [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
+- [[Social Infrastructure for Sparkly People]] + How to fix hack club
+- Write up answers for [[John Locke Quick Answers|John Locke Essay Competition]] 
+- Stuff I'm learning about:
+	- Quantum Computing
+	- Microeconomics
+		- Game theory
+	- Math
+		- Linear Algebra
+		- Calculus
+		- Statistics
 - [[Tensions]] -> Just need to polish a substack draft
 - [[A Brief Autobiography]]
-- [[The importance of having a fallback]]
-- What are the biggest influences on our moral landscape? 
 - A [discovery fiction](https://michaelnotebook.com/df/index.html) on something interesting that I want to grok deeply
-- What I want the future to look like. How do I navigate the [[Open Questions + Project Ideas#Other|dual-use conundrum]]? [[There will be no transhumanist utopia]]. 
+- What I want the future to look like. 
 - [[Search of the future]]
-- [[On the importance of friction]]
-- [[Life advice for myself]]
-- [[Engelbart on aiding cognition]] -> use the Engelbart quote and try to break it down to get new and better ideas.
-- [[How to generate novel insights]]? can take inspiration from [[How to Get Startup Ideas]], [[Evergreen Notes]], and more research into how ppl think
-- [[How to make good predictions]]
 - [[Building a Community for Tools for Thought]]
 - [[Memetics]]
 - [[Extensive Blog Post on Tools for Thought]]
 - extensive blog post on serendipity.
-- Discuss the technology in this [[Making Massive Input Better]]
+- Discuss the technology in [[Making Massive Input Better]]
 

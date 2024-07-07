@@ -12,6 +12,6 @@ These are some projects that I'm either working on or planning to work on in the
 	- [Quantum Computing](https://quantum.country/)
 	- Deeper in calculus and linear algebra
 - Release an EP of small guitar pieces and solos
-- Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure]].
+- Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure for Sparkly People]].
 
 Updated 7/6/2024. 

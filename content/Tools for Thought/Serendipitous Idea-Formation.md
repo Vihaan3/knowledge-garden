@@ -6,7 +6,7 @@ tags:
 [[Ideas as social graphs]]
 [[Idea Triggers]]
 [[Why the best conversations lead to so many good ideas]]
-**Also, one of the best ways to increase that serendipity is through building** [[Social Infrastructure]]
+**Also, one of the best ways to increase that serendipity is through building** [[Social Infrastructure for Sparkly People]]
 
 This is a key aspect of building tools for thought, and this is probably what will be key to creating better future tools for thought. Some things will probably help with this.
 - Better visual design of how concepts interconnect
