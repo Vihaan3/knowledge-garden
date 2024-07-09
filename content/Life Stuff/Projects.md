@@ -14,6 +14,7 @@ These are some projects that I'm either working on or planning to work on in the
 	- Search and information retrieval
 	- [Quantum Computing](https://quantum.country/)
 	- Deeper in calculus and linear algebra
+- (eventually) build out some rough prototypes of a [[Spaced everything]] app
 - Release an EP of small guitar pieces and solos
 - Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure for Sparkly People]].
 
