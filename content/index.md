@@ -27,4 +27,4 @@ Getting started:
 	- I'm working on converting my tagging so that it's more Quartz-friendly. There might be wonky formatting with tags in many notes.
 
 
-For more polished writing, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . If you want to talk about anything interesting that you find in these notes, email me at vihaansondhi07@gmail.com. 
+For more polished writing, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . If you want to talk about anything interesting that you find in these notes, email me at vihaansondhi07@gmail.com. I'm always looking for book recs, so I'd love to follow you on [Hardcover](https://hardcover.app/@Vihaan3). 
