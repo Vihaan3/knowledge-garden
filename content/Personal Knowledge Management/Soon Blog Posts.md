@@ -6,6 +6,7 @@ tags:
 - [[Social Infrastructure for Sparkly People]] + How to fix hack club
 - Write up answers for [[John Locke Quick Answers|John Locke Essay Competition]] 
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
+- Something adjacent to https://meltingasphalt.com/interactive/going-critical/
 - Stuff I'm learning about:
 	- Quantum Computing
 	- Microeconomics

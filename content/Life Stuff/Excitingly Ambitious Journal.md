@@ -4,7 +4,12 @@ tags:
 ---
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]].
 
-#### 6/22/2024-7/6/2025
+#### 7/6-7/10/2024
+- I've started the Game Theory course with [[Elijah]]
+- I was originally planning to start building a neural net from scratch project like [this](https://github.com/Elijah-Bodden/Numpy-NN) by now, but then I realized that I want to learn a little more first, so I've started Andrej Karpathy's course on neural nets. They're so good that I'm wondering why I wasted so much time on fast.ai.
+- Polishing two old substack drafts that have been sitting around for a while. Hopefully will release them by the end of the week. 
+
+#### 6/22/2024-7/6/2024
 *Forgot to keep track again.*
 - Met with people about the education blog post!
 - Learnt all the basic probability, calculus, linear algebra I think I need right now for where I'm at with AI
