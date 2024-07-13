@@ -10,6 +10,8 @@ I think a lot about topics that interest me, so knowing more about me would prob
 
 Right now, I'm fascinated by AI/ML-adjacent courses, [history](https://podcasts.apple.com/gb/podcast/the-rest-is-history/id1537788786), competitive programming puzzles, and building prototypes of [[What my tft research should be|tools that can augment cognition]] (specifically [[Making Massive Input Better|information retrieval]], [[Search of the future|search]], and [[Future Operating Systems|future operating systems]]). I'm also fascinated by communities and making the experiences of expert community builders more [legible](https://nintil.com/scaling-tacit-knowledge/#language-learning). I want to build the kind of [[Social Infrastructure for Sparkly People|social infrastructure]] for [[Sparkly People|"sparkly" people]] that's been missing for a lot of my life, and in that vein I'm also interested in wider [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools). I'm a passionate user of spaced repetition systems, and I use them to do [[Spaced Repetition Uses|interesting things]] like [[How to change the way you think|changing the way I think]] and [[You can change your identity|changing the way I see myself]]. 
 
+See [[Projects]] for a /now. 
+
 Getting started:
 - [[Paths to get started]]
 - [[Open Questions + Project Ideas]]  

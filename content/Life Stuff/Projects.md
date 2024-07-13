@@ -4,7 +4,8 @@ These are some projects that I'm either working on or planning to work on in the
 - Taking Andrej Karpathy's neural nets course and learning about transformers
 - (Hopefully) getting to USACO plat
 - Learning about [Game Theory](https://oyc.yale.edu/economics/econ-159) with a friend 
-- Getting the top three from [[Soon Blog Posts]] onto my Substack in the next 3 weeks 
+- Building (hopefully) the best high school hackathon in NY
+- Getting the top three from [[Soon Blog Posts]] onto my Substack in the next 3 weeks
 - Getting my ideas on [[Social Infrastructure for Sparkly People|social infrastructure]] to hit the real world (report coming July 2025)
 - Trying to become a guitar solo god
 
