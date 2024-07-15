@@ -3,7 +3,6 @@ tags:
   - personal
   - pattern
 ---
-#personal #pattern 
 https://paulgraham.com/greatwork.html
 
 Recently, I've been plagued by scheduling issues. There's so many exciting things that I could be doing and learning, and it's hard to prioritize. What typically ends up happening is that I spread myself too thin and prevent myself from going too deep into any one thing. 

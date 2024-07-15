@@ -26,7 +26,8 @@ I wanted to jot down some "off the top of my head" answers to interesting [John 
 			- You easily could have very different moral intuitions in different circumstances
 - Is there such a thing as too much democracy?
 - Why do civilizations collapse? Is our civilization in danger?
+	- https://www.thepsmiths.com/p/review-after-1177-bc-by-eric-h-cline
 - What is the optimal global population?
 - Why was sustained economic growth so rare before the later 18th century and why did this change?
 - There is an unprecedented epidemic of depression and anxiety among young people. Can we fix this? How?
-- When will advancing technology make most of us unemployable? What should we do about this?
+
