@@ -15,6 +15,9 @@ tags:
 		- Linear Algebra
 		- Calculus
 		- Statistics
+- Vibers-based:
+	- A post with the vibes of these: https://model-thinking.com/
+	- A post with the vibes of these: https://scholars-stage.org/scholars-stage-greatest-hits-index/
 - [[Tensions]] -> Just need to polish a substack draft
 - [[A Brief Autobiography]]
 - A [discovery fiction](https://michaelnotebook.com/df/index.html) on something interesting that I want to grok deeply

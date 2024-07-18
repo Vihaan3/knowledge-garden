@@ -26,7 +26,6 @@ Getting started:
 	- TFT in place of tools for thought
 - Pesky bugs I'll fix (eventually)
 	- The note dates update every time I sync with my Obsidian notes (which is everyday), so the dates for every note will almost always be within the last few days. 
-	- I'm working on converting my tagging so that it's more Quartz-friendly. There might be wonky formatting with tags in many notes.
 
 
 For more polished writing, visit my [Substack](https://vihaansondhi.substack.com/about#§to-me) . If you want to talk about anything interesting that you find in these notes, email me at vihaansondhi07@gmail.com. I'm always looking for book recs, so I'd love to follow you on [Hardcover](https://hardcover.app/@Vihaan3). 
