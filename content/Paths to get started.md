@@ -5,11 +5,11 @@
 - Some tags with cool things
 	- #best 
 	- #education 
+	- #book -> Notes on some of the most useful books I've read
+	- #meta-thinking 
 	- #tools_for_thought 
 	- #technology + #technology/ai 
-	- #meta-thinking 
 	- #culture 
 	- #pattern 
 	- #podcast 
-	- #book -> Notes on some of the most useful books I've read
 	- #history 

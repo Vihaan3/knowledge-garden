@@ -1,0 +1,54 @@
+---
+tags:
+  - literature-note
+  - book
+  - economics
+---
+- Scarcity matters: Some things are naturally scarce, other things are scarce because of artificial "green belts"
+	- David Ricardo's rent model: https://chatgpt.com/share/0c0c1980-05cd-4af7-9070-eece5bcd635d. The key point is that things are based on the marginal land. 
+	- Terms that stem from Ricardo's model
+		- "monopoly rents": profits that a business gets from scarcity
+		- "rent-seeking behavior": behavior that seeks to drive down competition
+	- Example: Gangs often don't pay well because of low scarcity: "guns and aggressive young men are both in plentiful supply"
+- Price-targeting: Varied pricing for products with similar production costs and small differences to identify those willing to pay extra
+- Price-sensitivity: how much you are willing to pay depends on how sensitive you are to price, which varies based on context.
+	- Coffee shops at train stations have higher prices 
+	- Drinks at restaurants have higher prices
+	- Popcorn at theaters have higher prices
+	- Disney offers Disneyland discounts to locals because they are more price-sensitive. 
+- Checks on companies:
+	- Losing scarcity power
+	- Plugging leaks
+		- What stops people who would be willing to pay higher prices go for a cheaper option? 
+			- Strategy: intentionally sabotage low-end products (which sometimes costs more than building the high-end ones) -> Ricardo
+		- Products might leak from one group to another
+- Efficiency vs Inefficiency
+	- Efficient situation: Every change that helps someone will hurt someone. (Doesn't mean that efficient situations are perfect. There's just no costless improvement.)
+	- Inefficient situation: You can make a change that makes at least one person better off and nobody worse off. 
+- There's a difference between being pro-market and pro-business. 
+- Market Failures:
+	- Too much scarcity power
+	- Missing information: When one party (either buyer or seller) has more critical information than the other. 
+	- Decisions that have side effects on bystanders (externalities)
+- Free and perfectly competitive markets are efficient. Efficiency = truth. 
+- It's important to move as close as you can to the world of truth.
+	- Externality charges help us price in more externalities and move closer to the world of truth. Should only be used for things that would be impossible to negotiate for the parties involved (congestion, pollution, etc).
+		- If you want to reduce congestion, instead of making it costly to start driving but (relatively) costless for each subsequent trip, you should have some sort of tax for each trip. 
+			- If someone really wants to go, they'll accept the tax, but in general people will be less willing to use their cars and more likely to find other modes of transportation to get where they want/carpool. 
+- Ideally, the value of a company should only rise if they have some form of increased scarcity. If not, they're being overvalued.
+- Ideally, developing countries should catch up because rich countries have diminishing returns to investment
+	- Bottlenecks are created by institutions (corruption, lack of truth, etc). Institutions matter.
+- Tax on imports is equivalent to a tax on exports
+	- Taxes on car imports help local car manufacturers, but harm the farmers who trade for the foreign cars.
+- Sweatshops are a symptom and not a cause of poverty. People work there willingly, which means that they must be better than the alternatives and the arrival of sweatshops is often the first steps out of poverty for a country. Boycotting them just harms the global poor by taking those jobs out of poor countries and into rich ones. 
+- How China got rich
+	- The state relaxed restrictions in a way that (perhaps luckily) increased truth just enough while not being full on shock therapy. 
+	- Lucky ties to the outside world through Hong Kong and Taiwan. 
+- Basic lessons of economics:
+	- fight scarcity + corruption
+	- correct externalities
+	- maximize information
+	- get the incentives right
+	- trade with other countries
+	- embrace markets
+> In the end, economics is about people--something that economists have done a very bad job at explaining. And economic growth is about a better life for individuals--more choice, less fear, less toil and hardship. 
