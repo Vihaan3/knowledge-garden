@@ -24,7 +24,11 @@ I wanted to jot down some "off the top of my head" answers to interesting [John 
 				- Random events and triggers have a greater influence on you than you might realize (so your moral intuitions might change the next day)
 		- Your moral intuitions are mostly a combination of things selected for by evolution + random things that you absorb from others. Those random things are mostly driven by [[Memetics]]. 
 			- You easily could have very different moral intuitions in different circumstances
+				- "Your moral feelings are attached to frames, to descriptions of reality rather than to reality itself...framing should not be viewed as an intervention that masks or distorts an underlying preference. At least in this instance...there is no underlying preference that is masked or distorted by the frame. Our preferences are about framed problems, and our moral intuitions are about descriptions, not about substance.""
 - Is there such a thing as too much democracy?
+	- Yes
+		- California 
+		- *Myth of the Rational Voter*
 - Why do civilizations collapse? Is our civilization in danger?
 	- https://www.thepsmiths.com/p/review-after-1177-bc-by-eric-h-cline
 - What is the optimal global population?

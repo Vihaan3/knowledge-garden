@@ -22,9 +22,10 @@ These are some projects that I'm either working on or planning to work on in the
 	- [Quantum Computing](https://quantum.country/)
 	- Deeper in calculus and linear algebra. 
 		- Rn I only know enough calculus to implement very basic backprop by hand and enough linear algebra to understand matrix multiplication. 
-- build out some rough prototypes of a [[Spaced everything]] app
+- Build a relatively detailed prototype of [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) to get better at design and frontend development
+- Build out some rough prototypes of a [[Spaced everything]] app
 - Release an EP of small guitar pieces and solos
-- Understanding [[How to make ideas spread]], [[Organizational Culture]], [[How to Build a Movement]], [[Social Infrastructure for Sparkly People]].
+
 
 ##### Important Past Projects
 - Passing USACO Bronze
