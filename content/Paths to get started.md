@@ -5,7 +5,7 @@
 - Some tags with cool things
 	- #best 
 	- #education 
-	- #book -> Notes on some of the most useful books I've read
+	- #book + #literature-note -> Notes on some of the most useful books, articles, podcasts, etc I've encountered
 	- #meta-thinking 
 	- #tools_for_thought 
 	- #technology + #technology/ai 

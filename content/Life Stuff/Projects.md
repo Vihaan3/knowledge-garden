@@ -9,7 +9,7 @@ These are some projects that I'm either working on or planning to work on in the
 - Getting my ideas on [[Social Infrastructure for Sparkly People|social infrastructure]] to hit the real world (report coming July 2025)
 - Trying to become a guitar solo god
 
-##### Near Future
+##### Future
 - Learning (if you want to run a study group for any of these, I'd love that)
 	- Economics: https://guzey.com/education/courses/#economics
 		- Marginal Revolution University [Principles of Micro](https://www.mruniversity.com/courses/principles-economics-microeconomics)
@@ -18,10 +18,11 @@ These are some projects that I'm either working on or planning to work on in the
 		- University of Michigan [Model Thinking](https://www.coursera.org/learn/model-thinking)
 	- History: https://guzey.com/education/courses/#history
 		- University of Virginia _The Modern World (1760-)_. [Part 1](https://www.coursera.org/learn/modern-world). [Part 2](https://www.coursera.org/learn/modern-world-2).
-	- Search and information retrieval
+	- Search
+	- Cybersec
 	- [Quantum Computing](https://quantum.country/)
 	- Deeper in calculus and linear algebra. 
-		- Rn I only know enough calculus to implement very basic backprop by hand and enough linear algebra to understand matrix multiplication. 
+		- Rn I only know enough calculus to implement very basic backprop with scalars by hand and enough linear algebra to understand matrix multiplication. 
 - Build a relatively detailed prototype of [DK](https://medium.com/@NirZicherman/the-ideal-social-network-5e79ebdbfe7c) to get better at design and frontend development
 - Build out some rough prototypes of a [[Spaced everything]] app
 - Release an EP of small guitar pieces and solos
