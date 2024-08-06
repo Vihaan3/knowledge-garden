@@ -10,6 +10,7 @@ tags:
 	- Quantum Computing
 	- Microeconomics
 		- Game theory
+	- History
 	- Math
 		- Linear Algebra
 		- Calculus
