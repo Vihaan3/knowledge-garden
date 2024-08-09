@@ -4,6 +4,8 @@ tags:
   - economics
   - best
 ---
+From: https://oyc.yale.edu/economics/econ-159
+
 #### Lecture 1: First Five Lessons
 
 Strictly dominate: Strategy alpha strictly dominates strategy beta when the payoff from alpha is strictly greater than that of beta *regardless of what others do*.
