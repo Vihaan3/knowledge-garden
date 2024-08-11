@@ -4,6 +4,14 @@ tags:
 ---
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]].
 
+
+#### 7/10 - 8/10/2024
+*Kind of a lame first month of summer break. I wasted way too much time reading random blog posts and learning things in highly unprincipled ways. Overall I think my well-being and fulfillment has probably been lowest this past month out of all the months this year because a) too much procrastination reading random blog posts b) it was an almost entirely input month (usually writing blog posts and these notes help me feel like I'm producing something, but I've done very little of either this month) c) I've had a vague uneasy feeling that I've wasted a lot of the time I've spent this month (this is pretty normal for times of high-input/low-output months, but this month was worse than normal because I didn't write more to make up for it).*
+- Finished the Karpathy course and used [ARENA](https://www.arena.education/) to go deeper
+- Passed a self-designed USACO Silver practice contest (and proceeded to flunk on 2 others)
+- Wrote a blog post on [[Social Infrastructure for Sparkly People]] that a bunch of people liked 
+- Learnt 3 new guitar solos 
+
 #### 7/6-7/10/2024
 - I've started the Game Theory course with [[Elijah]]
 - I was originally planning to start building a neural net from scratch project like [this](https://github.com/Elijah-Bodden/Numpy-NN) by now, but then I realized that I want to learn a little more first, so I've started Andrej Karpathy's course on neural nets. They're so good that I'm wondering why I wasted so much time on fast.ai.
