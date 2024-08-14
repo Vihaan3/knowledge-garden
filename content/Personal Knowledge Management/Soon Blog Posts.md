@@ -5,6 +5,7 @@ tags:
 - Cool spaced repetition uses post -> [[Meta-Learning]] + [[You can change your identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> make a new post based off the old Anki post with this new material (but don't delete the old one)
 - My answers to the most interesting questions from [[John Locke Quick Answers|John Locke Essay Competition]]. 
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
+- Why hackathons suck and a new model of hackathon to fix them
 - Something adjacent to https://meltingasphalt.com/interactive/going-critical/
 - Stuff I'm learning about:
 	- Quantum Computing

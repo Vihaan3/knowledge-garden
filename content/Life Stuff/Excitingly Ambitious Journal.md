@@ -4,7 +4,6 @@ tags:
 ---
 A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambitious]]" things I've done every day as a sort of accountability measure to [[Where's the magic|find the magic]].
 
-
 #### 7/10 - 8/10/2024
 *Kind of a lame first month of summer break. I wasted way too much time reading random blog posts and learning things in highly unprincipled ways. Overall I think my well-being and fulfillment has probably been lowest this past month out of all the months this year because a) too much procrastination reading random blog posts b) it was an almost entirely input month (usually writing blog posts and these notes help me feel like I'm producing something, but I've done very little of either this month) c) I've had a vague uneasy feeling that I've wasted a lot of the time I've spent this month (this is pretty normal for times of high-input/low-output months, but this month was worse than normal because I didn't write more to make up for it).*
 - Finished the Karpathy course and used [ARENA](https://www.arena.education/) to go deeper
@@ -21,7 +20,7 @@ A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambiti
 *Forgot to keep track again.*
 - Met with people about the education blog post!
 - Learnt all the basic probability, calculus, linear algebra I think I need right now for where I'm at with AI
-- Learnt how to play You Shook Me All Night Long 
+- Lowkey in my guitar rock era  
 - Road trip!
 
 #### 6/4/2024 - 6/21/2024
