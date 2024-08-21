@@ -10,7 +10,7 @@ Realizing this has massively changed the way I behave and act. I don't think tha
 
 I was scared of truly allowing myself to learn deeply about the fundamentals of AI because I was "just not a math person", "just not smart enough", "not a researcher", "not good at learning something by myself."
 
-As proof, think about your identity 5 years ago, and compare it to your identity now. If there isn't much difference, stretch back even further. The point I'm trying to make is that your identity can change, and it can change radically. However, most of your identity changes have probably been a product of changing circumstances. Maybe your friend group changed or you moved to somewhere new. But you can intentionally change your identity as well. 
+As proof, think about your identity 5 years ago, and compare it to your identity now. If there isn't much difference, stretch back even further. The point I'm trying to make is that your identity can change, and it can change radically. Most of your identity changes have probably been a product of changing circumstances. Maybe your friend group changed or you moved to somewhere new. But you can intentionally change your identity as well. 
 You can:
 - become a reader
 - become good at math

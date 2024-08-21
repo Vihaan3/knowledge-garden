@@ -6,7 +6,7 @@ tags:
 True understanding that you can *just do things*. It's hard to describe well, but Neel Nanda does a [good job](https://www.neelnanda.io/blog/44-agency).
 
 Examples of agency:
-- [[You can change your identity]]
+- [[You can change your self-identity]]
 - You can start a company
 - You can give yourself more [[Slack]]
 - You can become "smarter"

@@ -22,7 +22,7 @@ A combination of questions I'm thinking about, projects I want to work on in the
 		- Use [Distill](https://distill.pub/) as inspiration: how can we make it more worth it for frontier researchers to contribute?
 		- Having contributors who spend a lot of time with frontier researchers (assistants, interns, etc)?
 		- Cultivating a centralized community of motivated people who go out and do what Tyler Cowen did for the fields that they're interested in and then make it public in some central journal?
-- Making an environment that is bad for [[Environments that are good for deliberate practice|deliberate practice]] better is incredibly useful.
+- Making an environment that is bad for [[Environments that are good for deliberate practice|deliberate practice]] better for that is incredibly useful.
 - How can we remove the [schlep](https://paulgraham.com/schlep.html) from `insert X` important thing? 
 	- Hack Club Bank is a good examples of schlep-removal for non-profits
 	- Stripe is another good example of schlep-removal for payment processing
@@ -54,6 +54,6 @@ A combination of questions I'm thinking about, projects I want to work on in the
 - How should search evolve as "[spatial computing](https://www.apple.com/newsroom/2024/04/apple-vision-pro-brings-a-new-era-of-spatial-computing-to-business/#:~:text=Customized%20Workspaces%20for%20Productivity,workspaces%20and%20enhance%20everyday%20productivity.)" emerges? I think just putting standard 2d search into a 3d environment feels *wrong*. There's something about search that feels inherently 3d to me. 
 	- [[Search of the future|Some exploration into this idea]]
 - Programming languages are fairly high fidelity [[Notation|notation]] for your thoughts. What does a programming language for ideas look like? [Inspiration](https://thesephist.com/posts/structured-thought/)
-- What can the idea of using the [concept of feeds for good](https://uxdesign.cc/hijack-your-feed-2b9070d13a0d). Outside of tasks, what about a [media playlist](https://sirupsen.com/playlists) of sorts? Even further, outside of Twitter, I love feeds as an interaction design choice. What do read-it-later apps, email, etc look like as feeds?
+- What can the [concept of feeds for good](https://uxdesign.cc/hijack-your-feed-2b9070d13a0d) be used for? Outside of tasks, what about a [media playlist](https://sirupsen.com/playlists) of sorts? Even further, outside of Twitter, I love feeds as an interaction design choice. What do read-it-later apps, email, etc look like as feeds?
 
 

@@ -3,12 +3,12 @@ tags:
   - meta-thinking
   - best
 ---
-Knowing how to do this is one of those meta skills that can completely change your life. A while ago, I got into the start up advice world to help out a friend who was considering starting up, and I found a common message along the lines of "become the type of person who notices gaps." How do you become that person? ([Paul Graham](https://paulgraham.com/articles.html))
+Knowing how to do this is one of those meta skills that can completely change your life. A while ago, I got into the start up advice world to help out a friend who was considering starting up, and I found a common message along the lines of "become the type of person who notices gaps in the world." That sounds good in the abstract, but how do you become that person if you aren’t already? (For the startup question in particular, Paul Graham has [answers](https://paulgraham.com/google.html).)
 
 - **Use [[Meta-Learning#Using Spaced Repetition Systems|Spaced Repetition Systems]]** 
-	- Use situation-based/application/"real world" cards because your brain is an [[Thinking, Fast and Slow|association machine]], and with enough repetitions you will hopefully think. This is unbelievably effective.
+	- Use situation-based/application/"real world" cards because your brain is an [[Thinking, Fast and Slow|association machine]]. 
 	- You can [[The Priming Effect|prime]] your brain a surprising amount
-	- Examples:
+	- Examples (note that you probably shouldn't use cloze deletions excessively because they have a tendency to lead to superficial pattern-matching, but I converted standard question-answer cards to cloze deletions here for the sake of space.): 
 		- When I encounter any complex information system, I will think about [cloze (mimetics)]
 		- Whenever I decide to do an activity *very* seriously, I should have the mindset of pursuing [cloze (virtuosity)]. 
 			- Whenever I want to pursue virtuosity in a task, I will do [cloze (deliberate practice)].
@@ -17,7 +17,7 @@ Knowing how to do this is one of those meta skills that can completely change yo
 		- in the free time between getting home from school and going to my room, I will [cloze (exercise)]
 		- Junk food [cloze (nauseates)] me. 
 	- In those examples I only showed one card per "topic", but in general you want to add 3-5 cards that get at this way of thinking in different ways.
-- See some of the tips from [[You can change your identity]] as that's really a subset of changing the way you think
+- See some of the tips from [[You can change your self-identity]] as that's really a subset of changing the way you think
 - Find other ways to program attention
 	- Use [Curius](https://curius.app/vihaan-sondhi), and find people that you think are interesting and want to think more like. 
 	- Subscribe to blogs and newsletters by people you want to think more like

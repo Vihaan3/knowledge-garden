@@ -17,7 +17,7 @@ tags:
 	- Wrote really stupid and clickbaity articles
 - Randomly found an online community with some *really* cool (aka [[Sparkly People|sparkly]]) people in it (reach out if you'd like to join)
 	- These people were not only directly cool, but being around them increased my general surface area of cool triggers by many OOMs (through the content they consumed)
-	- The aspiration to be as cool as them [[You can change your identity|changed my identity completely]]
+	- The aspiration to be as cool as them [[You can change your self-identity|changed my identity completely]]
 
 ##### 2024 and beyond
 - Discovered spaced repetition systems through a chance conversation
