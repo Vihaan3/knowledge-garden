@@ -1,7 +1,7 @@
 These are some projects that I'm either working on or planning to work on in the near future, roughly ordered by time. I use the term projects relatively liberally, so this might not be what you would otherwise expect. See [[Open Questions + Project Ideas]] for more future projects I want to work on or want others to work on.
 
 ##### Now
-- Taking Andrej Karpathy's neural nets course and learning about transformers
+- Taking Arena.education
 - (Hopefully) getting to USACO plat
 - Learning about [Game Theory](https://oyc.yale.edu/economics/econ-159) with a friend 
 - Building (hopefully) the best high school hackathon in NY
