@@ -1,12 +1,11 @@
 ---
 tags:
   - personal
+  - best
 ---
 #### General Notes
 - How I work: during each work block, I generally try to work in chunks separated by 5-10 minute breaks of staring into space/annoying my sister/throwing a ball at the wall. Ideally these breaks are supposed to be no-screen breaks and strictly less than 10 minutes, but I only manage to stick to those rules ~40% of the time. The chunks are as long as I can maintain attention, which I've found is pretty reliably ~55 minutes. I have a hard cap at 1 hr 45 minutes, because at that point I'm usually just kidding myself and my eyes are glazing over the screen every few minutes. 
-- This is not really what most of my days look like, but it's probably what you would get if you averaged all of my best days. 
-	- Sidenote: I can keep track of all of this because I use [Toggl](https://track.toggl.com/timer) religiously. 
-	
+- I used to feel bad about the raw number of hours of work I get done until I realized that what most people really mean when they say they work 9 hours a day is that they've blocked out 9 hours to work and aren't tracking real hours of work done.   
 #### Average Summer Day/Weekend During School
 *I spent several weeks worth of time super unproductively the summer of 2024, so this isn't completely accurate but I think it's representative of ~75% of summer days.*
 - I wake up at ~6:30 to 7:00. If it isn't really cold, I try to get out the door within a half hour to go biking. Otherwise, I'll exercise indoors. 
@@ -21,13 +20,18 @@ tags:
 - 8:00-10:30: 
 	- Ideally: Dinner + annoying my sister + journal + reading + going to bed
 	- Really: Dinner + annoying my sister + texting my friends + checking email + realizing it's already 10:30 so now I have to choose between sleeping well and journaling and reading (the answer alternates everyday). 
+- Overall I generally spend ~6.5 hours of real time "working". 
+	- I can keep track of all of this because I use [Toggl](https://track.toggl.com/timer) religiously. Ideally you'd want the metric you're tracking to be in quality-adjusted units of work done than in units of time spent, but tracking units of time is good enough for me.  
 - I wish I was kidding about how much time I spend on an average day annoying my sister. If you feel bad for her, she spends more time annoying me. 
+- This is not really what most of my days look like, but it's probably what you would get if you averaged all of my best days. 
 
 #### Average Weekday During School
 - I wake up at ~5:30. 
-- ~5:45-7:20: Generally either competitive programming, ML-adjacent, or blogging (CP 60% of the time, ML-adjacent 20% of the time, Blogging 10% of the time, something totally random 10% of the time)
+- ~5:45-7:15: Generally either competitive programming, ML-adjacent, or blogging (CP 60% of the time, ML-adjacent 20% of the time, Blogging 10% of the time, something totally random 10% of the time)
 - 3:30-4:30: get home, shower, eat a snack, annoy sister, and read. 
 - 4:30-5:00: anki
 - 5:00-6:00: Some kind of high-concentration work (tough school homework or ML-adjacent)  
-- 6:00-8:30: Low-concentration work (generally as much school work as I can find. If there's no school work left, anything else productive depending on how tired I am.)
+- 6:00-8:30: Mid-concentration work (generally as much school work as I can find. If there's no school work left, anything else productive depending on how tired I am.)
 - 8:30-10:00: Dinner + annoying my sister + journaling + reading
+- Overall, I spend ~4 hours of real time "working".
+- This is actually a pretty close map to what most of my days look like. I generally can work for longer chunks, keep breaks a little shorter, and generally be more self-disciplined on weekdays.  

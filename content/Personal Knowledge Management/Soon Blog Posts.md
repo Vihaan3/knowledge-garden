@@ -4,9 +4,8 @@ tags:
 ---
 - Cool spaced repetition uses post -> [[Meta-Learning]] + [[You can change your self-identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> been slowly working on this forever now 
 - A couple of shorter posts that should only take a few days to put out
-	- Why hackathons suck and a new model of hackathon to fix them -> draft near complete
+	- Why hackathons suck and a new model of hackathon to fix them -> draft near complete (just polish the pitch you wrote up about it)
 	- [[A Brief Autobiography]] + [[My Average Day]]-> draft near complete
-
 - My answers to the most interesting questions from [[John Locke Quick Answers|John Locke Essay Competition]]. 
 	- Might also include questions from https://www.rabbitholeathon.com/manifesto and esp. https://www.rabbitholeathon.com/blog/announcing-5.0 or this might be a companion post
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
