@@ -37,5 +37,7 @@ This is my attempt at part 1 and [[My Average Day|here]]'s my attempt at part 2.
 	- Spent a few months writing a lot on here 
 - AI
 	- Took fast.ai part 1
-	- Realized that it was too shallow for my taste and took Andrej Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) 
-	- Realized that I now knew a lot of fundamental theory but couldn't program much without handholding, so I'm currently speed running through [Arena](https://www.arena.education/)
+		- It was really good, but I felt that it went too in-depth into a lot of topics I wasn't interested in and didn't go deep enough into ones that fascinated me. 
+	- Took Andrej Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) 
+		- Realized that I now knew a lot of fundamental theory but couldn't program much without handholding
+	- Currently working through [Arena](https://www.arena.education/)

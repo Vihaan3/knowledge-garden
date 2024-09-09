@@ -10,4 +10,4 @@ These are the kind of people who "[learn category theory together” at 5 am](h
 
 I want more of them in the world because they are the ones who become great researchers, writers, innovators, and professors. They’re the type of people to think hard about the world, care a whole lot when things are broken, and fix them.
 
-(Note, this was a dominant part of my vocabulary until I read https://sparc24jcs.substack.com/p/i-want-to-destroy-the-words-interesting. Now I try to avoid using it.)
+(Note, this was a dominant part of my vocabulary until I read https://sparc24jcs.substack.com/p/i-want-to-destroy-the-words-interesting. Now I try to be much more mindful about using it.)
