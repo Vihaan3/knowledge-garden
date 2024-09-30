@@ -3,7 +3,7 @@ tags:
   - unfinished
   - meta-thinking
 ---
-What's the difference between fields like music and sports and ones like investment banking and programming? Why does it empirically seem like a higher percentage of the former fields are virtuosos than in other fields?
+What's the difference between fields like music and sports and ones like investment banking and programming? Empirically, why does it seem like a higher percentage of the practitioners of the former fields are virtuosos than in most other fields? (A strong argument is that it's a lot easier to identify virtuosity as an outsider in those fields than others and they also tend to be more visible, but I'm trying to make a point here.) 
 
 I think a lot of it comes down to environment. It's a lot easier to achieve virtuosity in environments that are conducive to [[Deliberate Practice|deliberate practice]]. 
 

@@ -9,7 +9,7 @@ This is my attempt at part 1 and [[My Average Day|here]]'s my attempt at part 2.
 ##### Pre-2024
 - 5th grade math teacher convinced me to give coding a try
 - Learned Python, built some games and small projects. 
-- Got bored of programming (because I never tried to expand my abilities or do cool projects - mostly because I didn't know that was a thing you did. I can't help thinking how different my life would be if I had discovered the notion of hacking (as in the idea of "hacking on a project") /Hack Club at this time.)   
+- Got bored of programming (because I never tried to expand my abilities or do cool projects - mostly because I didn't know that was a thing you did. I can't help thinking how different my life would be if I had discovered the notion of hacking (as in the idea of "hacking on a project") or Hack Club at this time.   
 - Got ***really*** into history and Greco-Roman mythology
 - Covid hit
 	- First half: Only reading SFF novels and watching Crash Course World History
