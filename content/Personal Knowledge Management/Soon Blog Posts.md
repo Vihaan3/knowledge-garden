@@ -3,11 +3,19 @@ tags:
   - best
 ---
 - Cool spaced repetition uses post -> [[Meta-Learning]] + [[You can change your self-identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> been slowly working on this forever now 
-- Making Hackathons Better
+- How to Organize a Hackathon
+	- Part 1 will just be a list of resources to check out; very good resources have been written by much more hackathon organizers than me
+	- Part 2 will be the meat of it and focus on how to figure out the purpose of your hackathon and designing a hackathon around that based on first principles instead of doing everything the default way without questioning it. 
 - My answers to the most interesting questions from [[John Locke Quick Answers|John Locke Essay Competition]]. 
 	- Might also include questions from https://www.rabbitholeathon.com/manifesto and esp. https://www.rabbitholeathon.com/blog/announcing-5.0 or this might be a companion post
-- The Tesla vs. Waymo comparison [here](https://stratechery.com/2024/elon-dreams-and-bitter-lessons/)nerd-sniped me and I want to write about some of my thoughts
-- The explanatory power of not viewing large groups (like countries) in history as faceless entities 
+- The Tesla vs. Waymo comparison [here](https://stratechery.com/2024/elon-dreams-and-bitter-lessons/) nerd-sniped me. I want to read the relevant Tesla and Waymo research papers and learn a little more about sensor technology before writing about some of my thoughts. 
+	- Based purely on priors, though, I agree with Andrej Karpathy. It's easy to say that Waymo is ahead based on what's visible at a surface level, but Waymo has a hardware problem, which is probably going to be harder to solve than Tesla's software problem unless the LiDAR issue just can't be worked around (although apparently Tesla trains with LiDAR). Also, on priors, I agree with Ben Thompson that the history of AI so far has showed that you always want to bet on pure machine learning vs. encoding human knowledge if you're looking at the long-term. 
+- The explanatory power of not viewing large groups (like countries) in history as faceless entities with general motives and abstracted stories that attempt to explain their actions 
+	- This is nowhere near an original idea and something everybody knows, but I think it's so easy for people to turn to general abstracted stories when thinking about history that it's worth writing about
+		- US works on hydrogen bomb because of competition between the different branches of the military (? I believe heard this on the Dwarkesh Podcast)
+		- Soviet Union -> Russia as a story of Yeltsin and Gorbachev hating each other
+		- Weimar Republic -> Nazism as a highly contingent story filled with different factions trying to use the Nazis in their struggles against each other
+		- Outbreak of WW1 -> Sazonov vs Nicholas 
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
 - Vibes-based:
 	- An [adversarial collaboration](https://www.lesswrong.com/tag/adversarial-collaboration) 
