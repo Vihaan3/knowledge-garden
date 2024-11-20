@@ -2,7 +2,6 @@
 tags:
   - best
 ---
-- Cool spaced repetition uses post -> [[Meta-Learning]] + [[You can change your self-identity]] + [[How to change the way you think]] + [[How to ensure you do something]] -> been slowly working on this forever now 
 - How to Organize a Hackathon -> edit and release after THLI event on Jan 11
 	- Part 1 will just be a list of resources to check out; very good resources have been written by much more competent hackathon organizers than myself. 
 	- Part 2 will be the meat of it. It will focus on how to figure out the purpose of your hackathon and designing a hackathon around that based on first principles, rather than doing everything the default way. 
@@ -14,10 +13,11 @@ tags:
 - The explanatory power of not viewing large groups (like countries) in history as faceless entities with general motives and abstracted stories that attempt to explain their actions 
 	- This is nowhere near an original idea and something everybody knows, but I think it's so easy for people to turn to general abstracted stories when thinking about history that it's worth writing about
 		- US works on hydrogen bomb because of competition between the different branches of the military (? I believe heard this on the Dwarkesh Podcast)
-		- Soviet Union -> Russia as a story of Yeltsin and Gorbachev hating each other
-		- Weimar Republic -> rise of Nazism as a highly contingent story filled with different factions trying to use the Nazis in their struggles against each other
+		- Soviet Union to Russia as a story of Yeltsin and Gorbachev hating each other
+		- Weimar Republic to rise of Nazism as a highly contingent story filled with different factions trying to use the Nazis in their struggles against each other
 		- Russia at the outbreak of WW1 as a story of Sazonov vs. Nicholas 
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
+	- Can probably digress into a case study of service-providing public institutions in general, why they're so hard to execute well, and how to make them execute decently well. 
 - Vibes-based:
 	- An [adversarial collaboration](https://www.lesswrong.com/tag/adversarial-collaboration) 
 	- A post with the vibes of Byrne Hobart's writing
