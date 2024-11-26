@@ -53,7 +53,7 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
                 currentDescriptionLength += sentence.length
                 sentenceIdx++
               }
-              finalDesc.push("...")
+              finalDesc.push("Stochastic parroting my way to being the coolest person I've ever met.")
             } else {
               finalDesc.push("Stochastic parroting my way to being the coolest person I've ever met.") 
               /*while (currentDescriptionLength < len) {
