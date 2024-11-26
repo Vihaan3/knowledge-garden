@@ -9,7 +9,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  descriptionLength: 150,
+  descriptionLength: 0,
   replaceExternalLinks: true,
 }
 
