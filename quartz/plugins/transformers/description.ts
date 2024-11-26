@@ -55,13 +55,14 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
               }
               finalDesc.push("...")
             } else {
-              while (currentDescriptionLength < len) {
+              finalDesc.push("Stochastic parroting my way to being the coolest person I've ever met.") 
+              /*while (currentDescriptionLength < len) {
                 const sentence = sentences[sentenceIdx]
                 if (!sentence) break
                 const currentSentence = sentence.endsWith(".") ? sentence : sentence + "."
                 finalDesc.push(currentSentence)
                 currentDescriptionLength += currentSentence.length
-              }
+              }*/
             }
 
             file.data.description = finalDesc.join(" ")
