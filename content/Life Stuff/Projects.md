@@ -30,7 +30,7 @@ These are some projects that I'm either working on or planning to work on in the
 
 ##### Important Past Projects
 - Passing USACO Bronze
-- Getting to the 4th of ~8 rock guitar levels on [Trinity Rock](https://www.trinityrock.com/)
+- Getting to the 5th of 9 rock guitar levels on [Trinity Rock](https://www.trinityrock.com/)
 - Helping organize a January 2024 teen hackathon at [TeenHacks LI](https://amsterdamnews.com/news/2024/01/04/slots-open-for-teenhacks-lis-free-student-run-hackathon/)
 - A blog post on [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) I'm quite proud of
 - Setting up this knowledge garden (not technically difficult but seeding this site with notes took quite a while)
