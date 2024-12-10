@@ -16,6 +16,10 @@ tags:
 		- Soviet Union to Russia as a story of Yeltsin and Gorbachev hating each other
 		- Weimar Republic to rise of Nazism as a highly contingent story filled with different factions trying to use the Nazis in their struggles against each other
 		- Russia at the outbreak of WW1 as a story of Sazonov vs. Nicholas 
+- Breaking Talented High Schoolers out of Fakeness
+	- Science fairs, clubs, (many) summer programs often just teach high schoolers how to get really good at bs-ing. They're ostensibly for the purpose of finding and cultivating talent, but there seems to be very little actual learning. The path of least resistance for most of these things is to repackage skills over and over again in different forms and do the bare minimum amount of "work" to get the maximum "results" (aka sounding cool: "my paper on germ detection mixed bioinformatics and AI to arrive at a 99.999999999% error rate" when in reality they did the equivalent of an easy Kaggle competition) -> a lot like the bs-ing at a lot of hackathons where you try to show the max impact and cool-sounding-ness with the least amount of actual technical work by sounding big brain enough 
+	- Things like Hack Club are an example of scalable systems that emphasize real learning -> what other things?
+- On [[Memetics|memetics/selection factors]] because I think it's so important -> maybe looking at a lot of my beliefs, hobbies, values, identity, etc and analyzing them from this perspective
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
 	- Can probably digress into a case study of service-providing public institutions in general, why they're so hard to execute well, and how to make them execute decently well. 
 - Vibes-based:

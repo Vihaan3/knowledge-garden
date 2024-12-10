@@ -18,9 +18,7 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            // Set the description to the specified line only.
             file.data.description = "Stochastic parroting my way to being the coolest person I've ever met."
-            // Keep the text processing intact for compatibility, but it won't affect the description.
             file.data.text = ""
           }
         },

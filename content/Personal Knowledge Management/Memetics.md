@@ -3,7 +3,7 @@ tags:
   - pattern
   - empty
 ---
-**Very** well described here: https://unaligned.world/p/life-is-memetics. I also liked Byrne Hobart's related notion of selection factors that he describes [here](https://www.youtube.com/watch?v=5GQOO76XaUM).
+**Very** well described here: https://unaligned.world/p/life-is-memetics. I also liked Byrne Hobart's related notion of [selection factors](https://capitalgains.thediff.co/p/selection-effects).
 
 Natural selection is at play in every information system.
 "No matter how abstract you get, information - be it chemical structure, body shape, or poem - proliferates and mutates to find an environmental optimum."
