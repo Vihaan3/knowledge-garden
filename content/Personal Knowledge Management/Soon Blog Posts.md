@@ -8,6 +8,28 @@ tags:
 - My answers to the most interesting questions from [[John Locke Quick Answers|John Locke Essay Competition]]. 
 	- Might also include questions from https://www.rabbitholeathon.com/manifesto and esp. https://www.rabbitholeathon.com/blog/announcing-5.0 or this might be a companion post
 - A short post on [[Quick Notes on Productivity|productivity]] 
+- Chicago vs NYC (Manhattan)
+	- I went to school in Manhattan for ~11 years and took a short trip to Chicago in the summer of 2024. I've been really interested in municipal governance since learning about [Robert Moses](https://en.wikipedia.org/wiki/The_Power_Broker), and I want to do some research to understand what could lead to some of the differences. 
+	- Obvious
+		- Chicago is smaller
+		- NYC is way more internationally diverse
+		- Midwest vs East
+		- Chicago feels less rushed and the people feel generally nicer
+	- Vibes
+		- Downtown Chicago feels nicer but the grimy parts of Chicago also feel worse?
+			- the river and being able to see buildings clearly and from a distance instead of having to crane your neck upward like you do in NYC probably plays into this
+				- The affluent parts of Chicago seem to have generally wider streets, open space, especially around the lake
+			- Potential Reasons:
+				- Fire and having to rebuild?
+				- The total area of nice Chicago is just much smaller than nice Manhattan, so all of the best buildings are kind of in the same general area?
+		- Something about the restaurants and stores just seems different
+			- The pizza is *so* much better
+				- The more everyday thin crust is better and deep dish is freaking phenomenal
+			- Might be a factor of Chicago being a less international city
+		- Chicago are nicer, maybe?
+		- Chicago transit is awful compared to Manhattan
+			- From what I could tell, it feels a lot more necessary to have a car in Chicago (but you can still do fine without)
+	- I definitely don't have a representative view of Chicago (or Manhattan for that matter -> I've only really spent a lot of time in a couple of neighborhoods) so I should probably watch a couple of "life in Chicago" videos
 - The Tesla vs. Waymo comparison [here](https://stratechery.com/2024/elon-dreams-and-bitter-lessons/) nerd-sniped me. I want to read the relevant Tesla and Waymo research papers and learn a little more about sensor technology before writing about some of my thoughts. 
 	- Based purely on priors, though, I agree with Andrej Karpathy. It's easy to say that Waymo is ahead based on what's visible at a surface level, but Waymo has a hardware problem, which is probably going to be harder to solve than Tesla's software problem unless the LiDAR issue just can't be worked around (although apparently Tesla trains with LiDAR). Also, on priors, I agree with Ben Thompson that the history of AI so far has showed that you always want to bet on pure machine learning vs. encoding human knowledge if you're looking at the long-term. 
 - The explanatory power of not viewing large groups (like countries) in history as faceless entities with general motives and abstracted stories that attempt to explain their actions 
@@ -35,7 +57,6 @@ tags:
 - What I want the future to look like
 - [[Search of the future]]
 - [[Building a Community for Tools for Thought]]
-- [[Memetics]]
 - [[Extensive Blog Post on Tools for Thought]]
 - Discuss the technology in [[Making Massive Input Better]]
 

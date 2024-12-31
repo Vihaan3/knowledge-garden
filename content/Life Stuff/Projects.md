@@ -1,4 +1,4 @@
-These are some projects that I'm either working on or planning to work on in the near future, roughly ordered by time. I use the term projects relatively liberally, so this might not be what you would otherwise expect. See [[Open Questions + Project Ideas]] for more future projects I want to work on or want others to work on.
+These are some projects that I'm either working on or planning to work on in the near future, roughly ordered by time. I use the term projects relatively liberally, so this might not be what you would otherwise expect. See [[Open Questions]] for more future projects I want to work on or want others to work on.
 
 ##### Now
 - Taking Arena.education

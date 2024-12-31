@@ -14,6 +14,7 @@ See [[Projects]] for a /now + vague list of old projects + planned upcoming proj
 Getting started:
 - [[Paths to get started]]
 - [[A Brief Autobiography]]
+- [[Open Questions]]
 - [[Why this exists]]
 - About me
 	- [[Things I Love]] 

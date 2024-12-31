@@ -178,7 +178,7 @@ A compilation of the top few "[[Do what's excitingly ambitious|excitingly ambiti
 - Not much, I was kind of dead today because of no sleep from yesterday lol
 
 #### 4/10/2024
-- Had a lot of ideas, and turned that into [[Open Questions + Project Ideas]]
+- Had a lot of ideas, and turned that into [[Open Questions]]
 
 #### 4/9/2024
 - I spent a full day working on the [[Spaced everything]] app
