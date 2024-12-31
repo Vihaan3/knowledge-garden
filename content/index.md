@@ -14,12 +14,11 @@ See [[Projects]] for a /now + vague list of old projects + planned upcoming proj
 Getting started:
 - [[Paths to get started]]
 - [[A Brief Autobiography]]
-- [[Open Questions + Project Ideas]]  
 - [[Why this exists]]
 - About me
 	- [[Things I Love]] 
 
-*Sidenote: I'm generally super interested in one thing at a time with tons of side interests, and I'm constantly looking for cool things that I might want to work on. Let me know if there's an underrated field that you love and wish more people worked on.* 
+*Sidenote: I'm generally super interested in one thing at a time with tons of side interests, and I'm constantly looking for cool things that I might want to work on. Let me know if there's an underrated field that you love and wish more people learned about/worked on.* 
 
 #### More housekeeping
 - Lingo
