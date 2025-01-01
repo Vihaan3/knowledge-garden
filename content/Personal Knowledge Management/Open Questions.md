@@ -19,7 +19,7 @@ These are open questions that I'm personally exploring, and not necessarily open
 	- Stripe is another good example of schlep-removal for payment processing
 ##### Memory Systems
 - The core ideas behind spaced repetition systems (automated scheduling for something repetitive based on your choices) could and should be generalized to other aspects of life. I explore some of these applications in [Cron for the Mind](https://vihaansondhi.substack.com/p/cron-for-the-mind). What does an effective system that helps you do this look like?
-- From [[How can we develop transformative tools for thought|*the* tft essay]]: What would a virtuoso use of memory systems look like?
+- From [[How can we develop transformative tools for thought|the canonical tft essay]]: What would a virtuoso use of memory systems look like?
 	- ”What does a memory system look like for a driven creative genius who is an expert with the system?”
 > Software design so often focus on the first few hours of someone’s experience. Yet what you really want is to max out the experience someone is having in their thousandth or ten thousandth hour of use. Pianos seem designed primarily for experts and only incidentally for beginners. If you were designing the piano with modern software design practice in mind it would have 8 white keys, no black keys, and no pedals. It’d be easy to play some simple songs, and that’s it. What we’re really looking for is ideas which can be the foundation for long-run improvement, with an extraordinarily high ceiling. - [Michael Nielsen](https://michaelnotebook.com/bbms/index.html)
 

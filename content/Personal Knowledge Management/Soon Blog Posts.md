@@ -16,9 +16,10 @@ tags:
 		- Midwest vs East
 		- Chicago feels less rushed and the people feel generally nicer
 	- Vibes
-		- Downtown Chicago feels nicer but the grimy parts of Chicago also feel worse?
+		- Affluent Chicago feels nicer than affluent NYC but the grimy parts of Chicago also feel worse?
 			- the river and being able to see buildings clearly and from a distance instead of having to crane your neck upward like you do in NYC probably plays into this
-				- The affluent parts of Chicago seem to have generally wider streets, open space, especially around the lake
+				- The affluent parts of Chicago seem to have generally wider streets, open space, especially around the river
+					- I think my opinions here are highly biased by the fact that I was just extremely charmed by the river area
 			- Potential Reasons:
 				- Fire and having to rebuild?
 				- The total area of nice Chicago is just much smaller than nice Manhattan, so all of the best buildings are kind of in the same general area?
@@ -29,6 +30,7 @@ tags:
 		- Chicago are nicer, maybe?
 		- Chicago transit is awful compared to Manhattan
 			- From what I could tell, it feels a lot more necessary to have a car in Chicago (but you can still do fine without)
+		- Outside of the more affluent Chicago areas, Chicago definitely feels (and is objectively) less safe than NYC. 
 	- I definitely don't have a representative view of Chicago (or Manhattan for that matter -> I've only really spent a lot of time in a couple of neighborhoods) so I should probably watch a couple of "life in Chicago" videos
 - The Tesla vs. Waymo comparison [here](https://stratechery.com/2024/elon-dreams-and-bitter-lessons/) nerd-sniped me. I want to read the relevant Tesla and Waymo research papers and learn a little more about sensor technology before writing about some of my thoughts. 
 	- Based purely on priors, though, I agree with Andrej Karpathy. It's easy to say that Waymo is ahead based on what's visible at a surface level, but Waymo has a hardware problem, which is probably going to be harder to solve than Tesla's software problem unless the LiDAR issue just can't be worked around (although apparently Tesla trains with LiDAR). Also, on priors, I agree with Ben Thompson that the history of AI so far has showed that you always want to bet on pure machine learning vs. encoding human knowledge if you're looking at the long-term. 
