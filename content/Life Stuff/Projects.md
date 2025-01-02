@@ -14,9 +14,6 @@ These are some projects that I'm either working on or planning to work on in the
 - Writing
 	- A blog post on [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) I'm quite proud of
 	- Setting up this knowledge garden (not technically difficult but seeding this site with notes took quite a while)
-- Reading
-	- A bunch of the ["classic"](https://x.com/patrickc/status/1872592892373487765) novels + Radetzky March + Beware of Pity
-	- [Other books](https://finmoorhouse.com/writing/media-2024-b/)
 
 ##### Now (Read as 2025 Goals List)
 - Lots of cool projects in RL
@@ -33,6 +30,9 @@ These are some projects that I'm either working on or planning to work on in the
 	- more in Quantum Computing
 - Get much better at guitar solos
 - Generally getting my ideas on [[Social Infrastructure for Sparkly People|social infrastructure]] to hit the real world (report coming July 2026)
+- Reading
+	- A bunch of the ["classic"](https://x.com/patrickc/status/1872592892373487765) novels + Radetzky March + Beware of Pity
+	- [Other](https://finmoorhouse.com/writing/media-2024-b/) [books](https://www.gleech.org/books#five) 
 
 
 ##### Future
