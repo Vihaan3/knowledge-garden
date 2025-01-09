@@ -3,7 +3,7 @@ These are some projects that I'm either working on or planning to work on in the
 ##### Important Past Projects
 - Passing USACO Bronze
 - Really going deep in deep learning over the last 7 months
-- Getting to the 5th of 9 rock guitar levels on [Trinity Rock](https://www.trinityrock.com/)
+- Getting to the 6th of 9 rock guitar levels on [Trinity Rock](https://www.trinityrock.com/) in ~2.5 years of learning guitar
 - Community-Building Stuff
 	- Helping organize a January 2024 teen hackathon at [TeenHacks LI](https://amsterdamnews.com/news/2024/01/04/slots-open-for-teenhacks-lis-free-student-run-hackathon/)
 		- Organizing a January 2025 with better vibes, cooler prizes, and more focus on creating a "Road-to-Damascus" moment that sparks sustained ambition to do cool projects (hopefully not even just in STEM)

@@ -46,6 +46,14 @@ tags:
 - On [[Memetics|memetics/selection factors]] because I think it's so important -> maybe looking at a lot of my beliefs, hobbies, values, identity, etc and analyzing them from this perspective
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
 	- Can probably digress into a case study of service-providing public institutions in general, why they're so hard to execute well, and how to make them execute decently well. 
+- [[Extensive Blog Post on Tools for Thought]]
+	- Interesting work in general
+		- Linus Lee, Andy Matuschak, Michael Nielsen, Ink and Switch, Alexander Obenauer, Bret Victor, Omar Rizwan
+			- https://www.notion.com/blog/topic/podcast
+	- Note-based work is overrated 
+	- Spaced Everything work seems to me to be incredibly underrated and under the radar 
+		- Spaced everything + note-based (just figuring out ways to make note-taking and spaced repetition work well seems underrated)
+	- Search as tft feels underrated w/in tft places but definitely overrated (in the sense that I think too many people think they can "disrupt search" and are providing marginal improvements w/ no moats) in general 
 - Vibes-based:
 	- An [adversarial collaboration](https://www.lesswrong.com/tag/adversarial-collaboration) 
 	- A post with the vibes of Byrne Hobart's writing
@@ -59,6 +67,5 @@ tags:
 - What I want the future to look like
 - [[Search of the future]]
 - [[Building a Community for Tools for Thought]]
-- [[Extensive Blog Post on Tools for Thought]]
 - Discuss the technology in [[Making Massive Input Better]]
 
