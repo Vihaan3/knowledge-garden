@@ -8,30 +8,6 @@ tags:
 - My answers to the most interesting questions from [[John Locke Quick Answers|John Locke Essay Competition]]. 
 	- Might also include questions from https://www.rabbitholeathon.com/manifesto and esp. https://www.rabbitholeathon.com/blog/announcing-5.0 or this might be a companion post
 - A short post on [[Quick Notes on Productivity|productivity]] 
-- Chicago vs NYC (Manhattan)
-	- I went to school in Manhattan for ~11 years and took a short trip to Chicago in the summer of 2024. I've been really interested in municipal governance since learning about [Robert Moses](https://en.wikipedia.org/wiki/The_Power_Broker), and I want to do some research to understand what could lead to some of the differences. 
-	- Obvious
-		- Chicago is smaller
-		- NYC is way more internationally diverse
-		- Midwest vs East
-		- Chicago feels less rushed and the people feel generally nicer
-	- Vibes
-		- Affluent Chicago feels nicer than affluent NYC but the grimy parts of Chicago also feel worse?
-			- the river and being able to see buildings clearly and from a distance instead of having to crane your neck upward like you do in NYC probably plays into this
-				- The affluent parts of Chicago seem to have generally wider streets, open space, especially around the river
-					- I think my opinions here are highly biased by the fact that I was just extremely charmed by the river area
-			- Potential Reasons:
-				- Fire and having to rebuild?
-				- The total area of nice Chicago is just much smaller than nice Manhattan, so all of the best buildings are kind of in the same general area?
-		- Something about the restaurants and stores just seems different
-			- The pizza is *so* much better
-				- The more everyday thin crust is better and deep dish is freaking phenomenal
-			- Might be a factor of Chicago being a less international city
-		- Chicago are nicer, maybe?
-		- Chicago transit is awful compared to Manhattan
-			- From what I could tell, it feels a lot more necessary to have a car in Chicago (but you can still do fine without)
-		- Outside of the more affluent Chicago areas, Chicago definitely feels (and is objectively) less safe than NYC. 
-	- I definitely don't have a representative view of Chicago (or Manhattan for that matter -> I've only really spent a lot of time in a couple of neighborhoods) so I should probably watch a couple of "life in Chicago" videos
 - The Tesla vs. Waymo comparison [here](https://stratechery.com/2024/elon-dreams-and-bitter-lessons/) nerd-sniped me. I want to read the relevant Tesla and Waymo research papers and learn a little more about sensor technology before writing about some of my thoughts. 
 	- Based purely on priors, though, I agree with Andrej Karpathy. It's easy to say that Waymo is ahead based on what's visible at a surface level, but Waymo has a hardware problem, which is probably going to be harder to solve than Tesla's software problem unless the LiDAR issue just can't be worked around (although apparently Tesla trains with LiDAR). Also, on priors, I agree with Ben Thompson that the history of AI so far has showed that you always want to bet on pure machine learning vs. encoding human knowledge if you're looking at the long-term. 
 - The explanatory power of not viewing large groups (like countries) in history as faceless entities with general motives and abstracted stories that attempt to explain their actions 
@@ -40,9 +16,6 @@ tags:
 		- Soviet Union to Russia as a story of Yeltsin and Gorbachev hating each other
 		- Weimar Republic to rise of Nazism as a highly contingent story filled with different factions trying to use the Nazis in their struggles against each other
 		- Russia at the outbreak of WW1 as a story of Sazonov vs. Nicholas 
-- Breaking Talented High Schoolers out of Fakeness
-	- Science fairs, clubs, (many) summer programs often just teach high schoolers how to get really good at bs-ing. They're ostensibly for the purpose of finding and cultivating talent, but there seems to be very little actual learning. The path of least resistance for most of these things is to repackage skills over and over again in different forms and do the bare minimum amount of "work" to get the maximum "results" (aka sounding cool: "my paper on germ detection mixed bioinformatics and AI to arrive at a 99.999999999% error rate" when in reality they did the equivalent of an easy Kaggle competition) -> a lot like the bs-ing at a lot of hackathons where you try to show the max impact and cool-sounding-ness with the least amount of actual technical work by sounding big brain enough 
-	- Things like Hack Club are an example of scalable systems that emphasize real learning -> what other things?
 - On [[Memetics|memetics/selection factors]] because I think it's so important -> maybe looking at a lot of my beliefs, hobbies, values, identity, etc and analyzing them from this perspective
 - A follow up to the [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) post with a story about why things are broken in schools right now and how to address them. 
 	- Can probably digress into a case study of service-providing public institutions in general, why they're so hard to execute well, and how to make them execute decently well. 
@@ -54,6 +27,10 @@ tags:
 	- Spaced Everything work seems to me to be incredibly underrated and under the radar 
 		- Spaced everything + note-based (just figuring out ways to make note-taking and spaced repetition work well seems underrated)
 	- Search as tft feels underrated w/in tft places but definitely overrated (in the sense that I think too many people think they can "disrupt search" and are providing marginal improvements w/ no moats) in general 
+- Breaking Talented High Schoolers out of Fakeness
+	- The path of least resistance for most of these things is to repackage skills over and over again in different forms and do the bare minimum amount of "work" to get the maximum "results" -> a lot like the bs-ing at a lot of hackathons where you try to show the max impact and cool-sounding-ness with the least amount of actual technical work by sounding big brain enough 
+	- Things like Hack Club are an example of scalable systems that emphasize real learning -> what other things?
+- [[Chicago vs NYC (Manhattan)]]
 - Vibes-based:
 	- An [adversarial collaboration](https://www.lesswrong.com/tag/adversarial-collaboration) 
 	- A post with the vibes of Byrne Hobart's writing

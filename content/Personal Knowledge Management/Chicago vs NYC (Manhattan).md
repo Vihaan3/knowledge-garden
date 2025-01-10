@@ -1,0 +1,22 @@
+- I went to school in Manhattan for ~11 years and took a short trip to Chicago in the summer of 2024. I've been really interested in municipal governance since learning about [Robert Moses](https://en.wikipedia.org/wiki/The_Power_Broker), and I want to do some research to understand what could lead to some of the differences. 
+	- Obvious
+		- Chicago is smaller
+		- NYC is way more internationally diverse
+		- Midwest vs East
+		- Chicago feels less rushed and the people feel generally nicer
+	- Vibes
+		- Affluent Chicago feels nicer than affluent NYC but the grimy parts of Chicago also feel worse?
+			- the river and being able to see buildings clearly and from a distance instead of having to crane your neck upward like you do in NYC probably plays into this
+				- The affluent parts of Chicago seem to have generally wider streets, open space, especially around the river
+					- I think my opinions here are highly biased by the fact that I was just extremely charmed by the river area
+			- Potential Reasons:
+				- Fire and having to rebuild?
+				- The total area of nice Chicago is just much smaller than nice Manhattan, so all of the best buildings are kind of in the same general area?
+		- Something about the restaurants and stores just seems different
+			- The pizza is *so* much better
+				- The more everyday thin crust is better and deep dish is freaking phenomenal
+			- Might be a factor of Chicago being a less international city
+		- Chicago transit is awful compared to Manhattan
+			- From what I could tell, it feels a lot more necessary to have a car in Chicago (but you can still do fine without)
+		- Outside of the more affluent Chicago areas, Chicago definitely feels (and is objectively) less safe than NYC. 
+	- I definitely don't have a representative view of Chicago (or Manhattan for that matter -> I've only really spent a lot of time in a couple of neighborhoods) so I should probably watch a couple of "life in Chicago" videos
