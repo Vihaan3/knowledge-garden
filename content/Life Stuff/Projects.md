@@ -3,6 +3,9 @@ These are some projects that I'm either working on or planning to work on in the
 ##### Important Past Projects
 - Passing USACO Bronze
 - Really going deep in deep learning over the last 7 months
+	- Arena.education
+	- Karpathy's Zero to Hero
+	- Fast.ai's Practical Deep Learning for Coders
 - Getting to the 6th of 9 rock guitar levels on [Trinity Rock](https://www.trinityrock.com/) in ~2.5 years of learning guitar
 - Community-Building Stuff
 	- Helping organize a January 2024 teen hackathon at [TeenHacks LI](https://amsterdamnews.com/news/2024/01/04/slots-open-for-teenhacks-lis-free-student-run-hackathon/)
