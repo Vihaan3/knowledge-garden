@@ -7,6 +7,12 @@ tags:
 	- Part 2 will be the meat of it. It will focus on how to figure out the purpose of your hackathon and designing a hackathon around that based on first principles, rather than doing everything the default way. 
 - My answers to the most interesting questions from [[John Locke Quick Answers|John Locke Essay Competition]]. 
 	- Might also include questions from https://www.rabbitholeathon.com/manifesto and esp. https://www.rabbitholeathon.com/blog/announcing-5.0 or this might be a companion post
+- Lessons from failing at just about everything
+	- USACO: not getting complacent + overconfident
+	- Hackathon Organization: you need to put work in to create amazing environments, just getting cool people together doesn't do that by itself most of the time + you don't need to be the person running around putting out fires yourself, trust other people
+	- Blogging: Stop being a perfectionist (not in the faux-humble job interview way) -> you'll learn and write a lot faster if you stop editing over and over and over and linking everything to unnecessary degrees
+	- AI: Don't get scared of complicated-looking stuff
+	- Club: Be less scared of feeling weird. When you're recruiting and raising interest, if you sound like you're embarrassed about your own club, that's a signal that other people would be embarrassed if they were in it too.   
 - A short post on [[Quick Notes on Productivity|productivity]] 
 - The Tesla vs. Waymo comparison [here](https://stratechery.com/2024/elon-dreams-and-bitter-lessons/) nerd-sniped me. I want to read the relevant Tesla and Waymo research papers and learn a little more about sensor technology before writing about some of my thoughts. 
 	- Based purely on priors, though, I agree with Andrej Karpathy. It's easy to say that Waymo is ahead based on what's visible at a surface level, but Waymo has a hardware problem, which is probably going to be harder to solve than Tesla's software problem unless the LiDAR issue just can't be worked around (although apparently Tesla trains with LiDAR). Also, on priors, I agree with Ben Thompson that the history of AI so far has showed that you always want to bet on pure machine learning vs. encoding human knowledge if you're looking at the long-term. 

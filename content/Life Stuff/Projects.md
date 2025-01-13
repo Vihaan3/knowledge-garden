@@ -15,10 +15,12 @@ These are some projects that I'm either working on or planning to work on in the
 				- Grants for cool projects
 	- Re-vamping my coding club entirely
 - Writing
-	- A blog post on [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) I'm quite proud of
+	- A blog post on [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) I'm quite proud of -> took me quite a bit of research and thinking and re-writing 
 	- Setting up this knowledge garden (not technically difficult but seeding this site with notes took quite a while)
+- 40-110 WPM lol
 
 ##### Now (Read as 2025 Goals List)
+- Generally being more technical -> last year was the year of learning+curiosity+wonder for me. This year is the year of doing. 
 - Lots of cool projects in RL
 - USACO Plat
 - Building an organization that can consistently help drive intelligence, curiosity, and agency in the New York area
