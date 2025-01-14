@@ -1,7 +1,28 @@
 These are some projects that I'm either working on or planning to work on in the near future, roughly ordered by time. I use the term projects relatively liberally, so this might not be what you would otherwise expect. See [[Open Questions]] for more future projects I want to work on or want others to work on.
 
+##### Now (Read as 2025 Goals List)
+- Generally being more technical -> last year was the year of learning+curiosity+wonder for me. This year is the year of doing. 
+- Lots of cool projects in RL, hopefully finding a way to do budding "real" research in some field to confirm that it's something I'm interested in for the future
+- USACO Plat
+- Building an organization that can consistently help drive intelligence, curiosity, and agency in the New York area
+	- Building (hopefully) the best high school hackathon in the US outside of the official Hack Club ones -> dream: 48 hours, tons of workshops, sick venue, community built (see Outernet) sometime this year or early next year
+	- Spinning off of this w/ Buildspace-like summer events, You-Ship-We-Ships, and an extensive grant program for super cool projects
+	- Raising enough money to make the organization last (we are not doing too hot on money right now)
+- Writing
+	- Cleaning up these notes substantially
+	- Flesh out a ton of [[Soon Blog Posts|these]] posts and get them onto the blog  
+- Misc Learning 
+	- about econ and history (see next section)
+	- about [Game Theory](https://oyc.yale.edu/economics/econ-159)  
+	- more in Quantum Computing
+- Get much better at guitar solos
+- Generally getting my ideas on [[Social Infrastructure for Sparkly People|social infrastructure]] to hit the real world (report coming July 2026)
+- Reading
+	- A bunch of the ["classic"](https://x.com/patrickc/status/1872592892373487765) novels + Radetzky March + Beware of Pity
+	- [Other](https://finmoorhouse.com/writing/media-2024-b/) [books](https://www.gleech.org/books#five) 
+
 ##### Important Past Projects
-- Passing USACO Bronze
+- Getting to USACO Silver
 - Really going deep in deep learning over the last 7 months
 	- Arena.education
 	- Karpathy's Zero to Hero
@@ -18,27 +39,6 @@ These are some projects that I'm either working on or planning to work on in the
 	- A blog post on [education reform](https://vihaansondhi.substack.com/p/reforming-american-schools) I'm quite proud of -> took me quite a bit of research and thinking and re-writing 
 	- Setting up this knowledge garden (not technically difficult but seeding this site with notes took quite a while)
 - 40-110 WPM lol
-
-##### Now (Read as 2025 Goals List)
-- Generally being more technical -> last year was the year of learning+curiosity+wonder for me. This year is the year of doing. 
-- Lots of cool projects in RL
-- USACO Plat
-- Building an organization that can consistently help drive intelligence, curiosity, and agency in the New York area
-	- Building (hopefully) the best high school hackathon in the US (minus official Hack Club ones) -> dream: 48 hours, tons of workshops, sick venue, community built
-	- Spinning off of this w/ Buildspace-like summer events, You-Ship-We-Ships, and an extensive grant program for super cool projects
-- Writing
-	- Cleaning up these notes substantially
-	- Flesh out a ton of [[Soon Blog Posts|these]] posts and get them onto the blog  
-- Misc Learning 
-	- about econ and history (see next section)
-	- about [Game Theory](https://oyc.yale.edu/economics/econ-159)  
-	- more in Quantum Computing
-- Get much better at guitar solos
-- Generally getting my ideas on [[Social Infrastructure for Sparkly People|social infrastructure]] to hit the real world (report coming July 2026)
-- Reading
-	- A bunch of the ["classic"](https://x.com/patrickc/status/1872592892373487765) novels + Radetzky March + Beware of Pity
-	- [Other](https://finmoorhouse.com/writing/media-2024-b/) [books](https://www.gleech.org/books#five) 
-
 
 ##### Future
 - Learning (if you want to run a study group for any of these, I'd love that)
