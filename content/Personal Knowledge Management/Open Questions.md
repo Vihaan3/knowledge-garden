@@ -15,7 +15,7 @@ These are open questions that I'm personally exploring, and not necessarily open
 		- Cultivating a centralized community of motivated people who go out and do what Tyler Cowen says he does for the fields that they're interested in and then make it public in some central journal?
 - Making an environment that is bad for [[Environments that are good for deliberate practice|deliberate practice]] better for that is incredibly useful.
 - How can we remove the [schlep](https://paulgraham.com/schlep.html) from `insert X` important thing? 
-	- Hack Club Bank is a good examples of schlep-removal for payment processing for high school non-profits
+	- Hack Club Bank is a good example of schlep-removal for payment processing for high school non-profits
 	- Stripe is another good example of schlep-removal for payment processing
 ##### Memory Systems
 - The core ideas behind spaced repetition systems (automated scheduling for something repetitive based on your choices) could and should be generalized to other aspects of life. I explore some of these applications in [Cron for the Mind](https://vihaansondhi.substack.com/p/cron-for-the-mind). What does an effective system that helps you do this look like?
