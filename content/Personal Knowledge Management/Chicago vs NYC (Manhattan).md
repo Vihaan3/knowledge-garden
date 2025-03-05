@@ -1,3 +1,4 @@
+Potentially helpful: https://www.slowboring.com/p/im-still-not-feeling-very-optimistic 
 - I went to school in Manhattan for ~11 years and took a short trip to Chicago in the summer of 2024. I've been really interested in municipal governance since learning about [Robert Moses](https://en.wikipedia.org/wiki/The_Power_Broker), and I want to do some research to understand what could lead to some of the differences. 
 	- Obvious
 		- Chicago is smaller

@@ -7,6 +7,8 @@ tags:
 ---
 *Not a cut-and-dry summary of the book (I already knew a lot of the underlying concepts, so I didn't take notes on anything I knew). It's a mix of (mostly illegible) notes on the book + my thoughts on some specific things, and it's not even in chronological order because all of my post-its got mixed up :(.*
 
+Note: https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/#comments. 
+>> Readers of “Thinking: Fast and Slow” should read the book as a subjective account by an eminent psychologists [sic], rather than an objective summary of scientific evidence. Moreover, ten years have passed and if Kahneman wrote a second edition, it would be very different from the first one. Chapters 3 and 4 would probably just be scrubbed from the book. But that is science. It does make progress, even if progress is often painfully slow in the softer sciences.
 
 General vibes: I thought I'd already known how fallible our brains were, and I mostly read this book in hopes of improving my meta-thinking, but this made me a lot more pessimistic. The extent to which cognitive biases affect us seems almost fantastical.
 
