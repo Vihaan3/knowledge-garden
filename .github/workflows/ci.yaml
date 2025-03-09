@@ -45,7 +45,7 @@ jobs:
         run: npm test
 
       - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo
+        run: npx quartz build --bundleInfo -d docs
 
   publish-tag:
     if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v4' }}
@@ -70,3 +70,4 @@ jobs:
           version: ${{ env.PACKAGE_VERSION }}
           git_commit_sha: ${{ github.sha }}
           git_tag_prefix: "v"
+
